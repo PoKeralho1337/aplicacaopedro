@@ -1,0 +1,109 @@
+{
+    "Independent": [
+        {
+            "id": 1,
+            "brand": "Independent",
+            "model": "44 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 8.25",
+            "price": "49,99 EUR",
+            "imgsrc": "/imagens/independenttruck1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Independentr",
+            "model": "139 MID FORGED HOLLOW TRUCK (SILVER) 8",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/independenttruck2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Independent",
+            "model": "149 MID FORGED HOLLOW TRUCK (SILVER) 8.5",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/independenttruck3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Independent",
+            "model": "X PRIMITIVE 149 STAGE 11 MID TRUCK (GOLD) 8.5",
+            "price": "42,99  EUR",
+            "imgsrc": "/imagens/independenttruck4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Independent",
+            "model": "144 MID REYNOLDS BLOCK HOLLOW TRUCK (SILVER) 8.25",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/independenttruck5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Independent",
+            "model": "X SLAYER 144 STAGE 11 STANDARD TRUCK (SILVER) 8.25",
+            "price": "39,99 EUR",
+            "imgsrc": "/imagens/independenttruck6.png"
+        },
+        {
+            "id": 7,
+            "brand": "Independent",
+            "model": "44 MID FORGED HOLLOW TRUCK (SILVER) 8.25",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/independenttruck7.png"
+        },
+        {
+            "id": 8,
+            "brand": "Independent",
+            "model": "144 STAGE 11 STANDARD DELFINO HOLLOW TRUCK (SILVER RED) 8.25",
+            "price": "42,99 EUR",
+            "imgsrc": "/imagens/independenttruck8.png"
+        },
+        {
+            "id": 9,
+            "brand": "Independent",
+            "model": "X PRIMITIVE 144 STAGE 11 MID TRUCK (GOLD) 8.25",
+            "price": "42,99 EUR",
+            "imgsrc": "/imagens/independenttruck9.png"
+        },
+        {
+            "id": 10,
+            "brand": "Independent",
+            "model": "144 STAGE 11 STANDARD GEERING HOLLOW TRUCK (BLACK RED) 8.25",
+            "price": "42,99 EUR",
+            "imgsrc": "/imagens/independenttruck10.png"
+        },
+        {
+            "id": 11,
+            "brand": "Independent",
+            "model": "169 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 9.125",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/independenttruck11.png"
+        },
+        {
+            "id": 12,
+            "brand": "Independent",
+            "model": "X TOY MACHINE 159 STAGE 11 STANDARD TRUCK (SILVER) 8.75",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/independenttruck12.png"
+        },
+        {
+            "id": 13,
+            "brand": "Independent",
+            "model": "139 MID LEMOS TRUCK (POLISHED) 8",
+            "price": "42,99 EUR",
+            "imgsrc": "/imagens/independenttruck13.png"
+        },
+        {
+            "id": 14,
+            "brand": "Independent",
+            "model": "149 STAGE 11 STANDARD WINKOWSKI BALLER HOLLOW TRUCK (POLISHED) 8.5",
+            "price": "42,99 EUR",
+            "imgsrc": "/imagens/independenttruck14.png"
+        },
+        {
+            "id": 15,
+            "brand": "Independent",
+            "model": "159 STAGE 11 STANDARD FORGED TITANIUM TRUCK (SILVER) 8.75",
+            "price": "64,99 EUR",
+            "imgsrc": "/imagens/independenttruck15.png"
+        }
+    ]
+}

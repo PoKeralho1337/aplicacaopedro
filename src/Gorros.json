@@ -1,0 +1,78 @@
+{
+    "Antix": [
+        {
+            "id": 1,
+            "brand": "Antix",
+            "model": "CAECUS BEANIE (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/antixgorros1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Antix",
+            "model": "ORTO BEANIE (BLACK RED)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/antixgorros2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Antix",
+            "model": "ORTO BEANIE (BLACK BLUE)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/antixgorros3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Antix",
+            "model": "SOL BEANIE (BLACK)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/antixgorros4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Antix",
+            "model": "PRISMA BEANIE (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/antixgorros5.png"
+        }
+
+    ],
+
+    "Carhartt": [
+            {
+                "id": 1,
+                "brand": "Carhartt",
+                "model": "ACRYLIC WATCH BEANIE (BLACK)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/carharttgorros1.png"
+            },
+            {
+                "id": 2,
+                "brand": "Carhartt",
+                "model": "CHASE BEANIE (BLACK GOLD)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/carharttgorros2.png"
+            },
+            {
+                "id": 3,
+                "brand": "Carhartt",
+                "model": "ACRYLIC WATCH BEANIE (ZEUS)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/carharttgorros3.png"
+            },
+            {
+                "id": 4,
+                "brand": "Carhartt",
+                "model": "SOL BEANIE (BLACK)",
+                "price": "19,99  EUR",
+                "imgsrc": "/imagens/carharttgorros4.png"
+            },
+            {
+                "id": 5,
+                "brand": "Carhartt",
+                "model": "PRISMA BEANIE (BLACK)",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/carharttgorros5.png"
+            }  
+    ]
+}

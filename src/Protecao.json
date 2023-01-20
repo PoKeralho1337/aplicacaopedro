@@ -1,0 +1,137 @@
+{
+    "Protecao": [
+        {
+            "id": 1,
+            "brand": "TSG",
+            "model": "SKATE/BMX-INJECTED-COLORS HELMET (WHITE)",
+            "price": "39,99 EUR",
+            "imgsrc": "/imagens/protecao1.png"
+        },
+        {
+            "id": 2,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN WHITE)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao2.png"
+        },
+        {
+            "id": 3,
+            "brand": "TSG",
+            "model": "DAWN FLEX-SOLID-COLORS HELMET (BLACK)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/protecao3.png"
+        },
+        {
+            "id": 4,
+            "brand": "TSG",
+            "model": "META-SOLID-COLORS HELMET (SATIN OXBLOOD)",
+            "price": "64,99  EUR",
+            "imgsrc": "/imagens/protecao4.png"
+        },
+        {
+            "id": 5,
+            "brand": "TSG",
+            "model": "SUPERLIGHT-SOLID-COLORS II HELMET (SATIN BLACK)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/protecao5.png"
+        },
+        {
+            "id": 6,
+            "brand": "TSG",
+            "model": "SUPERLIGHT-SOLID-COLORS HELMET (SATIN DARK SHADOW)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/protecao6.png"
+        },
+        {
+            "id": 7,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN BLUE)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao7.png"
+        },
+        {
+            "id": 8,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN OCEAN DEPTHS)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao8.png"
+        },
+        {
+            "id": 9,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN OLIVE)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao9.png"
+        },
+        {
+            "id": 10,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN PORCELAIN BLUE)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao10.png"
+        },
+        {
+            "id": 11,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN OXBLOOD)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao11.png"
+        },
+        {
+            "id": 12,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN SAKURA)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao12.png"
+        },
+        {
+            "id": 13,
+            "brand": "TSG",
+            "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN DARK BLACK)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/protecao13.png"
+        },
+        {
+            "id": 14,
+            "brand": "TSG",
+            "model": "SUPERLIGHT-SOLID-COLORS HELMET (SATIN SKYRIDE)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/protecao14.png"
+        },
+        {
+            "id": 15,
+            "brand": "TSG",
+            "model": "META-SOLID-COLORS HELMET (SATIN BLACK)",
+            "price": "64,99 EUR",
+            "imgsrc": "/imagens/protecao15.png"
+        },
+        {
+            "id": 16,
+            "brand": "Pro-Tec",
+            "model": "THE CLASSIC HELMET (GLOSS WHITE)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/protecao16.png"
+        },
+        {
+            "id": 17,
+            "brand": "Pro-Tec",
+            "model": "OLD SCHOOL HELMET (GLOSS BLACK)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/protecao17.png"
+        },
+        {
+            "id": 18,
+            "brand": "Pro-Tec",
+            "model": "CLASSIC HELMET (MATTE BLACK)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/protecao18.png"
+        },
+        {
+            "id": 19,
+            "brand": "Pro-Tec",
+            "model": "THE CLASSIC HELMET (MATTE BLUE)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/protecao19.png"
+        }
+    ]
+}

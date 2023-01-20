@@ -1,0 +1,109 @@
+{
+    "Grizzlylixa": [
+        {
+            "id": 1,
+            "brand": "Grizzly",
+            "model": "GRIPPIEST 9 GRIPTAPE (BLACK)",
+            "price": "6,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Grizzly",
+            "model": "STAMP PRINT 9 GRIPTAPE (BLACK WHITE)",
+            "price": "9,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Grizzly",
+            "model": "KUMA GRIPTAPE (BLACK)",
+            "price": "16,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Grizzly",
+            "model": "SANTIAGO SIGNATURE 9 GRIPTAPE (BLACK GREEN)",
+            "price": "15,99  EUR",
+            "imgsrc": "/imagens/grizzlylixa4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Grizzly",
+            "model": "DON'T BE SNOTTY 9 GRIPTAPE (MULTI)",
+            "price": "15,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Grizzly",
+            "model": "HOT ROD 9 GRIPTAPE (BLACK)",
+            "price": "15,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa6.png"
+        },
+        {
+            "id": 7,
+            "brand": "Grizzly",
+            "model": "BLOOM STAMP 9 GRIPTAPE (PURPLE)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa7.png"
+        },
+        {
+            "id": 8,
+            "brand": "Grizzly",
+            "model": "RANGE STAMP 9 GRIPTAPE (NAVY)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa8.png"
+        },
+        {
+            "id": 9,
+            "brand": "Grizzly",
+            "model": "TWO FACED 9 GRIPTAPE (BLUE)",
+            "price": "15,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa9.png"
+        },
+        {
+            "id": 10,
+            "brand": "Grizzly",
+            "model": "TIE-DYE STAMP #5 9 GRIPTAPE (MULTI)",
+            "price": "15,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa10.png"
+        },
+        {
+            "id": 11,
+            "brand": "Grizzly",
+            "model": "TIE DYE STAMP #1 9 GRIPTAPE",
+            "price": "15,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa11.png"
+        },
+        {
+            "id": 12,
+            "brand": "Grizzly",
+            "model": "STAMPED NECESSITIES 9 GRIPTAPE (GREEN RED)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa12.png"
+        },
+        {
+            "id": 13,
+            "brand": "Grizzly",
+            "model": "STAMPED NECESSITIES 9 GRIPTAPE (RED)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa13.png"
+        },
+        {
+            "id": 14,
+            "brand": "Grizzly",
+            "model": "TIE DYE STAMP #4 9 GRIPTAPE (MULTI)",
+            "price": "15,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa14.png"
+        },
+        {
+            "id": 15,
+            "brand": "Grizzly",
+            "model": "STAMPED NECESSITIES 9 GRIPTAPE (ORANGE)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/grizzlylixa15.png"
+        }
+    ]
+}

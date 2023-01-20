@@ -1,0 +1,119 @@
+{
+    "Adidas": [
+        {
+            "id": 1,
+            "brand": "Adidas",
+            "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (WHITE BLACK) 3 PACK",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/adidasmeias1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Adidas",
+            "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (BLACK WHITE) 3 PACK",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/adidasmeias2.png"
+        }
+    ],
+
+    "Antix": [
+        {
+            "id": 1,
+            "brand": "Antix",
+            "model": "CARITAS SOCKS US 6-13 (BLACK)",
+            "price": "9,99 EUR",
+            "imgsrc": "/imagens/antixmeias1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Antix",
+            "model": "VAUX SOCKS US 6-13 (BLACK)",
+            "price": "9,99 EUR",
+            "imgsrc": "/imagens/antixmeias2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Antix",
+            "model": "PANTERA SOCKS US 6-13 (WHITE)",
+            "price": "9,99 EUR",
+            "imgsrc": "/imagens/antixmeias3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Antix",
+            "model": "SOL SOCKS US 6-13 (WHITE)",
+            "price": "9,99 EUR",
+            "imgsrc": "/imagens/antixmeias4.png"
+        }
+                   
+    ],
+
+    "Dickies": [
+        {
+            "id": 1,
+            "brand": "Dickies",
+            "model": "VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (WHITE) 3 PACK",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/dickiesmeias1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Dickies",
+            "model": " VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (BLACK) 3 PACK",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/dickiesmeias2.png"
+        }
+
+    ],
+
+    "Element": [
+        {
+            "id": 1,
+            "brand": "Element",
+            "model": "X STAR WARS GALAXY SOCKS US 8-11 (BLUE)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/elementmeias1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Element",
+            "model": "X PUBLIC ENEMY SKATE SOCKS US 8-11 (WHITE)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/elementmeias2.png"
+        }
+
+    ],
+
+    "Nike": [
+        {
+            "id": 1,
+            "brand": "Nike",
+            "model": "CUSHION SOCKS US 2-15 (BLACK WHITE) 3 PACK",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/nikemeias1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Nike",
+            "model": "CUSHION SOCKS US 2-15 (WHITE BLACK) 3 PACK",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/nikemeias2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Nike",
+            "model": "EVERYDAY PLUS SOCKS US 5-11 (MULTI)",
+            "price": "17,99 EUR",
+            "imgsrc": "/imagens/nikemeias3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Nike",
+            "model": "EVERYDAY MAX LIGHTWEIGHT SOCKS US 3-12 (MULTI COLOR) 3 PACK",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/nikemeias4.png"
+        }
+    ]    
+    
+}
+

@@ -1,0 +1,111 @@
+{
+    "Thrasherhoodies": [
+        {
+            "id": 1,
+            "brand": "Thrasher",
+            "model": "COP CAR HOODIE (BLACK)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie1.png"
+        },
+        {
+            "id" :2,
+            "brand": "Thrasher",
+            "model": "OUTLINE SWEATSHIRT (BLACK RED)",
+            "price": "64,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Thrasher",
+            "model": "BURN IT DOWN HOODIE (DARK CHOCOLATE)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie3.png"
+        },
+        {
+            "id" :4,
+            "brand": "Thrasher",
+            "model": "SKATE MAG SWEATSHIRT (RED)",
+            "price": "64,99  EUR",
+            "imgsrc": "/imagens/thrasherhoodie4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Thrasher",
+            "model": " FLAME HOODIE (WHITE)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie5.png"
+        },
+        {
+            "id" :6,
+            "brand": "Thrasher",
+            "model": "DOUBLE FLAME HOODIE (BLACK)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie6.png"
+        },
+        {
+            "id": 7,
+            "brand": "Thrasher",
+            "model": "BBQ REDUX HOODIE (BLACK)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie7.png"
+        },
+        {
+            "id" :8,
+            "brand": "Thrasher",
+            "model": " FLAME HOODIE (BLACK BLACK)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie8.png"
+        },
+        {
+            "id": 9,
+            "brand": "Thrasher",
+            "model": "FLAME HOODIE (BLACK)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie9.png"
+        },
+        {
+            "id" :10,
+            "brand": "Thrasher",
+            "model": " FLAME HOODIE (BLACK BLUE)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie10.png"
+        },
+        {
+            "id": 11,
+            "brand": "Thrasher",
+            "model": "FLAME HOODIE (NAVY)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie11.png"
+        },
+        {
+            "id" :12,
+            "brand": "Thrasher",
+            "model": "SKATEGOAT HOODIE (BLACK WHITE)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie12.png"
+        },
+        {
+            "id": 13,
+            "brand": "Thrasher",
+            "model": "FIRE LOGO HOODIE (NAVY)",
+            "price": "79,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie13.png"
+        },
+        {
+            "id" :14,
+            "brand": "Thrasher",
+            "model": "TRUCK 1 HOODIE (BLACK)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie14.png"
+        },
+        {
+            "id": 15,
+            "brand": "Thrasher",
+            "model": "DOUBLE FLAME NEON HOODIE (BLACK)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/thrasherhoodie15.png"
+        }
+       
+
+    ]
+}
