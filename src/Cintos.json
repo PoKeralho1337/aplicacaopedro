@@ -1,0 +1,117 @@
+{
+    "Antix": [
+        {
+            "id": 1,
+            "brand": "Antix",
+            "model": "ANTIX PRISMA BELT (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/antixcintos1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Antix",
+            "model": "ANTIX ELASTIC BELT (BLACK)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/antixcintos2.png"
+        }
+    ],
+
+    "Carhartt": [
+            {
+                "id": 1,
+                "brand": "Carhartt",
+                "model": "CARHARTT WIP SCRIPT TONAL BELT (BLACK)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/carharttcintos1.png"
+            },
+            {
+                "id": 2,
+                "brand": "Carhartt",
+                "model": "CARHARTT WIP CLIP CHROME BELT (BLACK)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/carharttcintos2.png"
+            },
+            {
+                "id": 3,
+                "brand": "Carhartt",
+                "model": "CARHARTT WIP SCRIPT LEATHER BELT (BLACK)",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/carharttcintos3.png"
+            }
+    ],
+
+    "Dickies": [
+        {
+            "id": 1,
+            "brand": "Dickies",
+            "model": "DICKIES BROOKSTON BELT (CHARCOAL GREY)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/dickiescintos1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Dickies",
+            "model": "DICKIES BROOKSTON BELT (BLACK)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/dickiescintos2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Dickies",
+            "model": "DICKIES ORCUTT BELT (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/dickiescintos3.png"
+        }
+],
+
+"Element": [
+    {
+        "id": 1,
+        "brand": "Element",
+        "model": "ELEMENT CALIBAN BELT (FLINT BLACK)",
+        "price": "29,99 EUR",
+        "imgsrc": "/imagens/elementcintos1.png"
+    },
+    {
+        "id": 2,
+        "brand": "Element",
+        "model": "ELEMENT BEYOND BELT (ARMY)",
+        "price": "19,99 EUR",
+        "imgsrc": "/imagens/elementcintos2.png"
+    },
+    {
+        "id": 3,
+        "brand": "Element",
+        "model": "ELEMENT POLOMA BELT (BLACK)",
+        "price": "44,99 EUR",
+        "imgsrc": "/imagens/elementcintos3.png"
+    }
+],
+
+"Independent": [
+    {
+        "id": 1,
+        "brand": "Independent",
+        "model": "INDEPENDENT RTB SUMMIT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/independentcintos1.png"
+    },
+    {
+        "id": 2,
+        "brand": "Independent",
+        "model": "INDEPENDENT SPAN CONCEALED BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/independentcintos2.png"
+    }
+],
+
+"Santa Cruz": [
+    {
+        "id": 1,
+        "brand": "Santa Cruz",
+        "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/santacruzcintos1.png"
+    }
+]
+}

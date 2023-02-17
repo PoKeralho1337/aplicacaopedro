@@ -1,0 +1,204 @@
+{
+    "Adidas": [
+        {
+            "id": 1,
+            "brand": "Adidas",
+            "model": "Adidas Artist G T-Sshirt (Chulky Brown Multicolor)",
+            "price": "32,99 EUR",
+            "imgsrc": "/imagens/adidastshirt1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Adidas",
+            "model": "Adidas Skateboarding X Maxallure Ringer T-Shirt (White Bluebird)",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/adidastshirt2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Adidas",
+            "model": "Adidas G Shmoo T-Shirt (Core White Multicolor)",
+            "price": "32,99 EUR",
+            "imgsrc": "/imagens/adidastshirt3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Adidas",
+            "model": "Adidas Artist G T-Sshirt (White Multicolor II)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidastshirt4.png"
+        }
+    ],
+    "Carhartt": [
+        {
+            "id": 1,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip W' Chase Oorganic T-Shirt (White Gold)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip W' Chester T-Shirt (Black)",
+            "price": "34,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Carhartt",
+            "model": "ANTIX PRISMA BELT (BLACK)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Duck Pond T-Shirt (Black)",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Duck Pond T-Shirt (Ale)",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Dream Factory T-Shirt (Black)",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt6.png"
+        },
+        {
+            "id": 7,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Script T-Shirt (Enzian Misty Sky)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt7.png"
+        },
+        {
+            "id":8,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip New Tools T-Shirt (Black)",
+            "price": "44,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt8.png"
+        },
+        {
+            "id": 9,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Nice Trip T-Shirt (Black)",
+            "price": "39,99 EUR",
+            "imgsrc": "/imagens/carhartttshirt9.png"
+        }
+    ],
+
+    "Baker": [
+            {
+                "id": 1,
+                "brand": "Baker",
+                "model": "Baker Brand Logo T-Shirt (White)",
+                "price": "39,99 EUR",
+                "imgsrc": "/imagens/bakertshirt1.png"
+            },
+            {
+                "id": 2,
+                "brand": "Baker",
+                "model": "Baker Brand Logo T-Shirt (Black White)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/bakertshirt2.png"
+            }
+    ],
+
+    "Dickies": [
+        {
+            "id": 1,
+            "brand": "Dickies",
+            "model": "Dickies Mount Vista T-Shirt (White)",
+            "price": "34,99 EUR",
+            "imgsrc": "/imagens/dickiestshirt1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Dickies",
+            "model": "DICKIES BROOKSTON BELT (BLACK)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/dickiestshirts2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Dickies",
+            "model": "DICKIES ORCUTT BELT (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/dickiescintos3.png"
+        }
+],
+"Element": [
+    {
+        "id": 1,
+        "brand": "Independent",
+        "model": "INDEPENDENT RTB SUMMIT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/independentcintos1.png"
+    },
+    {
+        "id": 2,
+        "brand": "Independent",
+        "model": "INDEPENDENT SPAN CONCEALED BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/independentcintos2.png"
+    }
+],
+
+"Levi's": [
+    {
+        "id": 1,
+        "brand": "Santa Cruz",
+        "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/santacruzcintos1.png"
+    }
+],
+
+"Nike": [
+    {
+        "id": 1,
+        "brand": "Santa Cruz",
+        "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/santacruzcintos1.png"
+    }
+],
+
+"Polar": [
+    {
+        "id": 1,
+        "brand": "Santa Cruz",
+        "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/santacruzcintos1.png"
+    }
+],
+
+"Santa Cruz": [
+    {
+        "id": 1,
+        "brand": "Santa Cruz",
+        "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/santacruzcintos1.png"
+    }
+],
+
+"The North Face": [
+    {
+        "id": 1,
+        "brand": "Santa Cruz",
+        "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "price": "21,99 EUR",
+        "imgsrc": "/imagens/santacruzcintos1.png"
+    }
+]
+}

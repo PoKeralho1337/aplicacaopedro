@@ -1,0 +1,82 @@
+{
+    "Independent": [
+        {
+            "id": 1,
+            "brand": "Independent",
+            "model": "INDEPENDENT BEARING SAVER SKATE-TOOL (BLACK)",
+            "price": "17,99 EUR",
+            "imgsrc": "/imagens/independentferramenta1.png"
+        }
+    ],
+    "Pig": [
+        {
+            "id": 1,
+            "brand": "Pig",
+            "model": "PIG STANDARD SKATE-TOOL INKL. GEWINDESCHNEIDER (ASSORTED)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/pigferramenta1.png"
+        }
+    ],
+    "Silver": [
+        {
+            "id": 1,
+            "brand": "Silver",
+            "model": "SILVER BASIC SKATE-TOOL (METALIC GOLD)",
+            "price": "31,99 EUR",
+            "imgsrc": "/imagens/silverferramenta1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Silver",
+            "model": "SILVER BASIC SKATE-TOOL (ARMY GREEN)",
+            "price": "31,99 EUR",
+            "imgsrc": "/imagens/silverferramenta2.png"
+        }
+    ],
+"Spitfire": [
+        {
+            "id": 1,
+            "brand": "Spitfire",
+            "model": "SPITFIRE T3 SKATE-TOOL",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/spitfireferramenta1.png"
+        }
+    ],
+    "SkateDeluxe": [
+        {
+            "id": 1,
+            "brand": "SkateDeluxe",
+            "model": "SKATEDELUXE MULTI SKATE-TOOL (BLACK)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/skatedeluxeferramenta1.png"
+        },
+        {
+            "id": 2,
+            "brand": "SkateDeluxe",
+            "model": "SKATEDELUXE ULTRA SKATE-TOOL (WHITE)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/skatedeluxeferramenta2.png"
+        },
+        {
+            "id": 3,
+            "brand": "SkateDeluxe",
+            "model": "SKATEDELUXE BASIC SKATE-TOOL (ALL BLACK)",
+            "price": "12,99 EUR",
+            "imgsrc": "/imagens/skatedeluxeferramenta3.png"
+        },
+        {
+            "id": 4,
+            "brand": "SkateDeluxe",
+            "model": "SKATEDELUXE BASIC SKATE-TOOL (WHITE BLACK)",
+            "price": "12,99 EUR",
+            "imgsrc": "/imagens/skatedeluxeferramenta4.png"
+        },
+        {
+            "id": 5,
+            "brand": "SkateDeluxe",
+            "model": "SKATEDELUXE ULTRA SKATE-TOOL (RED)",
+            "price": "14,99 EUR",
+            "imgsrc": "/imagens/skatedeluxeferramenta5.png"
+        }
+    ]
+}

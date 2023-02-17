@@ -16,7 +16,7 @@ import Tabuas from './Tabuas.js';
 import Rolamentos from './Rolamentos.js';
 import Trucks from './Trucks.js';
 import Rodas from './Rodas.js';
-import Baker from './Baker.js';
+import Antix from './Antix.js';
 import Independent from './Independent';
 import Thrasher from './Thrasher';
 import Vans from './Vans';
@@ -89,9 +89,9 @@ function App() {
                   <div>
                   </div>
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/Baker">
+                <NavDropdown.Item href="/Antix">
                   <div>
-                    <img src='/imagens/baker.jpg' width="60" heigh='60' ></img> Baker
+                    <img src='/imagens/antix.png' width="60" heigh='60' ></img> Antix
                   </div>
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/Thrasher">
@@ -214,10 +214,11 @@ function App() {
         <Route path='/Rolamentos' element={<Rolamentos />} />
         <Route path='/Lixa' element={<Lixa />} />
         <Route path='/Rodas' element={<Rodas />} />
-        <Route path='/Baker' element={<Baker />} />
+        <Route path='/Antix' element={<Antix />} />
         <Route path='/Polar' element={<Polar />} />
         <Route path='/Vans' element={<Vans />} />
         <Route path='/Element' element={<Element />} />
+        <Route path='/Thrasher' element={<Thrasher />} />
         <Route path='/Independent' element={<Independent />} />
         <Route path='/Tshirt' element={<Tshirt />} />
         <Route path='/Hoodies' element={<Hoodies />} />

@@ -1,5 +1,5 @@
 {
-    "Antix": [
+    "Antix1": [
         {
             "id": 1,
             "brand": "Antix",
@@ -24,15 +24,15 @@
         {
             "id": 4,
             "brand": "Antix",
-            "model": "SOL BEANIE (BLACK)",
-            "price": "19,99  EUR",
+            "model": "SCRIPT BEANIE (BLACK WHITE)",
+            "price": "24,99  EUR",
             "imgsrc": "/imagens/antixgorros4.png"
         },
         {
             "id": 5,
             "brand": "Antix",
-            "model": "PRISMA BEANIE (BLACK)",
-            "price": "19,99 EUR",
+            "model": "ACRYLIC WATCH BEANIE (TAMARIND)",
+            "price": "24,99 EUR",
             "imgsrc": "/imagens/antixgorros5.png"
         }
 

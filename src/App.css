@@ -53,3 +53,19 @@
 color: white;
 
 }
+
+.App-listar {
+list-style: none;
+}
+
+ul{
+  list-style: none;
+}
+
+.App-border{
+  border: 1px solid black;
+}
+
+img{
+  float: left;
+}

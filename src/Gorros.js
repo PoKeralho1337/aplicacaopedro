@@ -18,12 +18,12 @@ function Gorros() {
       <header className="App-header">
 
       </header>
-      <body className='App-body'>
+      <body className='App-body App-Card.Body App-listar'>
         <ul>
           <Container>
           <Row xs= {1} md={4}>
           {
-            data.Antix.map(item => (
+            data.Antix1.map(item => (
               <li key={item.id}> 
                 <Figure>
                   <Figure.Image
