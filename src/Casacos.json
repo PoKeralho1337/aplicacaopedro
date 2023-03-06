@@ -3,22 +3,22 @@
         {
             "id": 1,
             "brand": "Adidas",
-            "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
-            "price": "29,99 EUR",
+            "model": "Adidas Superfire TK Jacket (Black)",
+            "price": "84,99 EUR",
             "imgsrc": "/imagens/adidascasacos1.png"
         },
         {
             "id": 2,
             "brand": "Adidas",
-            "model": "ANTIX TEATRUM DAD CAP (BLACK)",
-            "price": "29,99 EUR",
+            "model": "Adidas Insulated Vest (Shadow Grenn Cardboard Black)",
+            "price": "74,99 EUR",
             "imgsrc": "/imagens/adidascasacos2.png"
         },
         {
             "id": 3,
             "brand": "Adidas",
-            "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
-            "price": "29,99 EUR",
+            "model": "Adidas TJ Velour Jacket (Black Bluebird Matte Gold)",
+            "price": "109,99 EUR",
             "imgsrc": "/imagens/adidascasacos3.png"
         }
     ],
@@ -26,36 +26,36 @@
         {
             "id": 1,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Antix Fleece Vest (Black)",
+            "price": "64,99 EUR",
             "imgsrc": "/imagens/antixcasacos1.png"
         },
         {
             "id": 2,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Antix Carta Fleece Jacket (Black)",
+            "price": "69,99 EUR",
             "imgsrc": "/imagens/antixcasacos2.png"
         },
         {
             "id": 3,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Antix Armor Vest (Black)",
+            "price": "84,99 EUR",
             "imgsrc": "/imagens/antixcasacos3.png"
         },
         {
             "id": 4,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Antix Caldo Puffer Jacket (Black)",
+            "price": "139,99  EUR",
             "imgsrc": "/imagens/antixcasacos4.png"
         },
         {
             "id": 5,
             "brand": "Antix",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Antix Sherpa Fleece Half Zip Jacket (Black)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/antixcasacos5.png"
         }
     ],
@@ -63,43 +63,43 @@
         {
             "id": 1,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Carhartt Wip Jackson Jacket (Ammonite)",
+            "price": "129,99 EUR",
             "imgsrc": "/imagens/carharttcasacos1.png"
         },
         {
             "id": 2,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Carhartt Wip Windbreaker Pullover Jacket (Black White)",
+            "price": "159,99 EUR",
             "imgsrc": "/imagens/carharttcasacos2.png"
         },
         {
             "id": 3,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Carhartt Wip Prentis Liner Jacket (Dusty H Brown Soot Black)",
+            "price": "179,99 EUR",
             "imgsrc": "/imagens/carharttcasacos3.png"
         },
         {
             "id": 4,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Carhartt Wip Danville Jacket (Black White)",
+            "price": "279,99  EUR",
             "imgsrc": "/imagens/carharttcasacos4.png"
         },
         {
             "id": 5,
             "brand": "Carhartt",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Carhartt Wip Nimbus Pullover Winter Jacket (Dark Cedar)",
+            "price": "169,99 EUR",
             "imgsrc": "/imagens/carharttcasacos5.png"
         },
         {
             "id": 6,
             "brand": "Carhartt",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Carhartt Wip Ginnis Jacket (Ginnis Check Deep Teal)",
+            "price": "189,99 EUR",
             "imgsrc": "/imagens/carharttcasacos6.png"
         }
     ],
@@ -107,43 +107,43 @@
         {
             "id": 1,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Dickies Waldenbrug Jacket (Black)",
+            "price": "134,99 EUR",
             "imgsrc": "/imagens/dickiescasacos1.png"
         },
         {
             "id": 2,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Dickies Oakport Coach Jacket (Khaki)",
+            "price": "69,99 EUR",
             "imgsrc": "/imagens/dickiescasacos2.png"
         },
         {
             "id": 3,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Dickies Duck Canvas Smr Vest (Black)",
+            "price": "84,99 EUR",
             "imgsrc": "/imagens/dickiescasacos3.png"
         },
         {
             "id": 4,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Dickies Glacier View Parka Jacket (Black)",
+            "price": "169,99  EUR",
             "imgsrc": "/imagens/dickiescasacos4.png"
         },
         {
             "id": 5,
             "brand": "Dickies",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Dickies Red Chute Sherpa Jacket (Ecru)",
+            "price": "94,99 EUR",
             "imgsrc": "/imagens/dickiescasacos5.png"
         },
         {
             "id": 6,
             "brand": "Dickies",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Dickies New Sarpy Jacket (Charcoal Grey)",
+            "price": "119,99 EUR",
             "imgsrc": "/imagens/dickiescasacos6.png"
         }
     ],
@@ -151,73 +151,66 @@
         {
             "id": 1,
             "brand": "Element",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Element Field Parka Jacket (Forest Night)",
+            "price": "194,99 EUR",
             "imgsrc": "/imagens/elementcasacos1.png"
         },
         {
             "id": 2,
             "brand": "Element",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Element Dulcey Light Jacket (Flint Black)",
+            "price": "154,99 EUR",
             "imgsrc": "/imagens/elementcasacos2.png"
         },
         {
             "id": 3,
             "brand": "Element",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Element X MilletT Mountain Limestone Fleece Jacket (Saphir)",
+            "price": "149,99 EUR",
             "imgsrc": "/imagens/elementcasacos3.png"
         },
         {
             "id": 4,
             "brand": "Element",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Element Alder Jacket (Flint Black)",
+            "price": "119,99  EUR",
             "imgsrc": "/imagens/elementcasacos4.png"
         },
         {
             "id": 5,
             "brand": "Element",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Element Atelier Alder Puff Jacket (Off White)",
+            "price": "189,99 EUR",
             "imgsrc": "/imagens/elementcasacos5.png"
-        },
-        {
-            "id": 6,
-            "brand": "Element",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/elementcasacos6.png"
         }
     ],
     "Nike": [
         {
             "id": 1,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Nike SB Classics Woven Twill Premium Jacket (Black)",
+            "price": "74,99 EUR",
             "imgsrc": "/imagens/nikecasacos1.png"
         },
         {
             "id": 2,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Nike SB Padded Jacket (Off Noir)",
+            "price": "169,99 EUR",
             "imgsrc": "/imagens/nikecasacos2.png"
         },
         {
             "id": 3,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Nike SB Sportwear Filled Work Jacket (Black)",
+            "price": "149,99 EUR",
             "imgsrc": "/imagens/nikecasacos3.png"
         },
         {
             "id": 4,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Nike SB Sportwear Filled Work Jacket (Oxen Brown)",
+            "price": "149,99  EUR",
             "imgsrc": "/imagens/nikecasacos4.png"
         },
         {
