@@ -1,0 +1,245 @@
+{
+    "Adidas": [
+        {
+            "id": 1,
+            "brand": "Adidas",
+            "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidascalcoes1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Adidas",
+            "model": "ANTIX TEATRUM DAD CAP (BLACK)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidascalcoes2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Adidas",
+            "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidascalcoes3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Adidas",
+            "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
+            "price": "29,99  EUR",
+            "imgsrc": "/imagens/adidascalcoes4.png"
+        }
+    ],
+    "Antix": [
+        {
+            "id": 1,
+            "brand": "Antix",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/antixcalcoes1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Antix",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/antixcalcoes2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Antix",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/antixcalcoes3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Antix",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/antixcalcoes4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Antix",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/antixcalcoes5.png"
+        }
+    ],
+    "Carhartt": [
+        {
+            "id": 1,
+            "brand": "Carhartt",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/carharttcalcoes1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Carhartt",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/carharttcalcoes2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Carhartt",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/carharttcalcoes3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Carhartt",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/carharttcalcoes4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Carhartt",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/carharttcalcoes5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Carhartt",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/carharttcalcoes6.png"
+        }
+    ],
+    "Dickies": [
+        {
+            "id": 1,
+            "brand": "Dickies",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikechapeus1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Dickies",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikechapeus2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Dickies",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/nikechapeus3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Dickies",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/nikechapeus4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Dickies",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikechapeus5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Dickies",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikechapeus5.png"
+        }
+    ],
+    "Nike": [
+        {
+            "id": 1,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikechapeus1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikechapeus2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/nikechapeus3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/nikechapeus4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Nike",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikechapeus5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Nike",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikechapeus5.png"
+        }
+    ],
+    "Rell": [
+        {
+            "id": 1,
+            "brand": "Rell",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikechapeus1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Rell",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikechapeus2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Rell",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/nikechapeus3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Rell",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/nikechapeus4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Rell",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikechapeus5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Rell",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikechapeus5.png"
+        }
+    ]
+}

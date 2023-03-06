@@ -1,0 +1,201 @@
+{
+    "Adidas": [
+        {
+            "id": 1,
+            "brand": "Adidas",
+            "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidassapatos1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Adidas",
+            "model": "ANTIX TEATRUM DAD CAP (BLACK)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidassapatos2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Adidas",
+            "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
+            "price": "29,99 EUR",
+            "imgsrc": "/imagens/adidassapatos3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Adidas",
+            "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
+            "price": "29,99  EUR",
+            "imgsrc": "/imagens/adidassapatos4.png"
+        }
+    ],
+    "DC": [
+        {
+            "id": 1,
+            "brand": "DC",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/dcsapatos1.png"
+        },
+        {
+            "id": 2,
+            "brand": "DC",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/dcsapatos2.png"
+        },
+        {
+            "id": 3,
+            "brand": "DC",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/dcsapatos3.png"
+        },
+        {
+            "id": 4,
+            "brand": "DC",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/dcsapatos4.png"
+        },
+        {
+            "id": 5,
+            "brand": "DC",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/dcsapatos5.png"
+        }
+    ],
+    "NewBalance": [
+        {
+            "id": 1,
+            "brand": "New Balance",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/newbalance1.png"
+        },
+        {
+            "id": 2,
+            "brand": "New Balance",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/newbalance2.png"
+        },
+        {
+            "id": 3,
+            "brand": "New Balance",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/newbalance3.png"
+        },
+        {
+            "id": 4,
+            "brand": "New Balance",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/newbalance4.png"
+        },
+        {
+            "id": 5,
+            "brand": "New Balance",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/newbalance5.png"
+        },
+        {
+            "id": 6,
+            "brand": "New Balance",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/newbalance6.png"
+        }
+    ],
+    "Nike": [
+        {
+            "id": 1,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikesapatos1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/nikesapatos2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/nikesapatos3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Nike",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/nikesapatos4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Nike",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikesapatos5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Nike",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/nikesapatos6.png"
+        }
+    ],
+    "Vans": [
+        {
+            "id": 1,
+            "brand": "Vans",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/vanssapatos1.png"
+        },
+        {
+            "id": 2,
+            "brand": "Vans",
+            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+            "price": "22,99 EUR",
+            "imgsrc": "/imagens/vanssapatos2.png"
+        },
+        {
+            "id": 3,
+            "brand": "Vans",
+            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+            "price": "19,99 EUR",
+            "imgsrc": "/imagens/vanssapatos3.png"
+        },
+        {
+            "id": 4,
+            "brand": "Vans",
+            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+            "price": "19,99  EUR",
+            "imgsrc": "/imagens/vanssapatos4.png"
+        },
+        {
+            "id": 5,
+            "brand": "Vans",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/vanssapatoss5.png"
+        },
+        {
+            "id": 6,
+            "brand": "Vans",
+            "model": "FAUX DENIM CAP (SANDED GOLD)",
+            "price": "24,99 EUR",
+            "imgsrc": "/imagens/vanssapatos6.png"
+        }
+    ]
+}
