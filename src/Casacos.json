@@ -216,15 +216,15 @@
         {
             "id": 5,
             "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Nike SB Harrington Cord Jacket (Light Iron Ore)",
+            "price": "119,99 EUR",
             "imgsrc": "/imagens/nikecasacos5.png"
         },
         {
             "id": 6,
             "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Nike SB X MLB Varsity Jacket (Deep Royal Blue)",
+            "price": "129,99 EUR",
             "imgsrc": "/imagens/nikecasacos6.png"
         }
     ],
@@ -232,43 +232,43 @@
         {
             "id": 1,
             "brand": "The North Face",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "The North Face Denali Jacket (TNF Black)",
+            "price": "159,99 EUR",
             "imgsrc": "/imagens/northfacecasacos1.png"
         },
         {
             "id": 2,
             "brand": "The North Face",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "The North Face Seasonal Mountain Jacket (TNF Black)",
+            "price": "109,99 EUR",
             "imgsrc": "/imagens/northfacecasacos2.png"
         },
         {
             "id": 3,
             "brand": "The North Face",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "The North Face Seasonal Mountain Jacket (Black Printed)",
+            "price": "109,99 EUR",
             "imgsrc": "/imagens/northfacecasacos3.png"
         },
         {
             "id": 4,
             "brand": "The North Face",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "The North Face Denali VESTVest (TNF Black)",
+            "price": "139,99  EUR",
             "imgsrc": "/imagens/northfacecasacos4.png"
         },
         {
             "id": 5,
             "brand": "The North Face",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "The North Face Element Jacket (TNF Black)",
+            "price": "199,99 EUR",
             "imgsrc": "/imagens/northfacecasacos5.png"
         },
         {
             "id": 6,
             "brand": "The North Face",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "The North Face Himalayn Inspired Jacket (Black)",
+            "price": "229,99 EUR",
             "imgsrc": "/imagens/northfacecasacos6.png"
         }
     ]

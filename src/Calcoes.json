@@ -33,36 +33,36 @@
         {
             "id": 1,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Antix Slack Cord Shorts (Brown)",
+            "price": "59,99 EUR",
             "imgsrc": "/imagens/antixcalcoes1.png"
         },
         {
             "id": 2,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Antix Slack Cord Shorts (Black)",
+            "price": "59,99 EUR",
             "imgsrc": "/imagens/antixcalcoes2.png"
         },
         {
             "id": 3,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Antix Slack Cord Shorts (Light Blue)",
+            "price": "54,99 EUR",
             "imgsrc": "/imagens/antixcalcoes3.png"
         },
         {
             "id": 4,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Antix Slack Carpenter Shorts (Light Blue Contrast)",
+            "price": "59,99  EUR",
             "imgsrc": "/imagens/antixcalcoes4.png"
         },
         {
             "id": 5,
             "brand": "Antix",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Antix Slack Cargo Shorts (Sand)",
+            "price": "59,99 EUR",
             "imgsrc": "/imagens/antixcalcoes5.png"
         }
     ],
@@ -70,8 +70,8 @@
         {
             "id": 1,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Carhartt Wip Regular Cargo Columbia Shorts (Black Rinse)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes1.png"
         },
         {
