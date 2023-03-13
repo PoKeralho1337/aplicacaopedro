@@ -1,34 +1,4 @@
 {
-    "Adidas": [
-        {
-            "id": 1,
-            "brand": "Adidas",
-            "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
-            "price": "29,99 EUR",
-            "imgsrc": "/imagens/adidascalcoes1.png"
-        },
-        {
-            "id": 2,
-            "brand": "Adidas",
-            "model": "ANTIX TEATRUM DAD CAP (BLACK)",
-            "price": "29,99 EUR",
-            "imgsrc": "/imagens/adidascalcoes2.png"
-        },
-        {
-            "id": 3,
-            "brand": "Adidas",
-            "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
-            "price": "29,99 EUR",
-            "imgsrc": "/imagens/adidascalcoes3.png"
-        },
-        {
-            "id": 4,
-            "brand": "Adidas",
-            "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
-            "price": "29,99  EUR",
-            "imgsrc": "/imagens/adidascalcoes4.png"
-        }
-    ],
     "Antix": [
         {
             "id": 1,
@@ -77,36 +47,36 @@
         {
             "id": 2,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Carhartt Wip Ruck Single Knee Millington Shorts (Black Stone Washed)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes2.png"
         },
         {
             "id": 3,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Carhartt Wip Master Denison Shorts (Black Rinsed)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes3.png"
         },
         {
             "id": 4,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Carhartt Wip Newel Organic Parkland Color Shorts (Black Worn Washed)",
+            "price": "89,99  EUR",
             "imgsrc": "/imagens/carharttcalcoes4.png"
         },
         {
             "id": 5,
             "brand": "Carhartt",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Carhartt Wip Single Knee Organic Dearborn Shorts (Hamilton Brown Rinsed)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes5.png"
         },
         {
             "id": 6,
             "brand": "Carhartt",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Carhartt Wip Master Denision Shorts (Wall Rinsed)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes6.png"
         }
     ],
@@ -114,132 +84,88 @@
         {
             "id": 1,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/nikechapeus1.png"
+            "model": "Dickies MILLERVILLE Shorts (Military) ",
+            "price": "64,99 EUR",
+            "imgsrc": "/imagens/dickiescalcoes1.png"
         },
         {
             "id": 2,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/nikechapeus2.png"
+            "model": "Dickies Slim Workshort Flex Shorts (Charcoal Grey)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/dickiescalcoes2.png"
         },
         {
             "id": 3,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
-            "imgsrc": "/imagens/nikechapeus3.png"
+            "model": "Dickies 13In Multi Pocket Workshort Shorts (Black)",
+            "price": "54,99 EUR",
+            "imgsrc": "/imagens/dickiescalcoes3.png"
         },
         {
             "id": 4,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
-            "imgsrc": "/imagens/nikechapeus4.png"
+            "model": "Dickies Cobden Shorts (Navy Blue)",
+            "price": "49,99  EUR",
+            "imgsrc": "/imagens/dickiescalcoes4.png"
         },
         {
             "id": 5,
             "brand": "Dickies",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/nikechapeus5.png"
+            "model": "Dickies Slim Straight Work Shorts (Khaki)",
+            "price": "49,99 EUR",
+            "imgsrc": "/imagens/dickiescalcoes5.png"
         },
         {
             "id": 6,
             "brand": "Dickies",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/nikechapeus5.png"
-        }
-    ],
-    "Nike": [
-        {
-            "id": 1,
-            "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/nikechapeus1.png"
-        },
-        {
-            "id": 2,
-            "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/nikechapeus2.png"
-        },
-        {
-            "id": 3,
-            "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
-            "imgsrc": "/imagens/nikechapeus3.png"
-        },
-        {
-            "id": 4,
-            "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
-            "imgsrc": "/imagens/nikechapeus4.png"
-        },
-        {
-            "id": 5,
-            "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/nikechapeus5.png"
-        },
-        {
-            "id": 6,
-            "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/nikechapeus5.png"
+            "model": "Dickies Garyville Denim Shorts (VintageBlue)",
+            "price": "69,99 EUR",
+            "imgsrc": "/imagens/dickiescalcoes6.png"
         }
     ],
     "Rell": [
         {
             "id": 1,
-            "brand": "Rell",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/nikechapeus1.png"
+            "brand": "Reell",
+            "model": "Reell Belmont Shorts (Origin Light Blue)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/rellcalcoes1.png"
         },
         {
             "id": 2,
-            "brand": "Rell",
+            "brand": "Reell",
             "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
             "price": "22,99 EUR",
-            "imgsrc": "/imagens/nikechapeus2.png"
+            "imgsrc": "/imagens/rellcalcoes2.png"
         },
         {
             "id": 3,
-            "brand": "Rell",
+            "brand": "Reell",
             "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
             "price": "19,99 EUR",
-            "imgsrc": "/imagens/nikechapeus3.png"
+            "imgsrc": "/imagens/rellcalcoes3.png"
         },
         {
             "id": 4,
-            "brand": "Rell",
+            "brand": "Reell",
             "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
             "price": "19,99  EUR",
-            "imgsrc": "/imagens/nikechapeus4.png"
+            "imgsrc": "/imagens/rellcalcoes4.png"
         },
         {
             "id": 5,
-            "brand": "Rell",
+            "brand": "Reell",
             "model": "FAUX DENIM CAP (SANDED GOLD)",
             "price": "24,99 EUR",
-            "imgsrc": "/imagens/nikechapeus5.png"
+            "imgsrc": "/imagens/rellcalcoes5.png"
         },
         {
             "id": 6,
-            "brand": "Rell",
+            "brand": "Reell",
             "model": "FAUX DENIM CAP (SANDED GOLD)",
             "price": "24,99 EUR",
-            "imgsrc": "/imagens/nikechapeus5.png"
+            "imgsrc": "/imagens/rellcalcoes5.png"
         }
     ]
 }

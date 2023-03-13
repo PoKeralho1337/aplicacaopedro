@@ -23,30 +23,6 @@ function Calcoes() {
           <Container>
             <Row xs={1} md={4}>
               {
-                data.Adidas.map(item => (
-                  <li key={item.id}>
-                    <Figure>
-                      <Figure.Image
-                        width={250}
-                        height={250}
-                        src={item.imgsrc}
-                      />
-                      <Figure.Caption>
-                      </Figure.Caption>
-                    </Figure>
-                    <h1>
-                      {item.brand}
-                    </h1>
-                    <h5>
-                      {item.model}
-                    </h5>
-                    <p2>
-                      {item.price}
-                    </p2>
-                  </li>
-                ))
-              }
-              {
                 data.Antix.map(item => (
                   <li key={item.id}>
                     <Figure>
@@ -96,30 +72,6 @@ function Calcoes() {
               }
               {
                 data.Dickies.map(item => (
-                  <li key={item.id}>
-                    <Figure>
-                      <Figure.Image
-                        width={250}
-                        height={250}
-                        src={item.imgsrc}
-                      />
-                      <Figure.Caption>
-                      </Figure.Caption>
-                    </Figure>
-                    <h1>
-                      {item.brand}
-                    </h1>
-                    <h5>
-                      {item.model}
-                    </h5>
-                    <p2>
-                      {item.price}
-                    </p2>
-                  </li>
-                ))
-              }
-              {
-                data.Nike.map(item => (
                   <li key={item.id}>
                     <Figure>
                       <Figure.Image
