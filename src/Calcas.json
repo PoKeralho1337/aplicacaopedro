@@ -10,22 +10,22 @@
         {
             "id": 2,
             "brand": "Adidas",
-            "model": "ANTIX TEATRUM DAD CAP (BLACK)",
-            "price": "29,99 EUR",
+            "model": "Adidas Tj Velour Pants (Black Bluebird Matte Gold)",
+            "price": "99,99 EUR",
             "imgsrc": "/imagens/adidascalcas2.png"
         },
         {
             "id": 3,
             "brand": "Adidas",
-            "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
-            "price": "29,99 EUR",
+            "model": "Adidas Skateboarding X Maxallure Track Slack Pants (Black White)",
+            "price": "84,99 EUR",
             "imgsrc": "/imagens/adidascalcas3.png"
         },
         {
             "id": 4,
             "brand": "Adidas",
-            "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
-            "price": "29,99  EUR",
+            "model": "Adidas Superfire Tk Pants (Black)",
+            "price": "74,99  EUR",
             "imgsrc": "/imagens/adidascalcas4.png"
         }
     ],
@@ -33,36 +33,36 @@
         {
             "id": 1,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Antix Slack Pants (Washed Olive)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/antixcalcas1.png"
         },
         {
             "id": 2,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Antix Slack Pants (Cement)",
+            "price": "69,99 EUR",
             "imgsrc": "/imagens/antixcalcas2.png"
         },
         {
             "id": 3,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Antix Slack Cord Cargo Pants (Black) ",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/antixcalcas3.png"
         },
         {
             "id": 4,
             "brand": "Antix",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Antix Slack Pants (Washed Brown)",
+            "price": "79,99  EUR",
             "imgsrc": "/imagens/antixcalcas4.png"
         },
         {
             "id": 5,
             "brand": "Antix",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Antix Slack Pants (Acid Grey)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/antixcalcas5.png"
         }
     ],
@@ -70,43 +70,43 @@
         {
             "id": 1,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Carhartt Wip Reular Cargo Pant Columbia Pants (Buffalo Rinsed)",
+            "price": "119,99 EUR",
             "imgsrc": "/imagens/carharttcalcas1.png"
         },
         {
             "id": 2,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Carhartt Wip Newel Pant Maitland Jeans (Blue Stone Washed)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/carharttcalcas2.png"
         },
         {
             "id": 3,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Jura Rinsed)",
+            "price": "99,99 EUR",
             "imgsrc": "/imagens/carharttcalcas3.png"
         },
         {
             "id": 4,
             "brand": "Carhartt",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Tamarind Rinsed)",
+            "price": "99,99  EUR",
             "imgsrc": "/imagens/carharttcalcas4.png"
         },
         {
             "id": 5,
             "brand": "Carhartt",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Carhartt Wip Simple Pant Norco Jeans (Blue Light True Washed)",
+            "price": "109,99 EUR",
             "imgsrc": "/imagens/carharttcalcas5.png"
         },
         {
             "id": 6,
             "brand": "Carhartt",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Carhartt Wip Wide Panel Pant Marshall Pants (Hamilton Brown Rinsed)",
+            "price": "129,99 EUR",
             "imgsrc": "/imagens/carharttcalcas5.png"
         }
     ],
@@ -114,43 +114,43 @@
         {
             "id": 1,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Dickies 874 Work Recycled Pants (Black)",
+            "price": "69,99 EUR",
             "imgsrc": "/imagens/dickiescalcas1.png"
         },
         {
             "id": 2,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Dickies Double Knee Recycled Pants (Black)",
+            "price": "74,99 EUR",
             "imgsrc": "/imagens/dickiescalcas2.png"
         },
         {
             "id": 3,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Dickies Garyville Jeans (Classic Blue)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/dickiescalcas3.png"
         },
         {
             "id": 4,
             "brand": "Dickies",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Dickies Thomasville Jeans (Vintage Aged Blue)",
+            "price": "84,99  EUR",
             "imgsrc": "/imagens/dickiescalcas4.png"
         },
         {
             "id": 5,
             "brand": "Dickies",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Dickies Double Knee Recycled Pants (Charcoal Grey) ",
+            "price": "69,99 EUR",
             "imgsrc": "/imagens/dickiescalcas5.png"
         },
         {
             "id": 6,
             "brand": "Dickies",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Dickies Valley Grande Double Knee Pants (Khaki)",
+            "price": "79,99 EUR",
             "imgsrc": "/imagens/dickiescalcas5.png"
         }
     ],
@@ -158,43 +158,43 @@
         {
             "id": 1,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Nike SB Chino Pants (Black)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas1.png"
         },
         {
             "id": 2,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Nike SB Kearny Cargo Pants (Black)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas2.png"
         },
         {
             "id": 3,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Nike SB Lab Pants (Black White)",
+            "price": "74,99 EUR",
             "imgsrc": "/imagens/nikecalcas3.png"
         },
         {
             "id": 4,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Nike SB Lab Pants (Dark Grey Heather)",
+            "price": "74,99  EUR",
             "imgsrc": "/imagens/nikecalcas4.png"
         },
         {
             "id": 5,
             "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Nike SB Kearny Cargo Pants (Dark Driftwood)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas5.png"
         },
         {
             "id": 6,
             "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Nike SB Kearny Cargo Pants (Medium Olive)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas5.png"
         }
     ],
@@ -202,15 +202,15 @@
         {
             "id": 1,
             "brand": "Polar",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Polar Surf Pants (Black)",
+            "price": "89,99 EUR",
             "imgsrc": "/imagens/polarcalcas1.png"
         },
         {
             "id": 2,
             "brand": "Polar",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Polar 93 Denim Jeans (Light Blue)",
+            "price": "119,99 EUR",
             "imgsrc": "/imagens/polarcalcas2.png"
         },
         {

@@ -135,37 +135,37 @@
         {
             "id": 2,
             "brand": "Reell",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Reell Flex Grip Chino Shorts (Black)",
+            "price": "49,99 EUR",
             "imgsrc": "/imagens/rellcalcoes2.png"
         },
         {
             "id": 3,
             "brand": "Reell",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Reel New Cargo Shorts (Taupe)",
+            "price": "59,99 EUR",
             "imgsrc": "/imagens/rellcalcoes3.png"
         },
         {
             "id": 4,
             "brand": "Reell",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Reell New Cargo Shorts (Forest Green)",
+            "price": "59,99  EUR",
             "imgsrc": "/imagens/rellcalcoes4.png"
         },
         {
             "id": 5,
             "brand": "Reell",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Reell New Cargo Shorts (Black)",
+            "price": "59,99 EUR",
             "imgsrc": "/imagens/rellcalcoes5.png"
         },
         {
             "id": 6,
             "brand": "Reell",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/rellcalcoes5.png"
+            "model": "Reell Belmont Shorts (Origin Mid Blue)",
+            "price": "59,99 EUR",
+            "imgsrc": "/imagens/rellcalcoes6.png"
         }
     ]
 }
