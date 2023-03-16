@@ -3,29 +3,29 @@
         {
             "id": 1,
             "brand": "Adidas",
-            "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
-            "price": "29,99 EUR",
+            "model": "Adidas Skateboarding Campus 00S Shoes (Silver Black)",
+            "price": "109,90 EUR",
             "imgsrc": "/imagens/adidassapatos1.png"
         },
         {
             "id": 2,
             "brand": "Adidas",
-            "model": "ANTIX TEATRUM DAD CAP (BLACK)",
-            "price": "29,99 EUR",
+            "model": "Adidas Skateboarding Busenitz Vulc II Shoes (Carbon Ink Gold Melange)",
+            "price": "79,90 EUR",
             "imgsrc": "/imagens/adidassapatos2.png"
         },
         {
             "id": 3,
             "brand": "Adidas",
-            "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
-            "price": "29,99 EUR",
+            "model": "Adidas Skateboarding Puig Shoes (Core Black White GoldMelange)",
+            "price": "99,90 EUR",
             "imgsrc": "/imagens/adidassapatos3.png"
         },
         {
             "id": 4,
             "brand": "Adidas",
-            "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
-            "price": "29,99  EUR",
+            "model": "Adidas Skateboarding Nora Shoes (White Shadow Gold)",
+            "price": "89,90  EUR",
             "imgsrc": "/imagens/adidassapatos4.png"
         }
     ],

@@ -216,30 +216,30 @@
         {
             "id": 3,
             "brand": "Polar",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Polar Railway Pants (Navy)",
+            "price": "124,99 EUR",
             "imgsrc": "/imagens/polarcalcas3.png"
         },
         {
             "id": 4,
             "brand": "Polar",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Polar 92 Denim Jeans (Light Blue)",
+            "price": "114,99  EUR",
             "imgsrc": "/imagens/polarcalcas4.png"
         },
         {
             "id": 5,
             "brand": "Polar",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Polar Utility Pants (Black)",
+            "price": "119,99 EUR",
             "imgsrc": "/imagens/polarcalcas5.png"
         },
         {
             "id": 6,
             "brand": "Polar",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/polarcalcas5.png"
+            "model": "Polar Utility Pants (Khaki)",
+            "price": "124,99 EUR",
+            "imgsrc": "/imagens/polarcalcas6.png"
         }
     ]
 }
