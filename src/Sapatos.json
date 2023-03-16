@@ -24,7 +24,11 @@
         {
             "id": 4,
             "brand": "Adidas",
+<<<<<<< HEAD
             "model": "Adidas Skateboarding Nora Shoes (White Shadow Gold)",
+=======
+            "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
+>>>>>>> 17dd091503aaa3186da2bdf8b952455d33750afb
             "price": "89,90  EUR",
             "imgsrc": "/imagens/adidassapatos4.png"
         }
@@ -33,22 +37,22 @@
         {
             "id": 1,
             "brand": "DC",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "DC Mantega 4 Shoes (Black Black Gum)",
+            "price": "84,90 EUR",
             "imgsrc": "/imagens/dcsapatos1.png"
         },
         {
             "id": 2,
             "brand": "DC",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "DC Mantega 4 Shoes (Black Athletic Red)",
+            "price": "74,90 EUR",
             "imgsrc": "/imagens/dcsapatos2.png"
         },
         {
             "id": 3,
             "brand": "DC",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "DC Mantega 4 Shoes (Black White Gum)",
+            "price": "74,90 EUR",
             "imgsrc": "/imagens/dcsapatos3.png"
         },
         {
