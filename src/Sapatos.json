@@ -54,15 +54,15 @@
         {
             "id": 4,
             "brand": "DC",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "DC Crisis 2 Shoes(Black Gum)",
+            "price": "74,90  EUR",
             "imgsrc": "/imagens/dcsapatos4.png"
         },
         {
             "id": 5,
             "brand": "DC",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "DC Versatile Shoes (Black White Athletic Red)",
+            "price": "94,90 EUR",
             "imgsrc": "/imagens/dcsapatos5.png"
         }
     ],
@@ -70,87 +70,87 @@
         {
             "id": 1,
             "brand": "New Balance",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/newbalance1.png"
+            "model": "New Balance Numeric 808 Tiago Shoes (White Blue)",
+            "price": "114,90 EUR",
+            "imgsrc": "/imagens/newbalancesapatos1.png"
         },
         {
             "id": 2,
             "brand": "New Balance",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
-            "imgsrc": "/imagens/newbalance2.png"
+            "model": "New Balance Numeric 306 Shoes (Summer Fog)",
+            "price": "89,90 EUR",
+            "imgsrc": "/imagens/newbalancesapatos2.png"
         },
         {
             "id": 3,
             "brand": "New Balance",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
-            "imgsrc": "/imagens/newbalance3.png"
+            "model": "New Balance Numeric 306 Shoes (Black Red)",
+            "price": "84,90 EUR",
+            "imgsrc": "/imagens/newbalancesapatos3.png"
         },
         {
             "id": 4,
             "brand": "New Balance",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
-            "imgsrc": "/imagens/newbalance4.png"
+            "model": "New Balance Numeric 440 Shoes (White Red)",
+            "price": "79,90  EUR",
+            "imgsrc": "/imagens/newbalancesapatos4.png"
         },
         {
             "id": 5,
             "brand": "New Balance",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/newbalance5.png"
+            "model": "New Balance Numeric 808 Tiago Shoes (Wheat Brown)",
+            "price": "109,90 EUR",
+            "imgsrc": "/imagens/newbalancesapatos5.png"
         },
         {
             "id": 6,
             "brand": "New Balance",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/newbalance6.png"
+            "model": "New Balance Numeric 272 Shoes (Black White)",
+            "price": "89,90 EUR",
+            "imgsrc": "/imagens/newbalancesapatos6.png"
         }
     ],
     "Nike": [
         {
             "id": 1,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Nike SB Force 58 Premium Shoes (White Black)",
+            "price": "79,90 EUR",
             "imgsrc": "/imagens/nikesapatos1.png"
         },
         {
             "id": 2,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Nike SB Pogo Premium Shoes (Black Black Gum)",
+            "price": "84,90 EUR",
             "imgsrc": "/imagens/nikesapatos2.png"
         },
         {
             "id": 3,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Nike SB Ishod Premium Shoes (White Black White)",
+            "price": "109,90 EUR",
             "imgsrc": "/imagens/nikesapatos3.png"
         },
         {
             "id": 4,
             "brand": "Nike",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Nike SB Ishod Premium Shoes (Baroque Brown Obsidian Black)",
+            "price": "109,90  EUR",
             "imgsrc": "/imagens/nikesapatos4.png"
         },
         {
             "id": 5,
             "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Nike SB Zoom Blazer Mid Shoes (Black White Sail)",
+            "price": "89,90 EUR",
             "imgsrc": "/imagens/nikesapatos5.png"
         },
         {
             "id": 6,
             "brand": "Nike",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Nike SB Force 58 Shoes (Dark Grey White)",
+            "price": "74,90 EUR",
             "imgsrc": "/imagens/nikesapatos6.png"
         }
     ],
@@ -158,43 +158,43 @@
         {
             "id": 1,
             "brand": "Vans",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
-            "price": "22,99 EUR",
+            "model": "Vans BMX Style 114 Shoes (Black White)",
+            "price": "94,90 EUR",
             "imgsrc": "/imagens/vanssapatos1.png"
         },
         {
             "id": 2,
             "brand": "Vans",
-            "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
-            "price": "22,99 EUR",
+            "model": "Vans Rowan Shoes (Black Black White)",
+            "price": "89,90 EUR",
             "imgsrc": "/imagens/vanssapatos2.png"
         },
         {
             "id": 3,
             "brand": "Vans",
-            "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
-            "price": "19,99 EUR",
+            "model": "Vans SK8-Low Cont Shoes (White Black)",
+            "price": "79,90 EUR",
             "imgsrc": "/imagens/vanssapatos3.png"
         },
         {
             "id": 4,
             "brand": "Vans",
-            "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
-            "price": "19,99  EUR",
+            "model": "Vans Kyle Walker Shoes (Overland Trek)",
+            "price": "94,90 EUR",
             "imgsrc": "/imagens/vanssapatos4.png"
         },
         {
             "id": 5,
             "brand": "Vans",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
-            "imgsrc": "/imagens/vanssapatoss5.png"
+            "model": "Vans Rowan Nubuk Shoes (Black)",
+            "price": "94,90 EUR",
+            "imgsrc": "/imagens/vanssapatos5.png"
         },
         {
             "id": 6,
             "brand": "Vans",
-            "model": "FAUX DENIM CAP (SANDED GOLD)",
-            "price": "24,99 EUR",
+            "model": "Vans Skate Old Skool Breana Shoes (Blue Black)",
+            "price": "89,90 EUR",
             "imgsrc": "/imagens/vanssapatos6.png"
         }
     ]

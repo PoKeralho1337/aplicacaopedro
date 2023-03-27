@@ -35,6 +35,7 @@ import Protecao from './Protecao';
 import Cintos from './Cintos';
 import Ferramentas from './Ferramentas';
 import Carrinho from './Carrinho';
+import Login from './Login';
 
 
 import { Route, Routes } from 'react-router-dom';
@@ -43,10 +44,10 @@ import { Link } from 'react-router-dom';
 function App() {
   return (
     <div>
-      <header className="App-header">
+      <header className="App-header nav__link">
         <Navbar bg="white" variant='white' expand="lg" >
             <Navbar.Brand href="#home"></Navbar.Brand>
-            <img src='/imagens/icon.png' width="60" heigh='60' ></img>
+            <img src='/imagens/EspoSkate.png' width="230" heigh='230' ></img>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
@@ -80,43 +81,6 @@ function App() {
                 <NavDropdown.Item href="/Lixa">
                   <div>
                     <img src='/imagens/lixa.png' width="60" heigh='60' ></img>Lixa
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Divider />
-              </NavDropdown>
-              <NavDropdown title="Marcas" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">
-                  <div>
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/Antix">
-                  <div>
-                    <img src='/imagens/antix.png' width="60" heigh='60' ></img> Antix
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/Thrasher">
-                  <div>
-                    <img src='/imagens/thrasher.jpg' width="60" heigh='60' ></img> Thrasher
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/Polar">
-                  <div>
-                    <img src='/imagens/polar.jpg' width="60" heigh='60' ></img> Polar
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/Vans">
-                  <div>
-                    <img src='/imagens/vans.jpg' width="60" heigh='60' ></img> Vans
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/Element">
-                  <div>
-                    <img src='/imagens/element.jpg' width="60" heigh='60' ></img> Element
-                  </div>
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/Independent">
-                  <div>
-                    <img src='/imagens/independent.jpg' width="60" heigh='60' ></img> Independent
                   </div>
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
@@ -197,7 +161,8 @@ function App() {
               </NavDropdown>
               </Nav>
               <Nav>
-              <Nav.Link as={Link} to='/Carrinho'><img src='/imagens/carrinho.png' width="60" heigh='60' ></img></Nav.Link>
+              <Nav.Link as={Link} to='/Login'><img src='/imagens/login.png' width="55" heigh='55' ></img></Nav.Link>
+              <Nav.Link as={Link} to='/Carrinho'><img src='/imagens/carrinho.png' width="55" heigh='55' ></img></Nav.Link>
               </Nav>
             </Navbar.Collapse>
         </Navbar>
@@ -233,6 +198,7 @@ function App() {
         <Route path='/Cintos' element={<Cintos />} />
         <Route path='/Ferramentas' element={<Ferramentas />} />
         <Route path='/Carrinho' element={<Carrinho />} />
+        <Route path='/Login' element={<Login />} />
 
       </Routes>
 
