@@ -12,14 +12,15 @@ function Home   () {
         <header className="App-header">
          
         </header>
-        <body className='App-body'>
-        <div>
-          <video autoPlay loop muted width="100%" className='banner'>
-            <source src='./imagens/video1.mp4' type="video/mp4" />
-          </video>
-          <div className='banner-overlay'>
-          </div>
-        </div>
+        <body>
+          <section class="home" id="home">
+            <div class="home-text">
+              <h1>Noticias <span>Ler mais</span></h1>
+              <p>Portugal faz história</p>
+              <a href='#' class="btn">Ver noticias</a>
+
+            </div>
+          </section>
         </body>
         <footer> </footer>
         

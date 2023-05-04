@@ -151,3 +151,12 @@ form [type="submit"]{
 a:link{
   text-decoration: none;
 }
+
+section{
+  padding: 100px 14%;
+}
+
+.home {
+  min-height: 100vh;
+  width: 100%;
+}
