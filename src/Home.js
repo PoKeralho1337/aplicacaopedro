@@ -37,6 +37,7 @@ function Home   () {
 
             </div>
           </section>
+          <script src='src/script.js'></script>
         </body>
         <footer> </footer>
         

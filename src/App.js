@@ -46,12 +46,11 @@ function App() {
     <div>
       <header className="App-header nav__link">
         <Navbar bg="white" variant='white' expand="lg" >
-            <Navbar.Brand href="#home"></Navbar.Brand>
-            <img src='/imagens/EspoSkate.png' width="230" heigh='230' ></img>
+            <Navbar.Brand href="#home" ></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link as={Link} to='/'>Inicio</Nav.Link>
+                <Nav.Link as={Link} to='/'><img src='/imagens/EspoSkate.png' width="260" heigh='260' ></img></Nav.Link>
                 <NavDropdown title="SkateBoard" id="collasible-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1">
                   <div>
