@@ -117,6 +117,7 @@ color: white;
 .btn:hover{
   transform: translateY(-5px);
   background: var(--text-color);
+  
 }
 
 .newcollection 
@@ -132,9 +133,6 @@ ul{
   border: 1px solid black;
 }
 
-img{
-  float: left;
-}
 
 .area-login{
   display: flex;
@@ -143,6 +141,20 @@ img{
   justify-content: center;
   align-items: center;
 } 
+
+.contact{
+  background: var(--text-color);
+  background-color: rgb(226, 241, 230);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+  gap: 2rem;
+}
+
+.main-contact{
+  font-size: 23px;
+  margin-bottom: 1.6rem;
+  color: var(--bg-color);
+}
 
 .login{
   background-color: #e3e4e9;

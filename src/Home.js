@@ -37,6 +37,19 @@ function Home   () {
 
             </div>
           </section>
+          <section class="contact" id='contact'>
+            <div class="main-contact">
+              <h3>Classix</h3>
+              <h5>Lets Connect With Us</h5>
+              <div class="icon">
+                <a href='https://www.instagram.com/esposendeskate/'><img src='/imagens/instagram.png' width={40} height={40}></img></a>
+                <a href='https://twitter.com/EsposendeSkate'><img src='/imagens/twitter.png'width={40} height={40}></img></a>
+                <a href='https://www.facebook.com/profile.php?id=100092639252098'><img src='/imagens/facebook.png'width={40} height={40}></img></a>
+              </div>
+
+            </div>
+
+          </section>
           <script src='src/script.js'></script>
         </body>
         <footer> </footer>
