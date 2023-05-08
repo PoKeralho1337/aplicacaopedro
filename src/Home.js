@@ -6,55 +6,89 @@ import Col from 'react-bootstrap/Col'
 
 
 
-function Home   () {
-    return (
-      <div className="App">
-        <header className="App-header">
-         <link rel="stylesheet"
-          href="https://unpkg.com/boxicons@latest/css/boxicons.min.css"/>
-          <link rel='preconnect'
-          href='https://fonts.googleapis.com'/>
-          <link rel='preconnect'
-          href='https://fonts.gstatic.com' crossorigin/>
-          <link href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap' rel="stylesheet"/>        
-        </header>
-        <body>
-          <section class="home" id="home">
-            <div class="home-text">
-              <h1>Noticias <span>Ler mais</span></h1>
-              <p>Portugal faz história</p>
-              <a href='#' class="btn">Ver noticias</a>
+function Home() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <link rel="stylesheet"
+          href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+        <link rel='preconnect'
+          href='https://fonts.googleapis.com' />
+        <link rel='preconnect'
+          href='https://fonts.gstatic.com' crossorigin />
+        <link href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap' rel="stylesheet" />
+      </header>
+      <body>
+        <section class="home" id="home">
+          <div class="home-text">
+            <h1>Noticias <span>Ler mais</span></h1>
+            <p>Portugal faz história</p>
+            <a href='#' class="btn">Ver noticias</a>
+          </div>
+        </section>
+        <section class="newcollection" id="newcollection">
+          <div class='center-text'>
+            <h2>Nova Coleção</h2>
+          </div>
+          <div class="newcollection-content">
+            <div class="row">
+             
+            
             </div>
-          </section>
-          <section class="newcollection" id="newcollection">
-            <div class='center-text'>
-              <h2>Nova Coleção</h2>
-            </div> 
-            <div class="newcollection-content">
-              <div class="row">
-                <img src='/imagens/polarcalcas1.png'/>
+
+          </div>
+        </section>
+        <section class="contact">
+          <div class="contact-info">
+            <div class="first-info">
+              <img src='/imagens/EspoSkate.png'/>
+
+              <p>Rua aldeia de cima, <br /> Vila Chã</p>
+              <p>966 597 688</p>
+              <p>pedro.boaventura.tgp4@gmail.com</p>
+
+              <div class="social-icon">
+                <a href="https://www.facebook.com/profile.php?id=100092639252098"><i class='bx bxl-facebook'></i></a>
+                <a href="https://www.instagram.com/esposendeskate/"><i class='bx bxl-instagram-alt' ></i></a>
+                <a href="https://twitter.com/EsposendeSkate"><i class='bx bxl-twitter' ></i></a>
               </div>
 
             </div>
-          </section>
-          <section class="contact" id='contact'>
-            <div class="main-contact">
-              <h3>Classix</h3>
-              <h5>Lets Connect With Us</h5>
-              <div class="icon">
-                <a href='https://www.instagram.com/esposendeskate/'><img src='/imagens/instagram.png' width={40} height={40}></img></a>
-                <a href='https://twitter.com/EsposendeSkate'><img src='/imagens/twitter.png'width={40} height={40}></img></a>
-                <a href='https://www.facebook.com/profile.php?id=100092639252098'><img src='/imagens/facebook.png'width={40} height={40}></img></a>
-              </div>
+            <div class="second-info">
+              <h4>Support</h4>
+              <p>Contact Us</p>
+              <p>Siz Guide</p>
+              <p>Privacy</p>
 
             </div>
+            <div class="thirds-info">
+              <h4>Support</h4>
+              <p>Contact Us</p>
+              <p>Siz Guide</p>
+              <p>Privacy</p>
 
-          </section>
-          <script src='src/script.js'></script>
-        </body>
-        <footer> </footer>
-        
-      </div>
-    );
-  }
+            </div>
+            <div class="fourth-info">
+              <h4>Company</h4>
+              <p>About</p>
+              <p>Affiliate</p>
+              <p>Login</p>
+
+            </div>
+            <div class="five">
+              <h4>Subscribe</h4>
+              <p>Receba atualizações,Descontos, altas promoções no seu email</p>
+              <p>Receive updates, discounts, high promotions in your email</p>
+              <p>Recevez des mises à jour, des réductions, des promotions élevées dans votre e-mail</p>
+
+            </div>
+          </div>
+        </section>
+        <script src='src/script.js'></script>
+      </body>
+      <footer> </footer>
+
+    </div>
+  );
+}
 export default Home;
