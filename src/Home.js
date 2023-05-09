@@ -38,14 +38,74 @@ function Home() {
 
           </div>
         </section>
+
+        <section class="trending-product" id="trending">
+          <div>
+            <h2>Nova <span>Coleção</span></h2>
+          </div>
+
+          <div class="products">
+            <div class="row">
+              <img src='imagens/adidascasacos3.png' alt=""/>
+              <div class="product-text">
+                <h5>Novo</h5>
+              </div>
+            </div>
+            <div class="price">
+              <h4>Casaco Adidas</h4>
+              <p>76$</p>
+
+            </div>
+
+            <div class="row">
+              <img src='imagens/dickiescalcas3.png' alt=""/>
+              <div class="product-text">
+                <h5>Novo</h5>
+              </div>
+            </div>
+            <div class="price">
+              <h4>Calcas Dickies</h4>
+              <p>87$</p>
+
+            </div>
+
+            <div class="row">
+              <img src='imagens/antixcalcoes1.png' alt=""/>
+              <div class="product-text">
+                <h5>Novo</h5>
+              </div>
+            </div>
+            <div class="price">
+              <h4>Sapatos Nike</h4>
+              <p>60$</p>
+
+            </div>
+
+            <div class="row">
+              <img src='imagens/jart3.png' alt=""/>
+              <div class="product-text">
+                <h5>Novo</h5>
+              </div>
+            </div>
+            <div class="price">
+              <h4>Tábua Jart</h4>
+              <p>120$</p>
+
+            </div>
+
+            
+          </div>
+
+        </section>
+
         <section class="contact">
           <div class="contact-info">
             <div class="first-info">
               <img src='/imagens/EspoSkate.png'/>
 
-              <p>Rua aldeia de cima, <br /> Vila Chã</p>
+              <p>Praça do Município,<br />4740-223 Esposende</p>
               <p>966 597 688</p>
-              <p>pedro.boaventura.tgp4@gmail.com</p>
+              <p>esposkate05@gmail.com</p>
 
               <div class="social-icon">
                 <a href="https://www.facebook.com/profile.php?id=100092639252098"><i class='bx bxl-facebook'></i></a>
