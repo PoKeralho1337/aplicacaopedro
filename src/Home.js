@@ -23,24 +23,12 @@ function Home() {
           <div class="home-text">
             <h1>Noticias <span>Ler mais</span></h1>
             <p>Portugal faz história</p>
-            <a href='#' class="btn">Ver noticias</a>
-          </div>
-        </section>
-        <section class="newcollection" id="newcollection">
-          <div class='center-text'>
-            <h2>Nova Coleção</h2>
-          </div>
-          <div class="newcollection-content">
-            <div class="row">
-             
-            
-            </div>
-
+            <a href='/Noticias' class="btn">Ver noticias</a>
           </div>
         </section>
 
         <section class="trending-product" id="trending">
-          <div>
+          <div class="center-text">
             <h2>Nova <span>Coleção</span></h2>
           </div>
 
@@ -58,7 +46,7 @@ function Home() {
             </div>
 
             <div class="row">
-              <img src='imagens/dickiescalcas3.png' alt=""/>
+              <img src='imagens/adidascasacos2.png' alt=""/>
               <div class="product-text">
                 <h5>Novo</h5>
               </div>
@@ -70,7 +58,7 @@ function Home() {
             </div>
 
             <div class="row">
-              <img src='imagens/antixcalcoes1.png' alt=""/>
+              <img src='imagens/adidascasacos1.png' alt=""/>
               <div class="product-text">
                 <h5>Novo</h5>
               </div>

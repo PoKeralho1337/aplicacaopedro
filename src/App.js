@@ -36,6 +36,7 @@ import Cintos from './Cintos';
 import Ferramentas from './Ferramentas';
 import Carrinho from './Carrinho';
 import Login from './Login';
+import Noticias from './Noticias';
 
 
 import { Route, Routes } from 'react-router-dom';
@@ -198,6 +199,7 @@ function App() {
         <Route path='/Ferramentas' element={<Ferramentas />} />
         <Route path='/Carrinho' element={<Carrinho />} />
         <Route path='/Login' element={<Login />} />
+        <Route path='/Noticias' element={<Noticias />} />
 
       </Routes>
 
