@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
+import 'boxicons/css/boxicons.min.css';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
@@ -161,8 +162,8 @@ function App() {
               </NavDropdown>
               </Nav>
               <Nav>
-              <Nav.Link as={Link} to='/Login'><img src='/imagens/login.png' width="55" heigh='55' ></img></Nav.Link>
-              <Nav.Link as={Link} to='/Carrinho'><img src='/imagens/carrinho.png' width="55" heigh='55' ></img></Nav.Link>
+              <Nav.Link as={Link} to='/Login'><i class='bx bx-user'></i></Nav.Link>
+              <Nav.Link as={Link} to='/Carrinho'><i class='bx bx-cart'></i></Nav.Link>
               </Nav>
             </Navbar.Collapse>
         </Navbar>

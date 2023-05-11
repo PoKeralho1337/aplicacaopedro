@@ -46,19 +46,19 @@ function Home() {
             </div>
 
             <div class="row">
-              <img src='imagens/adidascasacos2.png' alt=""/>
+              <img src='imagens/antixcalcas2.png' alt=""/>
               <div class="product-text">
                 <h5>Novo</h5>
               </div>
             </div>
             <div class="price">
-              <h4>Calcas Dickies</h4>
+              <h4>Calcas Antix</h4>
               <p>87$</p>
 
             </div>
 
             <div class="row">
-              <img src='imagens/adidascasacos1.png' alt=""/>
+              <img src='imagens/rellcalcoes1.png' alt=""/>
               <div class="product-text">
                 <h5>Novo</h5>
               </div>
@@ -80,6 +80,32 @@ function Home() {
               <p>120$</p>
 
             </div>
+
+            <div class="row">
+              <img src='imagens/jart1.png' alt=""/>
+              <div class="product-text">
+                <h5>Novo</h5>
+              </div>
+            </div>
+            <div class="price">
+              <h4>Tábua Jart</h4>
+              <p>120$</p>
+
+            </div>
+
+            <div class="row">
+              <img src='imagens/jart2.png' alt=""/>
+              <div class="product-text">
+                <h5>Novo</h5>
+              </div>
+            </div>
+            <div class="price">
+              <h4>Tábua Jart</h4>
+              <p>120$</p>
+
+            </div>
+
+
 
             
           </div>
