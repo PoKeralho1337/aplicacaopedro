@@ -9,7 +9,7 @@ function Login() {
       <header className="App-header">
        
       </header>
-      <body className='App-body'>
+      <body className='App-body fundo'>
         <section class='area-login'>
           <div class="login">
             <div>
