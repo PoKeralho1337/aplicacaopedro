@@ -18,7 +18,7 @@ function Home() {
           href='https://fonts.gstatic.com' crossorigin />
         <link href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap' rel="stylesheet" />
       </header>
-      <body>
+      <body class="corfundo">
         <section class="home" id="home">
           <div class="home-text">
             <h1>Noticias <span>Ler mais</span></h1>
@@ -130,14 +130,7 @@ function Home() {
             </div>
             <div class="second-info">
               <h4>Support</h4>
-              <p>Contact Us</p>
-              <p>Siz Guide</p>
-              <p>Privacy</p>
-
-            </div>
-            <div class="thirds-info">
-              <h4>Support</h4>
-              <p>Contact Us</p>
+              <a href='./Contact'>Contact Us</a>
               <p>Siz Guide</p>
               <p>Privacy</p>
 
