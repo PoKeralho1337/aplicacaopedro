@@ -18,7 +18,6 @@ import Rolamentos from './Rolamentos.js';
 import Trucks from './Trucks.js';
 import Rodas from './Rodas.js';
 import Antix from './Antix.js';
-import Independent from './Independent';
 import Thrasher from './Thrasher';
 import Vans from './Vans';
 import Element from './Element';
@@ -187,7 +186,6 @@ function App() {
         <Route path='/Vans' element={<Vans />} />
         <Route path='/Element' element={<Element />} />
         <Route path='/Thrasher' element={<Thrasher />} />
-        <Route path='/Independent' element={<Independent />} />
         <Route path='/Tshirt' element={<Tshirt />} />
         <Route path='/Hoodies' element={<Hoodies />} />
         <Route path='/Casacos' element={<Casacos/>} />

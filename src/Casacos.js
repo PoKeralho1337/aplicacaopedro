@@ -216,13 +216,6 @@ function Casacos() {
               <p>Privacy</p>
 
             </div>
-            <div class="thirds-info">
-              <h4>Support</h4>
-              <p>Contact Us</p>
-              <p>Siz Guide</p>
-              <p>Privacy</p>
-
-            </div>
             <div class="fourth-info">
               <h4>Company</h4>
               <p>About</p>
