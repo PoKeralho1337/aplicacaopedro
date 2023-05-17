@@ -38,6 +38,7 @@ import Carrinho from './Carrinho';
 import Login from './Login';
 import Noticias from './Noticias';
 import Contact from './Contact';
+import Produto from './Produto';
 
 
 
@@ -199,8 +200,9 @@ function App() {
         <Route path='/Ferramentas' element={<Ferramentas />} />
         <Route path='/Carrinho' element={<Carrinho />} />
         <Route path='/Login' element={<Login />} />
-        <Route path='/Noticias' element={<Noticias />} />~
+        <Route path='/Noticias' element={<Noticias />} />
         <Route path='/Contact' element={<Contact />} />
+        <Route path='/Produto' element={<Produto />} />
 
       </Routes>
 

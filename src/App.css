@@ -44,7 +44,7 @@ li, a, button{
 }
 
 .custom-toggle::after {
-  display: none   ;
+  display: none  !important;
 }
 .nav__links{
     list-style: none;
