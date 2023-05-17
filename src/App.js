@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './Noticias.css';
 import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'boxicons/css/boxicons.min.css';
@@ -20,7 +21,6 @@ import Rodas from './Rodas.js';
 import Antix from './Antix.js';
 import Thrasher from './Thrasher';
 import Vans from './Vans';
-import Element from './Element';
 import Polar from './Polar';
 import Tshirt from './Tshirt';
 import Hoodies from './Hoodies';
@@ -54,7 +54,7 @@ function App() {
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
                 <Nav.Link as={Link} to='/'><img src='/imagens/EspoSkate.png' width="260" heigh='260' ></img></Nav.Link>
-                <NavDropdown title="SkateBoard" id="collasible-nav-dropdown">
+                <NavDropdown title="SkateBoard" id="collasible-nav-dropdown" className="custom-toggle" noCaret>
                 <NavDropdown.Item href="#action/3.1">
                   <div>
 
@@ -184,7 +184,6 @@ function App() {
         <Route path='/Antix' element={<Antix />} />
         <Route path='/Polar' element={<Polar />} />
         <Route path='/Vans' element={<Vans />} />
-        <Route path='/Element' element={<Element />} />
         <Route path='/Thrasher' element={<Thrasher />} />
         <Route path='/Tshirt' element={<Tshirt />} />
         <Route path='/Hoodies' element={<Hoodies />} />

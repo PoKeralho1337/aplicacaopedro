@@ -91,7 +91,7 @@ function Chapeus() {
             </div>
             <div class="second-info">
               <h4>Support</h4>
-              <p>Contact Us</p>
+              <a href='./Contact'>Contact Us</a>
               <p>Siz Guide</p>
               <p>Privacy</p>
 

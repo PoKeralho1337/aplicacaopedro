@@ -1,0 +1,30 @@
+body2 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .news-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .news-item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .news-item h2 {
+    margin-top: 0;
+  }
+  
+  .news-item p {
+    margin-bottom: 0;
+  }
+
