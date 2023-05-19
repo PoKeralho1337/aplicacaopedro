@@ -29,12 +29,15 @@ function Home() {
 
         <section class="trending-product" id="trending">
           <div class="center-text">
-            <h2>Nova <span>Coleção</span></h2>
+            <h1>Nova <span>Coleção</span></h1>
           </div>
 
           <div class="products">
+            <Container>
+            <Row>
+              <Col>
             <div class="row">
-              <img src='imagens/adidascasacos3.png' alt=""/>
+              <img src='imagens/adidascasacos3.png' alt="" />
               <div class="product-text">
                 <h5>Novo</h5>
               </div>
@@ -42,9 +45,9 @@ function Home() {
             <div class="price">
               <h4>Casaco Adidas</h4>
               <p>76$</p>
-
             </div>
-
+            </Col>
+            <Col>
             <div class="row">
               <img src='imagens/antixcalcas2.png' alt=""/>
               <div class="product-text">
@@ -54,9 +57,9 @@ function Home() {
             <div class="price">
               <h4>Calcas Antix</h4>
               <p>87$</p>
-
             </div>
-
+            </Col>
+            <Col>
             <div class="row">
               <img src='imagens/rellcalcoes1.png' alt=""/>
               <div class="product-text">
@@ -66,9 +69,11 @@ function Home() {
             <div class="price">
               <h4>Sapatos Nike</h4>
               <p>60$</p>
-
             </div>
-
+            </Col>
+            </Row>
+            <Row>
+            <Col>
             <div class="row">
               <img src='imagens/jart3.png' alt=""/>
               <div class="product-text">
@@ -78,9 +83,9 @@ function Home() {
             <div class="price">
               <h4>Tábua Jart</h4>
               <p>120$</p>
-
             </div>
-
+            </Col>
+            <Col>
             <div class="row">
               <img src='imagens/jart1.png' alt=""/>
               <div class="product-text">
@@ -90,9 +95,9 @@ function Home() {
             <div class="price">
               <h4>Tábua Jart</h4>
               <p>120$</p>
-
             </div>
-
+            </Col>
+            <Col>
             <div class="row">
               <img src='imagens/jart2.png' alt=""/>
               <div class="product-text">
@@ -102,12 +107,10 @@ function Home() {
             <div class="price">
               <h4>Tábua Jart</h4>
               <p>120$</p>
-
             </div>
-
-
-
-            
+            </Col>
+            </Row>
+            </Container>       
           </div>
 
         </section>

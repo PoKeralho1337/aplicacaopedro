@@ -54,13 +54,8 @@ function App() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link as={Link} to='/'><img src='/imagens/EspoSkate.png' width="260" heigh='260' ></img></Nav.Link>
+                <Nav.Link as={Link} to='/'><img src='/imagens/EspoSkate.png' width="240" heigh='240' ></img></Nav.Link>
                 <NavDropdown title="SkateBoard" id="collasible-nav-dropdown" className="custom-toggle" noCaret>
-                <NavDropdown.Item href="#action/3.1">
-                  <div>
-
-                  </div>
-                </NavDropdown.Item>
                 <NavDropdown.Item href="/Tabuas">
                   <div>
                     <img src='/imagens/icon.png' width="60" heigh='60' ></img>Tábuas
@@ -86,13 +81,8 @@ function App() {
                     <img src='/imagens/lixa.png' width="60" heigh='60' ></img>Lixa
                   </div>
                 </NavDropdown.Item>
-                <NavDropdown.Divider />
               </NavDropdown>
               <NavDropdown title="Vestuário" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">
-                  <div>
-                  </div>
-                </NavDropdown.Item>
                 <NavDropdown.Item href="/Tshirt">
                   <div>
                     <img src='/imagens/tshirt.png' width="60" heigh='60' ></img> T-shirts
@@ -123,13 +113,8 @@ function App() {
                     <img src='/imagens/sapatos.png' width="60" heigh='60' ></img> Sapatos
                   </div>
                 </NavDropdown.Item>
-                <NavDropdown.Divider />
               </NavDropdown>
               <NavDropdown title="Acessórios" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">
-                  <div>
-                  </div>
-                </NavDropdown.Item>
                 <NavDropdown.Item href="/Meias">
                   <div>
                     <img src='/imagens/meias.png' width="60" heigh='60' ></img> Meias
@@ -160,7 +145,6 @@ function App() {
                     <img src='/imagens/ferramenta.png' width="60" heigh='60' ></img> Ferramentas
                   </div>
                 </NavDropdown.Item>
-                <NavDropdown.Divider />
               </NavDropdown>
               </Nav>
               <Nav>

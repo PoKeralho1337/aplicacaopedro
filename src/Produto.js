@@ -13,7 +13,7 @@ function Produto() {
                 <h2>Produtos</h2>
                 <ul class="produtos">
                     <li class="produto">
-                        <img src="produto1.jpg" alt="Produto 1"/>
+                        <img src="imagens/jart1.png" alt="Produto 1"/>
                             <h3>Nome do Produto 1</h3>
                             <p class="preco">R$ 99,99</p>
                             <div class="opcoes">

@@ -26,8 +26,8 @@
   background-color: #ffffff;
   justify-content: space-between;
   width: 100%;
-  font-size: calc(13px + 2vmin);
-  padding: 1px;
+  font-size: calc(8px + 2vmin);
+  padding: 0,1px;
 }
 
 header.sticky{
@@ -108,16 +108,22 @@ color: white;
 .row{
   position: relative;
   transition: all .40s;
+  padding-left: 10%;
 }
 
 .row img{
-  width: 100%;
+  width: 70%;
   height: auto;
   transition: all .40s;
+  align-items: center;
 }
 
 .row img:hover{
   transform: scale(0.9);
+}
+
+.price{
+  text-align: center;
 }
 
 .product-text h5{
