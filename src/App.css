@@ -348,3 +348,8 @@ section{
 .dropdown-toggle::after {
   content: none;
 }
+
+.news-item h2{
+
+  text-align: center;
+}

@@ -28,22 +28,6 @@ function Produto() {
                                     <button class="adicionar-ao-carrinho" data-produto="1">Adicionar ao Carrinho</button>
                             </div>
                     </li>
-                    <li class="produto">
-                        <img src="produto2.jpg" alt="Produto 2"/>
-                            <h3>Nome do Produto 2</h3>
-                            <p class="preco">R$ 149,99</p>
-                            <div class="opcoes">
-                                <label for="quantidade2">Quantidade:</label>
-                                <input type="number" id="quantidade2" name="quantidade2" value="1" min="1"/>
-                                    <label for="tamanho2">Tamanho:</label>
-                                    <select id="tamanho2" name="tamanho2">
-                                        <option value="m">M</option>
-                                        <option value="l">L</option>
-                                        <option value="xl">XL</option>
-                                    </select>
-                                    <button class="adicionar-ao-carrinho" data-produto="2">Adicionar ao Carrinho</button>
-                            </div>
-                    </li>
                 </ul>
             </main>
         </body>

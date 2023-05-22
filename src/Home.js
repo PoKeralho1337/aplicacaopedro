@@ -37,7 +37,7 @@ function Home() {
             <Row>
               <Col>
             <div class="row">
-              <img src='imagens/adidascasacos3.png' alt="" />
+              <img src='imagens/adidascasacos3.png' alt=""/>
               <div class="product-text">
                 <h5>Novo</h5>
               </div>
