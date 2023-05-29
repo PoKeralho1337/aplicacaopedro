@@ -39,6 +39,7 @@ import Login from './Login';
 import Noticias from './Noticias';
 import Contact from './Contact';
 import Produto from './Produto';
+import SignIn from './SignIn';
 
 
 
@@ -187,6 +188,7 @@ function App() {
         <Route path='/Noticias' element={<Noticias />} />
         <Route path='/Contact' element={<Contact />} />
         <Route path='/Produto' element={<Produto />} />
+        <Route path='/SignIn' element={<SignIn />} />
 
       </Routes>
 

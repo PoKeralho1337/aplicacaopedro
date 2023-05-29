@@ -1,4 +1,4 @@
-import './App.css';
+import './login.css';
 import Button from 'react-bootstrap/Button';
 import React, {useState} from 'react';
 
@@ -20,7 +20,7 @@ function Login() {
               <input type="password" name='password' placeholder="Password" autoFocus></input>
               <input type="submit" value="Entrar"></input>
             </form>
-            <p>Não tem conta?<a href="#">Criar Conta</a></p>
+            <p>Não tem conta?<a href="/SignIn">Criar Conta</a></p>
           </div>
       </section>
       <section class="contact">

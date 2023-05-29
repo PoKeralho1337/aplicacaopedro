@@ -31,7 +31,7 @@ function Contact() {
       <header className="App-header"></header>
       <body className="App-body fundo">
         <section className="area-login">
-          <div className="login">
+          <div className="pagina-contacto">
             <div>
               <img src="/imagens/EspoSkate.png" alt="Logo" />
             </div>

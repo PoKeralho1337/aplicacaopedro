@@ -249,7 +249,7 @@ ul{
 }
 
 
-.login{
+.pagina-contacto{
   background-color: #e3e4e9;
   flex-direction: column;
   display: flex;
@@ -260,13 +260,13 @@ ul{
   border-radius: 10px;
 }
 
-.login form{
+.pagina-contacto form{
   display: flex;
   flex-direction: column;
   width: 100%;
 }
 
-.login input {
+.pagina-contacto input {
   margin-top: 10px;
   background-color: #ffffff;
   color: black;
@@ -277,7 +277,7 @@ ul{
   padding-left: 10px;
 }
 
-.login textarea {
+.pagina-contacto textarea {
   margin-top: 10px;
   background-color: #ffffff;
   color: black;
@@ -288,7 +288,7 @@ ul{
   padding-left: 10px;
 }
 
-.login img{
+.pagina-contacto img{
   width: 250px;
   height: auto;
 }
@@ -345,11 +345,12 @@ section{
   background: rgb(246, 246, 246)
 }
 
-.dropdown-toggle::after {
-  content: none;
-}
 
 .news-item h2{
 
   text-align: center;
+}
+
+.dropdown-toggle::after {
+  display: none !important; 
 }
