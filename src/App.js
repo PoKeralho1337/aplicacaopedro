@@ -40,11 +40,15 @@ import Noticias from './Noticias';
 import Contact from './Contact';
 import Produto from './Produto';
 import SignIn from './SignIn';
+import AboutUs from './AboutUs';
+import Privacidade from './Privacidade';
+import Affiliate from './Affiliate';
 
 
 
 import { Route, Routes } from 'react-router-dom';
 import { Link } from 'react-router-dom';
+import AffiliatePage from './Affiliate';
 
 function App() {
   return (
@@ -189,6 +193,9 @@ function App() {
         <Route path='/Contact' element={<Contact />} />
         <Route path='/Produto' element={<Produto />} />
         <Route path='/SignIn' element={<SignIn />} />
+        <Route path='/AboutUs' element={<AboutUs />} />
+        <Route path='/Privacidade' element={<Privacidade />} />
+        <Route path='/Affiliate' element={<Affiliate />} />
 
       </Routes>
 

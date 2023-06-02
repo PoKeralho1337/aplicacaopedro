@@ -55,7 +55,7 @@ function Tabuas() {
               <img src='/imagens/EspoSkate.png'/> <br></br>
 
               <a href='https://www.google.com/maps/place/C%C3%A2mara+Municipal+de+Esposende/@41.5314358,-8.7801767,18.96z/data=!4m14!1m7!3m6!1s0xd244bba6d8c44a1:0xd3bfe8a5d9eb0d42!2sC%C3%A2mara+Municipal+de+Esposende!8m2!3d41.531351!4d-8.7806344!16s%2Fg%2F1tfjmdhm!3m5!1s0xd244bba6d8c44a1:0xd3bfe8a5d9eb0d42!8m2!3d41.531351!4d-8.7806344!16s%2Fg%2F1tfjmdhm'>Praça do Município,<br />4740-223 Esposende</a>
-              <p>966 597 688</p>
+              <p> </p>
               <p>esposkate05@gmail.com</p>
 
               <div class="social-icon">
@@ -68,14 +68,14 @@ function Tabuas() {
             <div class="second-info">
               <h4>Support</h4>
               <a href='./Contact'>Contact Us</a>
-              <p>Siz Guide</p>
-              <p>Privacy</p>
+              <p> </p>
+              <a href='./Privacidade'>Privacy</a>
 
             </div>
             <div class="fourth-info">
               <h4>Company</h4>
-              <p>About</p>
-              <p>Affiliate</p>
+              <a href='./AboutUs'>About</a>
+              <p> </p>
               <a href='./Login'>Login</a>
 
             </div>

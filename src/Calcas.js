@@ -189,12 +189,12 @@ function Calcas() {
               <h4>Support</h4>
               <a href='./Contact'>Contact Us</a>
               <p>Siz Guide</p>
-              <p>Privacy</p>
+              <a href='./Privacidade'>Privacy</a>
 
             </div>
             <div class="fourth-info">
               <h4>Company</h4>
-              <p>About</p>
+              <a href='./AboutUs'>About</a>
               <p>Affiliate</p>
               <a href='./Login'>Login</a>
 

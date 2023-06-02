@@ -234,7 +234,7 @@ ul{
   color: rgb(53, 53, 53);
   margin-right: 10px;
   font-size: 20px;
-  transition: all .42s;
+  transition: all .42s;                                                         
 }
 
 .social-icon i:hover{
