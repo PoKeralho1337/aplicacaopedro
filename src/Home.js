@@ -36,6 +36,7 @@ function Home() {
             <Container>
             <Row>
               <Col>
+              <table>
             <div class="row">
               <img src='imagens/adidascasacos3.png' alt=""/>
               <div class="product-text">
@@ -46,8 +47,10 @@ function Home() {
               <h4>Casaco Adidas</h4>
               <p>76$</p>
             </div>
+            </table>
             </Col>
             <Col>
+            <table>
             <div class="row">
               <img src='imagens/antixcalcas2.png' alt=""/>
               <div class="product-text">
@@ -58,8 +61,10 @@ function Home() {
               <h4>Calcas Antix</h4>
               <p>87$</p>
             </div>
+            </table>
             </Col>
             <Col>
+            <table>
             <div class="row">
               <img src='imagens/rellcalcoes1.png' alt=""/>
               <div class="product-text">
@@ -70,10 +75,12 @@ function Home() {
               <h4>Sapatos Nike</h4>
               <p>60$</p>
             </div>
+            </table>
             </Col>
             </Row>
             <Row>
             <Col>
+            <table>
             <div class="row">
               <img src='imagens/jart3.png' alt=""/>
               <div class="product-text">
@@ -84,8 +91,10 @@ function Home() {
               <h4>Tábua Jart</h4>
               <p>120$</p>
             </div>
+            </table>
             </Col>
             <Col>
+            <table>
             <div class="row">
               <img src='imagens/jart1.png' alt=""/>
               <div class="product-text">
@@ -96,8 +105,10 @@ function Home() {
               <h4>Tábua Jart</h4>
               <p>120$</p>
             </div>
+            </table>
             </Col>
             <Col>
+            <table>
             <div class="row">
               <img src='imagens/jart2.png' alt=""/>
               <div class="product-text">
@@ -108,6 +119,7 @@ function Home() {
               <h4>Tábua Jart</h4>
               <p>120$</p>
             </div>
+            </table>
             </Col>
             </Row>
             </Container>       
