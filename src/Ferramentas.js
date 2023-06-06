@@ -164,15 +164,15 @@ function Ferramentas() {
             </div>
             <div class="second-info">
               <h4>Support</h4>
-              <a href='./Contact'>Contact Us</a><p>Contact Us</p>
-              <p>Siz Guide</p>
+              <a href='./Contact'>Contact Us</a>
+              <p> </p>
               <a href='./Privacidade'>Privacy</a>
 
             </div>
             <div class="fourth-info">
               <h4>Company</h4>
               <a href='./AboutUs'>About</a>
-              <p>Affiliate</p>
+              <p> </p>
               <a href='./Login'>Login</a>
 
             </div>

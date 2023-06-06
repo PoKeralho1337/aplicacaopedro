@@ -74,14 +74,14 @@ Convidamos você a visitar nossa loja em Esposende e descobrir tudo o que a Skat
                         <div class="second-info">
                             <h4>Support</h4>
                             <a href='./Contact'>Contact Us</a>
-                            <p>Siz Guide</p>
-                            <p>Privacy</p>
+                            <p> </p>
+                            <a href='./Privacidade'>Privacy</a>
 
                         </div>
                         <div class="fourth-info">
                             <h4>Company</h4>
                             <a href='./AboutUs'>About</a>
-                            <p>Affiliate</p>
+                            <p> </p>
                             <a href='./Login'>Login</a>
 
                         </div>

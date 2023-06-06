@@ -68,14 +68,14 @@ function Rolamentos() {
             <div class="second-info">
               <h4>Support</h4>
               <a href='./Contact'>Contact Us</a>
-              <p>Siz Guide</p>
+              <p> </p>
               <a href='./Privacidade'>Privacy</a>
 
             </div>
             <div class="fourth-info">
               <h4>Company</h4>
               <a href='./AboutUs'>About</a>
-              <p>Affiliate</p>
+              <p> </p>
               <a href='./Login'>Login</a>
 
             </div>
