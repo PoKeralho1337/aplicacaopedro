@@ -21,6 +21,7 @@ function Home() {
       </header>
       <body class="corfundo">
         <section class="home" id="home">
+          <div class="circle"></div>
           <div class="home-text">
             <span>Bem-Vindo Ao</span> 
             <h1>EspoSkate</h1>
@@ -37,19 +38,21 @@ function Home() {
             <h1>Nova <span>Coleção</span></h1>
           </div>
 
-          <div class="products">
+          <div class="produtos">
             <Container>
             <Row>
               <Col>
               <table>
-            <div className='box1'>
-            <div class="imagens-box1">
+            <div className='produto-card'>
+            <div class="card__infos">
               <img src='imagens/adidascasacos3.png' alt=""/>
               <div class="product-text">
               </div>
             </div>
-            <div className='bottom'>
+            <div class="card__title">
               <h4>Casaco Adidas</h4>
+            </div>
+            <div class="card__price">
               <p>76$</p>
             </div>
             </div>
@@ -57,29 +60,33 @@ function Home() {
             </Col>
             <Col>
             <table>
-            <div className='box1'>
-            <div class="imagens-box1">
+            <div className='produto-card'>
+            <div class="card__infos">
               <img src='imagens/antixcalcas2.png' alt=""/>
               <div class="product-text">
               </div>
             </div>
-            <div class="bottom">
+            <div class="card__title">
               <h4>Calcas Antix</h4>
-              <p>87$</p>
+            </div>
+            <div class="card__price">
+              <p>80$</p>
             </div>
             </div>
             </table>
             </Col>
             <Col>
             <table>
-            <div className='box1'>
-            <div class="imagens-box1">
+            <div className='produto-card'>
+            <div class="card__infos">
               <img src='imagens/rellcalcoes1.png' alt=""/>
               <div class="product-text">
               </div>
             </div>
-            <div class="bottom">
+            <div class="card__title">
               <h4>Sapatos Nike</h4>
+            </div>
+            <div class="card__price">
               <p>60$</p>
             </div>
             </div>
@@ -89,14 +96,16 @@ function Home() {
             <Row>
             <Col>
             <table>
-            <div className='box1'>
-            <div class="imagens-box1">
-              <img src='imagens/jart3.png'/>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/jart4.png'/>
               <div class="product-text">
               </div>
             </div>
-            <div class="bottom">
+            <div class="card__title">
               <h4>Tábua Jart</h4>
+            </div>
+            <div class="card__price card__bottom ">
               <p>120$</p>
             </div>
             </div>
@@ -104,14 +113,16 @@ function Home() {
             </Col>
             <Col>
             <table>
-            <div className='box1'>
-            <div class="imagens-box1">
+            <div className='produto-card'>
+            <div class="card__infos">
               <img src='imagens/jart1.png' alt=""/>
               <div class="product-text">
               </div>
             </div>
-            <div class="bottom">
+            <div class="card__title">
               <h4>Tábua Jart</h4>
+            </div>
+            <div class="card__price card__bottom ">
               <p>120$</p>
             </div>
             </div>
@@ -119,14 +130,16 @@ function Home() {
             </Col>
             <Col>
             <table>
-            <div className='box1'>
-            <div class="imagens-box1">
+            <div className='produto-card'>
+            <div class="card__infos">
               <img src='imagens/jart2.png' alt=""/>
               <div class="product-text">
               </div>
             </div>
-            <div class="bottom">
+            <div class="card__title">
               <h4>Tábua Jart</h4>
+            </div>
+            <div class="card__price card__bottom " >
               <p>120$</p>
             </div>
             </div>
@@ -155,21 +168,21 @@ function Home() {
 
             </div>
             <div class="second-info">
-              <h4>Support</h4>
-              <a href='./Contact'>Contact Us</a>
+              <h4>Suporte</h4>
+              <a href='./Contact'>Contacta-nos</a>
               <p> </p>
-              <a href='./Privacidade'>Privacy</a>
+              <a href='./Privacidade'>Privacidade</a>
 
             </div>
             <div class="fourth-info">
-              <h4>Company</h4>
-              <a href='./AboutUs'>About</a>
+              <h4>Empresa</h4>
+              <a href='./AboutUs'>Sobre</a>
               <p> </p>
               <a href='./Login'>Login</a>
 
             </div>
             <div class="five">
-              <h4>Subscribe</h4>
+              <h4>Subscreve</h4>
               <p>Receba atualizações,Descontos, altas promoções no seu email</p>
               <p>Receive updates, discounts, high promotions in your email</p>
               <p>Recevez des mises à jour, des réductions, des promotions élevées dans votre e-mail</p>

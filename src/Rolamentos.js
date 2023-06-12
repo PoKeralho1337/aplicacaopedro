@@ -66,21 +66,21 @@ function Rolamentos() {
 
             </div>
             <div class="second-info">
-              <h4>Support</h4>
-              <a href='./Contact'>Contact Us</a>
+              <h4>Suporte</h4>
+              <a href='./Contact'>Contacta-nos</a>
               <p> </p>
-              <a href='./Privacidade'>Privacy</a>
+              <a href='./Privacidade'>Privacidade</a>
 
             </div>
             <div class="fourth-info">
-              <h4>Company</h4>
-              <a href='./AboutUs'>About</a>
+              <h4>Empresa</h4>
+              <a href='./AboutUs'>Sobre</a>
               <p> </p>
               <a href='./Login'>Login</a>
 
             </div>
             <div class="five">
-              <h4>Subscribe</h4>
+              <h4>Subscreve</h4>
               <p>Receba atualizações,Descontos, altas promoções no seu email</p>
               <p>Receive updates, discounts, high promotions in your email</p>
               <p>Recevez des mises à jour, des réductions, des promotions élevées dans votre e-mail</p>

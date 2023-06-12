@@ -66,15 +66,15 @@ function Rodas() {
 
             </div>
             <div class="second-info">
-              <h4>Support</h4>
-              <a href='./Contact'>Contact Us</a>
+              <h4>Suporte</h4>
+              <a href='./Contact'>Contacta-nos</a>
               <p> </p>
-              <a href='./Privacidade'>Privacy</a>
+              <a href='./Privacidade'>Privacidade</a>
 
             </div>
             <div class="fourth-info">
-              <h4>Company</h4>
-              <a href='./AboutUs'>About</a>
+              <h4>Empresa</h4>
+              <a href='./AboutUs'>Sobre</a>
               <p> </p>
               <a href='./Login'>Login</a>
 
