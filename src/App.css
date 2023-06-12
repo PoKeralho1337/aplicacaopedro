@@ -50,6 +50,14 @@ li, a, button{
     list-style: none;
 }
 
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
 .nav__links li {
     display: inline-block;
     padding: 0px 20px;
@@ -319,7 +327,7 @@ section{
   margin: 0.5rem 0 1.4rem;
 }
 
-.btn{
+.my-btn{
   padding: 7px 16px;
   border: 2px solid var(--second-color);
   border-radius: 40px;
@@ -332,7 +340,7 @@ section{
   
 }
 
-.btn:hover {
+.my-btn:hover {
   background-color: var(--second-color);
   color: white;
 }

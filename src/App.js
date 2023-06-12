@@ -47,11 +47,30 @@ import Affiliate from './Affiliate';
 import { Route, Routes } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import AffiliatePage from './Affiliate';
+import React, { useState, useEffect } from 'react';
 
 function App() {
+  const [navbarFixed, setNavbarFixed] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 0) {
+        setNavbarFixed(true);
+      } else {
+        setNavbarFixed(false);
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
   return (
     <div>
-      <header className="App-header nav__link">
+      <header className={`App-header nav__link ${navbarFixed ? 'fixed' : ''}`}>
         <Navbar bg="white" variant='white' expand="lg" >
             <Navbar.Brand href="#home" ></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
