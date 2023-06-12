@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import './App.css';
+import './Produtos.css';
+import './App';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
@@ -21,9 +22,13 @@ function Home() {
       <body class="corfundo">
         <section class="home" id="home">
           <div class="home-text">
-            <h1>Noticias <span>Ler mais</span></h1>
-            <p>Portugal faz história</p>
-            <a href='/Noticias' class="btn">Ver noticias</a>
+            <span>Bem-Vindo Ao</span> 
+            <h1>EspoSkate</h1>
+            <h2>Melhor Loja Online<br></br>De Skates</h2>
+            <a href='' className="btn">Continuar</a>
+          </div>
+          <div class="home-img">
+            <img src='imagens/home.png'></img>
           </div>
         </section>
 
@@ -37,43 +42,46 @@ function Home() {
             <Row>
               <Col>
               <table>
-            <div class="row">
+            <div className='box1'>
+            <div class="imagens-box1">
               <img src='imagens/adidascasacos3.png' alt=""/>
               <div class="product-text">
-                <h5>Novo</h5>
               </div>
             </div>
-            <div class="price">
+            <div className='bottom'>
               <h4>Casaco Adidas</h4>
               <p>76$</p>
             </div>
+            </div>
             </table>
             </Col>
             <Col>
             <table>
-            <div class="row">
+            <div className='box1'>
+            <div class="imagens-box1">
               <img src='imagens/antixcalcas2.png' alt=""/>
               <div class="product-text">
-                <h5>Novo</h5>
               </div>
             </div>
-            <div class="price">
+            <div class="bottom">
               <h4>Calcas Antix</h4>
               <p>87$</p>
             </div>
+            </div>
             </table>
             </Col>
             <Col>
             <table>
-            <div class="row">
+            <div className='box1'>
+            <div class="imagens-box1">
               <img src='imagens/rellcalcoes1.png' alt=""/>
               <div class="product-text">
-                <h5>Novo</h5>
               </div>
             </div>
-            <div class="price">
+            <div class="bottom">
               <h4>Sapatos Nike</h4>
               <p>60$</p>
+            </div>
             </div>
             </table>
             </Col>
@@ -81,43 +89,46 @@ function Home() {
             <Row>
             <Col>
             <table>
-            <div class="row">
-              <img src='imagens/jart3.png' alt=""/>
+            <div className='box1'>
+            <div class="imagens-box1">
+              <img src='imagens/jart3.png'/>
               <div class="product-text">
-                <h5>Novo</h5>
               </div>
             </div>
-            <div class="price">
+            <div class="bottom">
               <h4>Tábua Jart</h4>
               <p>120$</p>
+            </div>
             </div>
             </table>
             </Col>
             <Col>
             <table>
-            <div class="row">
+            <div className='box1'>
+            <div class="imagens-box1">
               <img src='imagens/jart1.png' alt=""/>
               <div class="product-text">
-                <h5>Novo</h5>
               </div>
             </div>
-            <div class="price">
+            <div class="bottom">
               <h4>Tábua Jart</h4>
               <p>120$</p>
+            </div>
             </div>
             </table>
             </Col>
             <Col>
             <table>
-            <div class="row">
+            <div className='box1'>
+            <div class="imagens-box1">
               <img src='imagens/jart2.png' alt=""/>
               <div class="product-text">
-                <h5>Novo</h5>
               </div>
             </div>
-            <div class="price">
+            <div class="bottom">
               <h4>Tábua Jart</h4>
               <p>120$</p>
+            </div>
             </div>
             </table>
             </Col>

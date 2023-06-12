@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
+:root{
+  --main-color:rgb(255, 0, 0);
+  --second-color: rgb(0, 0, 0);
+}
+
 *{
   padding: 0;
   margin: 0;
@@ -16,11 +21,6 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
   background-color: #ffffff;
@@ -62,14 +62,7 @@ li, a, button{
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
 .App-body {
   background-color:rgb(246, 246, 246);
   font-size:22px;
@@ -80,12 +73,6 @@ li, a, button{
   background-color:rgb(0, 0, 0);
 }
 
-
-.color{
-
-color: white;
-
-}
 
 .center-text h2{
   color: black;
@@ -126,45 +113,6 @@ color: white;
   text-align: center;
 }
 
-.product-text h5{
-  position: absolute;
-  top: 13px;
-  left: 13PX;
-  color: #fff;
-  font-size: 12px;  
-  font-weight: 500;
-  text-transform: uppercase;
-  background-color: #27b737;
-  padding: 3px 10px;
-  border-radius: 2px;
-}
-
-.btn{
-  display: inline-block;
-  padding: 13px 25px;
-  background: var(--main-color);
-  color: var(--bg-color);
-  font-size: 15px;
-  letter-spacing: 1px;
-  font-weight: 600;
-  border-radius: 5px;
-  transition: all .35s ease; 
-}
-
-.btn:hover{
-  transform: translateY(-5px);
-  background: var(--text-color);
-  
-}
-
-.newcollection 
-.App-listar {
-list-style: none;
-}
-
-ul{
-  list-style: none;
-}
 
 .App-border{
   border: 1px solid black;
@@ -317,23 +265,78 @@ section{
 .home {
   min-height: 100vh;
   width: 100%;
-  background: url(/public/imagens/fundo1.PNG);
-  background-size: cover;
-  background-position: center top;
-  position: relative;
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(236, 234, 234);
   align-items: center;
-}
-
-.home-text h1{
-  font-size: var(--big-font);
-  font-weight: 800;
-  line-height: 1.2;
-  letter-spacing: .6rem;
-  margin-bottom: 1.4rem;
+  gap: 1rem;
 
 }
+
+.home-text {
+  flex: 1 1 17rem;
+}
+
+.home-img {
+  flex: 1 1 16rem;
+}
+
+.home-img img{
+  animation: animate 3s linear infinite;
+}
+
+@keyframes animate{
+  0%{
+    transform: translate(-31px, 0);
+  }
+  50%{
+    transform: translate(-0px, -31px);
+  }
+  100%{
+    transform: translate(-31px, 0);
+  }
+}
+
+.home-text span {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--second-color);
+}
+
+.home-text h1 {
+  font-size: 4.5rem;
+  color: var(--main-color);
+  font-weight: bolder;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.home-text h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--second-color);
+  text-transform: capitalize;
+  margin: 0.5rem 0 1.4rem;
+}
+
+.btn{
+  padding: 7px 16px;
+  border: 2px solid var(--second-color);
+  border-radius: 40px;
+  color: var(--second-color);
+  font-weight: 500;
+  display: inline-block;
+  text-decoration: none;
+  background-color: transparent;
+  transition: background-color 0.3s ease; 
+  
+}
+
+.btn:hover {
+  background-color: var(--second-color);
+  color: white;
+}
+
 
 .fundo{
   background: url(/public/imagens/fundo5.jpg);

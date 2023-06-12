@@ -375,3 +375,21 @@ INSERT INTO products (dtype, model, price, brand_id) VALUES("Tshirt", "Dickies M
 INSERT INTO products (dtype, model, price, brand_id) VALUES("Tshirt", "DICKIES BROOKSTON BELT (BLACK)", 24.99, 262)
 INSERT INTO products (dtype, model, price, brand_id) VALUES("Tshirt", "DICKIES ORCUTT BELT (BLACK)", 19.99, 262)
 
+
+
+
+INSERT INTO category_brand(brand_id, category_brand) VALUES( )
+
+
+.product-text h5{
+    position: absolute;
+    top: 13px;
+    left: 13PX;
+    color: #fff;
+    font-size: 12px;  
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: #27b737;
+    padding: 3px 10px;
+    border-radius: 2px;
+  }

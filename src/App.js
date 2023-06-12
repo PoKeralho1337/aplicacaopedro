@@ -11,7 +11,6 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Home from './Home.js';
 import Acessorios from './Acessorios.js';
-import Vestuario from './Vestuario.js';
 import Marcas from './Marcas.js';
 import Lixa from './Lixa.js';
 import Tabuas from './Tabuas.js';
@@ -20,7 +19,6 @@ import Trucks from './Trucks.js';
 import Rodas from './Rodas.js';
 import Antix from './Antix.js';
 import Thrasher from './Thrasher';
-import Vans from './Vans';
 import Polar from './Polar';
 import Tshirt from './Tshirt';
 import Hoodies from './Hoodies';
@@ -163,7 +161,6 @@ function App() {
       </header>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/Vestuario' element={<Vestuario />} />
         <Route path='/Acessorios' element={<Acessorios />} />
         <Route path='/Marcas' element={<Marcas />} />
         <Route path='/Tabuas' element={<Tabuas />} />
@@ -173,7 +170,6 @@ function App() {
         <Route path='/Rodas' element={<Rodas />} />
         <Route path='/Antix' element={<Antix />} />
         <Route path='/Polar' element={<Polar />} />
-        <Route path='/Vans' element={<Vans />} />
         <Route path='/Thrasher' element={<Thrasher />} />
         <Route path='/Tshirt' element={<Tshirt />} />
         <Route path='/Hoodies' element={<Hoodies />} />
