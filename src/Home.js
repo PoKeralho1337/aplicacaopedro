@@ -1,13 +1,42 @@
+import { useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
+import Slider from 'react-slick';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 import './Produtos.css';
 import './App';
 import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
-
-
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 function Home() {
+  const sectionsRef = useRef([]);
+
+  useEffect(() => {
+    const options = {
+      root: null,
+      rootMargin: '0px',
+      threshold: 0.3, 
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('active');
+        } else {
+          entry.target.classList.remove('active');
+        }
+      });
+    }, options);
+
+    sectionsRef.current.forEach((section) => {
+      observer.observe(section);
+    });
+
+    return () => {
+      observer.disconnect();
+    };
+  }, []);
   return (
     <div className="App">
       <header className="App-header">
@@ -20,7 +49,7 @@ function Home() {
         <link href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap' rel="stylesheet" />
       </header>
       <body class="corfundo">
-        <section class="home" id="home">
+        <section ref={(el) => (sectionsRef.current[0] = el)} className="home fade-in">
           <div class="circle"></div>
           <div class="home-text">
             <span>Bem-Vindo Ao</span> 
@@ -32,10 +61,127 @@ function Home() {
             <img src='imagens/home.png'></img>
           </div>
         </section>
-
-        <section class="trending-product" id="trending">
+        <section ref={(el) => (sectionsRef.current[1] = el)} className="trending-product fade-in">
           <div class="center-text">
             <h1>Nova <span>Coleção</span></h1>
+          </div>
+
+          <div class="produtos">
+            <Container>
+            <Row>
+              <Col>
+              <table>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/adidascasacos3.png' alt=""/>
+              <div class="product-text">
+              </div>
+            </div>
+            <div class="card__title">
+              <h4>Casaco Adidas</h4>
+            </div>
+            <div class="card__price">
+              <p>76$</p>
+            </div>
+            </div>
+            </table>
+            </Col>
+            <Col>
+            <table>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/antixcalcas2.png' alt=""/>
+              <div class="product-text">
+              </div>
+            </div>
+            <div class="card__title">
+              <h4>Calcas Antix</h4>
+            </div>
+            <div class="card__price">
+              <p>80$</p>
+            </div>
+            </div>
+            </table>
+            </Col>
+            <Col>
+            <table>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/rellcalcoes1.png' alt=""/>
+              <div class="product-text">
+              </div>
+            </div>
+            <div class="card__title">
+              <h4>Sapatos Nike</h4>
+            </div>
+            <div class="card__price">
+              <p>60$</p>
+            </div>
+            </div>
+            </table>
+            </Col>
+            </Row>
+            <Row>
+            <Col>
+            <table>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/jart4.png'/>
+              <div class="product-text">
+              </div>
+            </div>
+            <div class="card__title">
+              <h4>Tábua Jart</h4>
+            </div>
+            <div class="card__price card__bottom ">
+              <p>120$</p>
+            </div>
+            </div>
+            </table>
+            </Col>
+            <Col>
+            <table>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/jart1.png' alt=""/>
+              <div class="product-text">
+              </div>
+            </div>
+            <div class="card__title">
+              <h4>Tábua Jart</h4>
+            </div>
+            <div class="card__price card__bottom ">
+              <p>120$</p>
+            </div>
+            </div>
+            </table>
+            </Col>
+            <Col>
+            <table>
+            <div className='produto-card'>
+            <div class="card__infos">
+              <img src='imagens/jart2.png' alt=""/>
+              <div class="product-text">
+              </div>
+            </div>
+            <div class="card__title">
+              <h4>Tábua Jart</h4>
+            </div>
+            <div class="card__price card__bottom " >
+              <p>120$</p>
+            </div>
+            </div>
+            </table>
+            </Col>
+            </Row>
+            </Container>       
+          </div>
+
+        </section>
+
+        <section ref={(el) => (sectionsRef.current[2] = el)} className="trending-product fade-in">
+          <div class="center-text">
+            <h1>Promoções</h1>
           </div>
 
           <div class="produtos">
