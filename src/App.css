@@ -276,7 +276,7 @@ a:link{
 }
 
 section{
-  padding: 100px 14%;
+  padding: 70px 14%;
 }
 
 .home {
@@ -396,9 +396,50 @@ section{
   transform: translateY(0);
 }
 
-.carousel{
+.carosel{
   width: 50%;
   margin: 10rem auto;
-  height: 570px;
+  height: 580px;
+  }
 
-}
+  .slide img {
+    width: 16rem;
+    margin: 0 auto ;
+    margin-top: 0.5rem;
+  }
+  
+  .slide {
+    transform: scale(0.2);
+    transition: transform 300ms;
+    opacity: 0.5;
+  }
+  
+  .activeSlide {
+    transform: scale(1);
+    opacity: 1;
+  }
+  
+  .arrow {
+    background-color: rgb(246, 246, 246);
+    position: absolute;
+    cursor: pointer;
+    z-index: 10;
+  }
+  
+  .arrow svg {
+    transition: color 300ms;
+  }
+  
+  .arrow svg:hover {
+    color: #d60000;
+  }
+  
+  .next {
+    right: 0%;
+    top: 50%;
+  }
+  
+  .prev {
+    left: 0%;
+    top: 50%;
+  }
