@@ -42,3 +42,8 @@
     line-height: 1.5;
     font-weight: 500;
 }
+
+.produto-imagem {
+    width: 200px; /* Defina a largura desejada */
+    height: 200px; /* Defina a altura desejada */
+  }

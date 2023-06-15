@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
 
 :root{
   --main-color:rgb(255, 0, 0);
@@ -107,6 +109,13 @@ li, a, button{
 }
 
 .row img{
+  width: 200px;
+  height: 200px;
+  transition: all .40s;
+  align-items: center;
+}
+
+.row-2 img{
   width: 70%;
   height: auto;
   transition: all .40s;
@@ -385,4 +394,11 @@ section{
 .fade-in.active {
   opacity: 1;
   transform: translateY(0);
+}
+
+.carousel{
+  width: 50%;
+  margin: 10rem auto;
+  height: 570px;
+
 }

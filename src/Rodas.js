@@ -21,7 +21,7 @@ function Rodas() {
       <body className='App-body'>
         <ul>
           <Container>
-          <Row xs= {1} md={4}>
+          <Row xs= {1} md={4} className="row-2">
           {
             data.Spitfire.map(item => (
               <li key={item.id}> 

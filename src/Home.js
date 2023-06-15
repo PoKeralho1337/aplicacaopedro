@@ -1,4 +1,5 @@
 import { useEffect, useRef } from 'react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
@@ -8,6 +9,14 @@ import './App';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import tabua1 from "./img/tabua1.png"
+import tabua2 from "./img/tabua2.png"
+import tabua3 from "./img/tabua3.png"
+import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
+
+
+
+const images = [tabua1, tabua2, tabua3]
 
 function Home() {
   const sectionsRef = useRef([]);
@@ -37,6 +46,34 @@ function Home() {
       observer.disconnect();
     };
   }, []);
+
+
+  const NextArrow = ({onClick}) => {
+    return(
+      <div className='arrow next' onClick={onClick}>
+        
+      </div>
+    )
+  }
+
+  const PrevArrow = ({onClick}) => {
+    return(
+      <div className='arrow prev' onClick={onClick}>
+        
+      </div>
+    )
+  }
+
+  const settings = {
+    infinite: true,
+    lazyload: true,
+    speed: 300,
+    slidesToShow: 3,
+    centerMode: true,
+    centerPadding: 0,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />
+  }
   return (
     <div className="App">
       <header className="App-header">
@@ -66,9 +103,9 @@ function Home() {
             <h1>Nova <span>Coleção</span></h1>
           </div>
 
-          <div class="produtos">
+          <div className="produtos">
             <Container>
-            <Row>
+            <Row className="row-2 img">
               <Col>
               <table>
             <div className='produto-card'>
@@ -126,7 +163,7 @@ function Home() {
             <table>
             <div className='produto-card'>
             <div class="card__infos">
-              <img src='imagens/jart4.png'/>
+              <img src='imagens/thrasherhoodie14.png'  alt="" class="produto-imagem"/>
               <div class="product-text">
               </div>
             </div>
@@ -143,7 +180,7 @@ function Home() {
             <table>
             <div className='produto-card'>
             <div class="card__infos">
-              <img src='imagens/jart1.png' alt=""/>
+              <img src='imagens/nikechapeus1.png'  alt="" class="produto-imagem"/>
               <div class="product-text">
               </div>
             </div>
@@ -160,7 +197,7 @@ function Home() {
             <table>
             <div className='produto-card'>
             <div class="card__infos">
-              <img src='imagens/jart2.png' alt=""/>
+              <img src='imagens/vanssapatos1.png' />
               <div class="product-text">
               </div>
             </div>
@@ -176,126 +213,19 @@ function Home() {
             </Row>
             </Container>       
           </div>
-
         </section>
 
-        <section ref={(el) => (sectionsRef.current[2] = el)} className="trending-product fade-in">
-          <div class="center-text">
-            <h1>Promoções</h1>
+        <section>
+          <div className='carousel'>
+            <Slider {...settings}>
+              {images.map((img, idx) => (
+                <div>
+                  <img src={img} alt={img} />
+                </div>
+              ))}
+            </Slider>
           </div>
-
-          <div class="produtos">
-            <Container>
-            <Row>
-              <Col>
-              <table>
-            <div className='produto-card'>
-            <div class="card__infos">
-              <img src='imagens/adidascasacos3.png' alt=""/>
-              <div class="product-text">
-              </div>
-            </div>
-            <div class="card__title">
-              <h4>Casaco Adidas</h4>
-            </div>
-            <div class="card__price">
-              <p>76$</p>
-            </div>
-            </div>
-            </table>
-            </Col>
-            <Col>
-            <table>
-            <div className='produto-card'>
-            <div class="card__infos">
-              <img src='imagens/antixcalcas2.png' alt=""/>
-              <div class="product-text">
-              </div>
-            </div>
-            <div class="card__title">
-              <h4>Calcas Antix</h4>
-            </div>
-            <div class="card__price">
-              <p>80$</p>
-            </div>
-            </div>
-            </table>
-            </Col>
-            <Col>
-            <table>
-            <div className='produto-card'>
-            <div class="card__infos">
-              <img src='imagens/rellcalcoes1.png' alt=""/>
-              <div class="product-text">
-              </div>
-            </div>
-            <div class="card__title">
-              <h4>Sapatos Nike</h4>
-            </div>
-            <div class="card__price">
-              <p>60$</p>
-            </div>
-            </div>
-            </table>
-            </Col>
-            </Row>
-            <Row>
-            <Col>
-            <table>
-            <div className='produto-card'>
-            <div class="card__infos">
-              <img src='imagens/jart4.png'/>
-              <div class="product-text">
-              </div>
-            </div>
-            <div class="card__title">
-              <h4>Tábua Jart</h4>
-            </div>
-            <div class="card__price card__bottom ">
-              <p>120$</p>
-            </div>
-            </div>
-            </table>
-            </Col>
-            <Col>
-            <table>
-            <div className='produto-card'>
-            <div class="card__infos">
-              <img src='imagens/jart1.png' alt=""/>
-              <div class="product-text">
-              </div>
-            </div>
-            <div class="card__title">
-              <h4>Tábua Jart</h4>
-            </div>
-            <div class="card__price card__bottom ">
-              <p>120$</p>
-            </div>
-            </div>
-            </table>
-            </Col>
-            <Col>
-            <table>
-            <div className='produto-card'>
-            <div class="card__infos">
-              <img src='imagens/jart2.png' alt=""/>
-              <div class="product-text">
-              </div>
-            </div>
-            <div class="card__title">
-              <h4>Tábua Jart</h4>
-            </div>
-            <div class="card__price card__bottom " >
-              <p>120$</p>
-            </div>
-            </div>
-            </table>
-            </Col>
-            </Row>
-            </Container>       
-          </div>
-
-        </section>
+          </section>
 
         <section class="contact">
           <div class="contact-info">

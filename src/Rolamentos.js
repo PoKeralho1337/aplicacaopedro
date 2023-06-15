@@ -9,6 +9,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Figure from 'react-bootstrap/Figure';
 
+
 function Rolamentos() {
 
   var data = require('./Rolamentos.json');
@@ -21,7 +22,7 @@ function Rolamentos() {
       <body className='App-body'>
         <ul>
           <Container>
-          <Row xs= {1} md={4}>
+          <Row xs= {1} md={4} >
           {
             data.Bones.map(item => (
               <li key={item.id}> 
