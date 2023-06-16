@@ -41,9 +41,6 @@ import SignIn from './SignIn';
 import AboutUs from './AboutUs';
 import Privacidade from './Privacidade';
 import Affiliate from './Affiliate';
-
-
-
 import { Route, Routes } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import AffiliatePage from './Affiliate';

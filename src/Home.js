@@ -104,7 +104,7 @@ function Home() {
         </section>
         <section ref={(el) => (sectionsRef.current[1] = el)} className="trending-product fade-in">
           <div class="center-text">
-            <h1>Nova <span>Coleção</span></h1>
+            <h1 style={{ textTransform: 'uppercase' }}>Nova <span>Coleção</span></h1>
           </div>
           <div className="produtos">
             <Container>
@@ -121,7 +121,7 @@ function Home() {
                         <h4>Casaco Adidas</h4>
                       </div>
                       <div class="card__price">
-                        <p>76$</p>
+                        <p>109,99 €</p>
                       </div>
                     </div>
                   </table>
@@ -138,7 +138,7 @@ function Home() {
                         <h4>Calcas Antix</h4>
                       </div>
                       <div class="card__price">
-                        <p>80$</p>
+                        <p>69,99 €</p>
                       </div>
                     </div>
                   </table>
@@ -152,10 +152,10 @@ function Home() {
                         </div>
                       </div>
                       <div class="card__title">
-                        <h4>Sapatos Nike</h4>
+                        <h4>Calções Reell</h4>
                       </div>
                       <div class="card__price">
-                        <p>60$</p>
+                        <p>59,99 €</p>
                       </div>
                     </div>
                   </table>
@@ -171,10 +171,10 @@ function Home() {
                         </div>
                       </div>
                       <div class="card__title">
-                        <h4>Tábua Jart</h4>
+                        <h4>Thrasher Hoodie</h4>
                       </div>
                       <div class="card__price card__bottom ">
-                        <p>120$</p>
+                        <p>89,99 €</p>
                       </div>
                     </div>
                   </table>
@@ -188,10 +188,10 @@ function Home() {
                         </div>
                       </div>
                       <div class="card__title">
-                        <h4>Tábua Jart</h4>
+                        <h4>Nike Chapéu</h4>
                       </div>
                       <div class="card__price card__bottom ">
-                        <p>120$</p>
+                        <p>22,99 €</p>
                       </div>
                     </div>
                   </table>
@@ -205,10 +205,10 @@ function Home() {
                         </div>
                       </div>
                       <div class="card__title">
-                        <h4>Tábua Jart</h4>
+                        <h4>Sapatos Vans</h4>
                       </div>
                       <div class="card__price card__bottom " >
-                        <p>120$</p>
+                        <p>94,90 €</p>
                       </div>
                     </div>
                   </table>
@@ -220,7 +220,7 @@ function Home() {
 
         <section ref={(el) => (sectionsRef.current[2] = el)} className="trending-product fade-in">
         <div class="center-text">
-            <h1>Promoções</h1>
+        <h1 style={{ textTransform: 'uppercase' }}>Produtos em <span>Promoção</span></h1>
           </div>
           <div className="carosel">
             <Slider {...settings}>

@@ -2,6 +2,7 @@
 @import "~slick-carousel/slick/slick.css";
 @import "~slick-carousel/slick/slick-theme.css";
 
+
 :root{
   --main-color:rgb(255, 0, 0);
   --second-color: rgb(0, 0, 0);
@@ -74,7 +75,7 @@ li, a, button{
 
 
 .App-body {
-  background-color:rgb(246, 246, 246);
+  background-color:rgb(241, 241, 241);
   font-size:22px;
   color:rgb(0, 0, 0);
   text-align: center;
@@ -83,6 +84,11 @@ li, a, button{
   background-color:rgb(0, 0, 0);
 }
 
+.center-text h1 {
+  font-size: 50px;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
 
 .center-text h2{
   color: black;
@@ -400,22 +406,29 @@ section{
   width: 50%;
   margin: 10rem auto;
   height: 580px;
+  margin-top: -50px;
+  
   }
 
   .slide img {
-    width: 16rem;
     margin: 0 auto ;
-    margin-top: 0.5rem;
+    margin-top: 0.4rem;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
   }
   
   .slide {
     transform: scale(0.2);
     transition: transform 300ms;
     opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
   }
   
   .activeSlide {
-    transform: scale(1);
+    transform: scale(0.8);
     opacity: 1;
   }
   
@@ -443,3 +456,15 @@ section{
     left: 0%;
     top: 50%;
   }
+
+  .trending-product {
+    padding: 70px 14% 0;
+    text-align: center;
+  }
+  
+  .trending-product .center-text h1 {
+    font-size: 50px;
+    padding-bottom: 40px;
+  }
+
+ 
