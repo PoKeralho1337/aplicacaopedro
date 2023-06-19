@@ -19,29 +19,30 @@ function Cintos() {
 
       </header>
       <body className='App-body App-Card.Body App-listar'>
-        <ul>
+        <ul className='productList'>
           <Container>
-            <Row xs={1} md={4}>
+            <Row xs={1} md={4} className="row-2">
               {
                 data.Antix.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         className='img'
                         width={200}
                         height={200}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -49,24 +50,25 @@ function Cintos() {
               }
               {
                 data.Carhartt.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         className='img'
                         width={200}
                         height={200}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -74,24 +76,25 @@ function Cintos() {
               }
               {
                 data.Dickies.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         className='img'
                         width={200}
                         height={200}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -99,24 +102,25 @@ function Cintos() {
               }
               {
                 data.Element.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard"> 
                     <Figure>
                       <Figure.Image
                         className='img'
                         width={200}
                         height={200}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -124,24 +128,25 @@ function Cintos() {
               }
               {
                 data.Independent.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         className='img'
                         width={200}
                         height={200}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -149,7 +154,7 @@ function Cintos() {
               }
               {
                 data['Santa Cruz'].map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         className='img'
@@ -160,13 +165,13 @@ function Cintos() {
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>

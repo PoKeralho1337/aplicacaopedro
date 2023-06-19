@@ -467,4 +467,12 @@ section{
     padding-bottom: 40px;
   }
 
- 
+  .productLink {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .productLink:hover {
+    color: #000;
+    text-decoration: none;
+  }

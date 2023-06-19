@@ -208,6 +208,24 @@ function App() {
         <Route path='/AboutUs' element={<AboutUs />} />
         <Route path='/Privacidade' element={<Privacidade />} />
         <Route path='/Affiliate' element={<Affiliate />} />
+        <Route path='/Tshirt/:categoryId' element={<Tshirt />} />
+        <Route path='/Tabuas/:categoryId' element={<Tabuas />} />
+        <Route path='/Trucks/:categoryId' element={<Trucks />} />
+        <Route path='/Rolamentos/:categoryId' element={<Rolamentos />} />
+        <Route path='/Lixa/:categoryId' element={<Lixa />} />
+        <Route path='/Rodas/:categoryId' element={<Rodas />} />
+        <Route path='/Hoodies/:categoryId' element={<Hoodies />} />
+        <Route path='/Casacos/:categoryId' element={<Casacos/>} />
+        <Route path='/Calcas/:categoryId' element={<Calcas />} />
+        <Route path='/Calcoes/:categoryId' element={<Calcoes />} />
+        <Route path='/Sapatos/:categoryId' element={<Sapatos />} />
+        <Route path='/Meias/:categoryId' element={<Meias />} />
+        <Route path='/Gorros/:categoryId' element={<Gorros />} />
+        <Route path='/Chapeus/:categoryId' element={<Chapeus />} />
+        <Route path='/Protecao/:categoryId' element={<Protecao />} />
+        <Route path='/Cintos/:categoryId' element={<Cintos />} />
+        <Route path='/Ferramentas/:categoryId' element={<Ferramentas />} />
+
 
       </Routes>
 

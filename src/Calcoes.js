@@ -1,16 +1,10 @@
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Container from 'react-bootstrap/Container';
+import { Figure, Container, Row } from 'react-bootstrap';
 import { Link } from "react-router-dom";
 import './App.css';
 import Button from 'react-bootstrap/Button';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import Figure from 'react-bootstrap/Figure';
+import TabuasData from './Tabuas.json';
 
 function Calcoes() {
-
   var data = require('./Calcoes.json');
 
   return (
@@ -19,105 +13,101 @@ function Calcoes() {
 
       </header>
       <body className='App-body'>
-        <ul>
+        <ul className='productList'>
           <Container>
-            <Row xs={1} md={4}>
-              {
-                data.Antix.map(item => (
-                  <li key={item.id}>
-                    <Figure>
-                      <Figure.Image
-                        width={250}
-                        height={250}
-                        src={item.imgsrc}
-                      />
-                      <Figure.Caption>
-                      </Figure.Caption>
-                    </Figure>
-                    <h1>
-                      {item.brand}
-                    </h1>
-                    <h5>
-                      {item.model}
-                    </h5>
-                    <p2>
-                      {item.price}
-                    </p2>
-                  </li>
-                ))
-              }
-              {
-                data.Carhartt.map(item => (
-                  <li key={item.id}>
-                    <Figure>
-                      <Figure.Image
-                        width={250}
-                        height={250}
-                        src={item.imgsrc}
-                      />
-                      <Figure.Caption>
-                      </Figure.Caption>
-                    </Figure>
-                    <h1>
-                      {item.brand}
-                    </h1>
-                    <h5>
-                      {item.model}
-                    </h5>
-                    <p2>
-                      {item.price}
-                    </p2>
-                  </li>
-                ))
-              }
-              {
-                data.Dickies.map(item => (
-                  <li key={item.id}>
-                    <Figure>
-                      <Figure.Image
-                        width={250}
-                        height={250}
-                        src={item.imgsrc}
-                      />
-                      <Figure.Caption>
-                      </Figure.Caption>
-                    </Figure>
-                    <h1>
-                      {item.brand}
-                    </h1>
-                    <h5>
-                      {item.model}
-                    </h5>
-                    <p2>
-                      {item.price}
-                    </p2>
-                  </li>
-                ))
-              }
-              {
-                data.Rell.map(item => (
-                  <li key={item.id}>
-                    <Figure>
-                      <Figure.Image
-                        width={250}
-                        height={250}
-                        src={item.imgsrc}
-                      />
-                      <Figure.Caption>
-                      </Figure.Caption>
-                    </Figure>
-                    <h1>
-                      {item.brand}
-                    </h1>
-                    <h5>
-                      {item.model}
-                    </h5>
-                    <p2>
-                      {item.price}
-                    </p2>
-                  </li>
-                ))
-              }
+            <Row xs={1} md={4} className="row-2">
+              {data.Antix.map(item => (
+                <li key={item.id} className="productCard">
+                  <Figure>
+                    <Figure.Image
+                      width={250}
+                      height={250}
+                      src={item.imgsrc}
+                      className="productImage"
+                    />
+                    <Figure.Caption>
+                    </Figure.Caption>
+                  </Figure>
+                  <h1 className="productName">
+                    {item.brand}
+                  </h1>
+                  <h5>
+                    {item.model}
+                  </h5>
+                  <p2 className="productPrice">
+                    {item.price}
+                  </p2>
+                </li>
+              ))}
+              {data.Carhartt.map(item => (
+                <li key={item.id} className="productCard">
+                  <Figure>
+                    <Figure.Image
+                      width={250}
+                      height={250}
+                      src={item.imgsrc}
+                      className="productImage"
+                    />
+                    <Figure.Caption>
+                    </Figure.Caption>
+                  </Figure>
+                  <h1 className="productName">
+                    {item.brand}
+                  </h1>
+                  <h5>
+                    {item.model}
+                  </h5>
+                  <p2 className="productPrice">
+                    {item.price}
+                  </p2>
+                </li>
+              ))}
+              {data.Dickies.map(item => (
+                <li key={item.id} className="productCard">
+                  <Figure>
+                    <Figure.Image
+                      width={250}
+                      height={250}
+                      src={item.imgsrc}
+                      className="productImage"
+                    />
+                    <Figure.Caption>
+                    </Figure.Caption>
+                  </Figure>
+                  <h1 className="productName">
+                    {item.brand}
+                  </h1>
+                  <h5>
+                    {item.model}
+                  </h5>
+                  <p2 className="productPrice">
+                    {item.price}
+                  </p2>
+                </li>
+              ))}
+              {data.Rell.map(item => (
+                <li key={item.id} className="productCard">
+                  <Figure>
+                    <Figure.Image
+                      width={250}
+                      height={250}
+                      src={item.imgsrc}
+                      className="productImage"
+                    />
+                    <Figure.Caption>
+                    </Figure.Caption>
+                  </Figure>
+                  <h1 className="productName">
+                    {item.brand}
+                  </h1>
+                  <h5>
+                    {item.model}
+                  </h5>
+                  <p2 className="productPrice">
+                    {item.price}
+                  </p2>
+                </li>
+              ))}
             </Row>
           </Container>
         </ul>
@@ -169,3 +159,9 @@ function Calcoes() {
 }
 
 export default Calcoes;
+
+
+
+
+
+

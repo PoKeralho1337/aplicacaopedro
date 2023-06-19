@@ -1,52 +1,42 @@
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Container from 'react-bootstrap/Container';
+import { Figure, Container, Row } from 'react-bootstrap';
 import { Link } from "react-router-dom";
 import './App.css';
 import Button from 'react-bootstrap/Button';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import Figure from 'react-bootstrap/Figure';
+import TabuasData from './Tabuas.json';
 
 function Tabuas() {
-
-  var data = require('./Tabuas.json');
-
   return (
     <div className="App">
-      <header className="App-header">
-
-      </header>
       <body className='App-body'>
-        <ul>
+        <ul className="productList">
           <Container>
-          <Row xs= {1} md={4} className="row-2">
-          {
-            data.Jart.map(item => (
-              <li key={item.id}> 
-                <Figure>
-                  <Figure.Image
-                    width={140}
-                    height={140}
-                    src={item.imgsrc}
-                  />
-                  <Figure.Caption>
-                  </Figure.Caption>
-                </Figure>
-                <h1>
-                  {item.brand}
-                </h1>
-                <h5> 
-                  {item.model}
-                </h5>
-                <p2> 
-                  {item.price}
-                </p2>
-              </li>
-            ))
-          }
-          </Row>
+            <Row xs={1} md={4} className="row-2">
+              {TabuasData.Jart.map(skateboard => (
+                <li key={skateboard.id} className="productCard">
+                  <Link to={`/Product/${skateboard.id}`} className="productLink">
+                  <Figure>
+                    <Figure.Image
+                      width={140}
+                      height={140}
+                      src={skateboard.imgsrc}
+                      className="productImage"
+                    />
+                    <Figure.Caption>
+                    </Figure.Caption>
+                  </Figure>
+                  <h1 className="productName">
+                    {skateboard.brand}
+                  </h1>
+                  <h5>
+                    {skateboard.model}
+                  </h5>
+                  <p2 className="productPrice">
+                    {skateboard.price}
+                  </p2>
+                  </Link>
+                </li>
+              ))}
+            </Row>
           </Container>
         </ul>
         <section class="contact">

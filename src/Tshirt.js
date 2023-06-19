@@ -19,28 +19,29 @@ function Tshirt() {
 
       </header>
       <body className='App-body'>
-        <ul>
+        <ul className='productList'>
           <Container>
-            <Row xs={1} md={4}>
+            <Row xs={1} md={4} className="row-2">
               {
                 data.Adidas.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         width={350}
                         height={350}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -48,23 +49,24 @@ function Tshirt() {
               }
               {
                 data.Carhartt.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         width={350}
                         height={350}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
@@ -72,23 +74,24 @@ function Tshirt() {
               }
               {
                 data.Baker.map(item => (
-                  <li key={item.id}>
+                  <li key={item.id} className="productCard">
                     <Figure>
                       <Figure.Image
                         width={350}
                         height={350}
                         src={item.imgsrc}
+                        className="productImage"
                       />
                       <Figure.Caption>
                       </Figure.Caption>
                     </Figure>
-                    <h1>
+                    <h1 className="productName">
                       {item.brand}
                     </h1>
                     <h5>
                       {item.model}
                     </h5>
-                    <p2>
+                    <p2 className="productPrice">
                       {item.price}
                     </p2>
                   </li>
