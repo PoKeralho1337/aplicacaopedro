@@ -1,35 +1,35 @@
 {
     "Antix": [
         {
-            "id": 1,
+            "id": 61,
             "brand": "Antix",
             "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
             "price": "29,99 EUR",
             "imgsrc": "/imagens/antixchapeus1.png"
         },
         {
-            "id": 2,
+            "id": 62,
             "brand": "Antix",
             "model": "ANTIX TEATRUM DAD CAP (BLACK)",
             "price": "29,99 EUR",
             "imgsrc": "/imagens/antixchapeus2.png"
         },
         {
-            "id": 3,
+            "id": 63,
             "brand": "Antix",
             "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
             "price": "29,99 EUR",
             "imgsrc": "/imagens/antixchapeus3.png"
         },
         {
-            "id": 4,
+            "id": 64,
             "brand": "Antix",
             "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
             "price": "29,99  EUR",
             "imgsrc": "/imagens/antixchapeus4.png"
         },
         {
-            "id": 5,
+            "id": 65,
             "brand": "Antix",
             "model": "PRISMA BEANIE (BLACK)",
             "price": "19,99 EUR",
@@ -40,35 +40,35 @@
 
     "Nike": [
             {
-                "id": 1,
+                "id": 66,
                 "brand": "Nike",
                 "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
                 "price": "22,99 EUR",
                 "imgsrc": "/imagens/nikechapeus1.png"
             },
             {
-                "id": 2,
+                "id": 67,
                 "brand": "Nike",
                 "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
                 "price": "22,99 EUR",
                 "imgsrc": "/imagens/nikechapeus2.png"
             },
             {
-                "id": 3,
+                "id": 68,
                 "brand": "Nike",
                 "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
                 "price": "19,99 EUR",
                 "imgsrc": "/imagens/nikechapeus3.png"
             },
             {
-                "id": 4,
+                "id": 69,
                 "brand": "Nike",
                 "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
                 "price": "19,99  EUR",
                 "imgsrc": "/imagens/nikechapeus4.png"
             },
             {
-                "id": 5,
+                "id": 70,
                 "brand": "Nike",
                 "model": "FAUX DENIM CAP (SANDED GOLD)",
                 "price": "24,99 EUR",

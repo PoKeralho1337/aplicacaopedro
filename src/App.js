@@ -45,6 +45,7 @@ import { Route, Routes } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import AffiliatePage from './Affiliate';
 import React, { useState, useEffect } from 'react';
+import ProductDetails from './Produto';
 
 function App() {
   const [navbarFixed, setNavbarFixed] = useState(false);
@@ -173,7 +174,6 @@ function App() {
             </Navbar.Collapse>
         </Navbar>
 
-
       </header>
       <Routes>
         <Route path='/' element={<Home />} />
@@ -225,8 +225,7 @@ function App() {
         <Route path='/Protecao/:categoryId' element={<Protecao />} />
         <Route path='/Cintos/:categoryId' element={<Cintos />} />
         <Route path='/Ferramentas/:categoryId' element={<Ferramentas />} />
-
-
+        <Route path="/Produto/:id" element={<ProductDetails />} />
       </Routes>
 
     </div>

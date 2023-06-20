@@ -18,6 +18,7 @@ function Calcoes() {
             <Row xs={1} md={4} className="row-2">
               {data.Antix.map(item => (
                 <li key={item.id} className="productCard">
+                  <Link to={`/Produto/${item.id}`} className="productLink">
                   <Figure>
                     <Figure.Image
                       width={250}
@@ -37,10 +38,12 @@ function Calcoes() {
                   <p2 className="productPrice">
                     {item.price}
                   </p2>
+                  </Link>
                 </li>
               ))}
               {data.Carhartt.map(item => (
                 <li key={item.id} className="productCard">
+                  <Link to={`/Produto/${item.id}`} className="productLink">
                   <Figure>
                     <Figure.Image
                       width={250}
@@ -60,10 +63,12 @@ function Calcoes() {
                   <p2 className="productPrice">
                     {item.price}
                   </p2>
+                  </Link>
                 </li>
               ))}
               {data.Dickies.map(item => (
                 <li key={item.id} className="productCard">
+                  <Link to={`/Produto/${item.id}`} className="productLink">
                   <Figure>
                     <Figure.Image
                       width={250}
@@ -83,10 +88,12 @@ function Calcoes() {
                   <p2 className="productPrice">
                     {item.price}
                   </p2>
+                  </Link>
                 </li>
               ))}
               {data.Rell.map(item => (
                 <li key={item.id} className="productCard">
+                  <Link to={`/Produto/${item.id}`} className="productLink">
                   <Figure>
                     <Figure.Image
                       width={250}
@@ -106,6 +113,7 @@ function Calcoes() {
                   <p2 className="productPrice">
                     {item.price}
                   </p2>
+                  </Link>
                 </li>
               ))}
             </Row>

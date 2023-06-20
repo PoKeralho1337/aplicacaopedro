@@ -25,6 +25,7 @@ function Thrasher() {
           {
             data.Thrasherhoodies.map(item => (
               <li key={item.id}> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={350}
@@ -43,6 +44,7 @@ function Thrasher() {
                 <p2> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }

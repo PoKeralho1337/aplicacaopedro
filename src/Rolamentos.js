@@ -25,7 +25,8 @@ function Rolamentos() {
           <Row xs= {1} md={4} className="row-2">
           {
             data.Bones.map(item => (
-              <li key={item.id} className="productCard"> 
+              <li key={item.id} className="productCard">
+                <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={250}
@@ -45,6 +46,7 @@ function Rolamentos() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link> 
               </li>
             ))
           }

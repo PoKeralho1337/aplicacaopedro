@@ -24,7 +24,8 @@ function Ferramentas() {
           <Row xs= {1} md={4} className="row-2">
           {
             data.Independent.map(item => (
-              <li key={item.id} className="productCard"> 
+              <li key={item.id} className="productCard">
+                <Link to={`/Produto/${item.id}`} className="productLink"> 
                 <Figure>
                   <Figure.Image
                     className='img'
@@ -45,12 +46,14 @@ function Ferramentas() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }
           {
             data.Pig.map(item => (
-              <li key={item.id} className="productCard"> 
+              <li key={item.id} className="productCard">
+                <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -70,12 +73,14 @@ function Ferramentas() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link> 
               </li>
             ))
           }
            {
             data.Silver.map(item => (
-              <li key={item.id} className="productCard"> 
+              <li key={item.id} className="productCard">
+                <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -95,12 +100,14 @@ function Ferramentas() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link> 
               </li>
             ))
           }
           {
             data.Spitfire.map(item => (
               <li key={item.id} className="productCard"> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -120,12 +127,14 @@ function Ferramentas() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }
             {
             data.SkateDeluxe.map(item => (
               <li key={item.id} className="productCard"> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -145,6 +154,7 @@ function Ferramentas() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }

@@ -38,42 +38,42 @@
     ],
     "Carhartt": [
         {
-            "id": 1,
+            "id": 6,
             "brand": "Carhartt",
             "model": "Carhartt Wip Regular Cargo Columbia Shorts (Black Rinse)",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes1.png"
         },
         {
-            "id": 2,
+            "id": 7,
             "brand": "Carhartt",
             "model": "Carhartt Wip Ruck Single Knee Millington Shorts (Black Stone Washed)",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes2.png"
         },
         {
-            "id": 3,
+            "id": 8,
             "brand": "Carhartt",
             "model": "Carhartt Wip Master Denison Shorts (Black Rinsed)",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes3.png"
         },
         {
-            "id": 4,
+            "id": 9,
             "brand": "Carhartt",
             "model": "Carhartt Wip Newel Organic Parkland Color Shorts (Black Worn Washed)",
             "price": "89,99  EUR",
             "imgsrc": "/imagens/carharttcalcoes4.png"
         },
         {
-            "id": 5,
+            "id": 10,
             "brand": "Carhartt",
             "model": "Carhartt Wip Single Knee Organic Dearborn Shorts (Hamilton Brown Rinsed)",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/carharttcalcoes5.png"
         },
         {
-            "id": 6,
+            "id": 11,
             "brand": "Carhartt",
             "model": "Carhartt Wip Master Denision Shorts (Wall Rinsed)",
             "price": "79,99 EUR",
@@ -82,42 +82,42 @@
     ],
     "Dickies": [
         {
-            "id": 1,
+            "id": 12,
             "brand": "Dickies",
             "model": "Dickies MILLERVILLE Shorts (Military) ",
             "price": "64,99 EUR",
             "imgsrc": "/imagens/dickiescalcoes1.png"
         },
         {
-            "id": 2,
+            "id": 13,
             "brand": "Dickies",
             "model": "Dickies Slim Workshort Flex Shorts (Charcoal Grey)",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/dickiescalcoes2.png"
         },
         {
-            "id": 3,
+            "id": 14,
             "brand": "Dickies",
             "model": "Dickies 13In Multi Pocket Workshort Shorts (Black)",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/dickiescalcoes3.png"
         },
         {
-            "id": 4,
+            "id": 15,
             "brand": "Dickies",
             "model": "Dickies Cobden Shorts (Navy Blue)",
             "price": "49,99  EUR",
             "imgsrc": "/imagens/dickiescalcoes4.png"
         },
         {
-            "id": 5,
+            "id": 16,
             "brand": "Dickies",
             "model": "Dickies Slim Straight Work Shorts (Khaki)",
             "price": "49,99 EUR",
             "imgsrc": "/imagens/dickiescalcoes5.png"
         },
         {
-            "id": 6,
+            "id": 17,
             "brand": "Dickies",
             "model": "Dickies Garyville Denim Shorts (VintageBlue)",
             "price": "69,99 EUR",
@@ -126,42 +126,42 @@
     ],
     "Rell": [
         {
-            "id": 1,
+            "id": 18,
             "brand": "Reell",
             "model": "Reell Belmont Shorts (Origin Light Blue)",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/rellcalcoes1.png"
         },
         {
-            "id": 2,
+            "id": 19,
             "brand": "Reell",
             "model": "Reell Flex Grip Chino Shorts (Black)",
             "price": "49,99 EUR",
             "imgsrc": "/imagens/rellcalcoes2.png"
         },
         {
-            "id": 3,
+            "id": 20,
             "brand": "Reell",
             "model": "Reel New Cargo Shorts (Taupe)",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/rellcalcoes3.png"
         },
         {
-            "id": 4,
+            "id": 21,
             "brand": "Reell",
             "model": "Reell New Cargo Shorts (Forest Green)",
             "price": "59,99  EUR",
             "imgsrc": "/imagens/rellcalcoes4.png"
         },
         {
-            "id": 5,
+            "id": 22,
             "brand": "Reell",
             "model": "Reell New Cargo Shorts (Black)",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/rellcalcoes5.png"
         },
         {
-            "id": 6,
+            "id": 23,
             "brand": "Reell",
             "model": "Reell Belmont Shorts (Origin Mid Blue)",
             "price": "59,99 EUR",

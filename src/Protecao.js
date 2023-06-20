@@ -25,6 +25,7 @@ function Protecao() {
           {
             data.Protecao.map(item => (
               <li key={item.id} className="productCard"> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -44,6 +45,7 @@ function Protecao() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }

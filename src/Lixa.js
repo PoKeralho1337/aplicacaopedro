@@ -26,6 +26,7 @@ function Lixa() {
           {
             data.Grizzlylixa.map(item => (
               <li key={item.id} className="productCard"> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={50}
@@ -45,7 +46,9 @@ function Lixa() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
+             
             ))
           }
           </Row>

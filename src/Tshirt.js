@@ -25,6 +25,7 @@ function Tshirt() {
               {
                 data.Adidas.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={350}
@@ -44,12 +45,14 @@ function Tshirt() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Carhartt.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={350}
@@ -69,12 +72,14 @@ function Tshirt() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Baker.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={350}
@@ -94,6 +99,7 @@ function Tshirt() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }

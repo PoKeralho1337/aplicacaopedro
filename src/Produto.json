@@ -1,0 +1,2141 @@
+{
+    
+        "Produtos": [
+            {
+                "id": 1,
+                "brand": "Antix",
+                "model": "Antix Slack Cord Shorts (Brown)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/antixcalcoes1.png"
+            },
+            {
+                "id": 2,
+                "brand": "Antix",
+                "model": "Antix Slack Cord Shorts (Black)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/antixcalcoes2.png"
+            },
+            {
+                "id": 3,
+                "brand": "Antix",
+                "model": "Antix Slack Cord Shorts (Light Blue)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/antixcalcoes3.png"
+            },
+            {
+                "id": 4,
+                "brand": "Antix",
+                "model": "Antix Slack Carpenter Shorts (Light Blue Contrast)",
+                "price": "59,99  EUR",
+                "imgsrc": "/imagens/antixcalcoes4.png"
+            },
+            {
+                "id": 5,    
+                "brand": "Antix",
+                "model": "Antix Slack Cargo Shorts (Sand)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/antixcalcoes5.png"
+            },
+            {
+                "id": 6,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Regular Cargo Columbia Shorts (Black Rinse)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/carharttcalcoes1.png"
+            },
+            {
+                "id": 7,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Ruck Single Knee Millington Shorts (Black Stone Washed)",
+                "price": "79,99 EUR",
+                "imgsrc": "/imagens/carharttcalcoes2.png"
+            },
+            {
+                "id": 8,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Master Denison Shorts (Black Rinsed)",
+                "price": "79,99 EUR",
+                "imgsrc": "/imagens/carharttcalcoes3.png"
+            },
+            {
+                "id": 9,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Newel Organic Parkland Color Shorts (Black Worn Washed)",
+                "price": "89,99  EUR",
+                "imgsrc": "/imagens/carharttcalcoes4.png"
+            },
+            {
+                "id": 10,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Single Knee Organic Dearborn Shorts (Hamilton Brown Rinsed)",
+                "price": "79,99 EUR",
+                "imgsrc": "/imagens/carharttcalcoes5.png"
+            },
+            {
+                "id": 11,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Master Denision Shorts (Wall Rinsed)",
+                "price": "79,99 EUR",
+                "imgsrc": "/imagens/carharttcalcoes6.png"
+            },
+            {
+                "id": 12,
+                "brand": "Dickies",
+                "model": "Dickies MILLERVILLE Shorts (Military) ",
+                "price": "64,99 EUR",
+                "imgsrc": "/imagens/dickiescalcoes1.png"
+            },
+            {
+                "id": 13,
+                "brand": "Dickies",
+                "model": "Dickies Slim Workshort Flex Shorts (Charcoal Grey)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/dickiescalcoes2.png"
+            },
+            {
+                "id": 14,
+                "brand": "Dickies",
+                "model": "Dickies 13In Multi Pocket Workshort Shorts (Black)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/dickiescalcoes3.png"
+            },
+            {
+                "id": 15,
+                "brand": "Dickies",
+                "model": "Dickies Cobden Shorts (Navy Blue)",
+                "price": "49,99  EUR",
+                "imgsrc": "/imagens/dickiescalcoes4.png"
+            },
+            {
+                "id": 16,
+                "brand": "Dickies",
+                "model": "Dickies Slim Straight Work Shorts (Khaki)",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/dickiescalcoes5.png"
+            },
+            {
+                "id": 17,
+                "brand": "Dickies",
+                "model": "Dickies Garyville Denim Shorts (VintageBlue)",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/dickiescalcoes6.png"
+            },
+            {
+                "id": 18,
+                "brand": "Reell",
+                "model": "Reell Belmont Shorts (Origin Light Blue)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/rellcalcoes1.png"
+            },
+            {
+                "id": 19,
+                "brand": "Reell",
+                "model": "Reell Flex Grip Chino Shorts (Black)",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/rellcalcoes2.png"
+            },
+            {
+                "id": 20,
+                "brand": "Reell",
+                "model": "Reel New Cargo Shorts (Taupe)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/rellcalcoes3.png"
+            },
+            {
+                "id": 21,
+                "brand": "Reell",
+                "model": "Reell New Cargo Shorts (Forest Green)",
+                "price": "59,99  EUR",
+                "imgsrc": "/imagens/rellcalcoes4.png"
+            },
+            {
+                "id": 22,
+                "brand": "Reell",
+                "model": "Reell New Cargo Shorts (Black)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/rellcalcoes5.png"
+            },
+            {
+                "id": 23,
+                "brand": "Reell",
+                "model": "Reell Belmont Shorts (Origin Mid Blue)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/rellcalcoes6.png"
+            },
+                {
+                    "id": 24,
+                    "brand": "Adidas",
+                    "model": "Adidas Superfire TK Jacket (Black)",
+                    "price": "84,99 EUR",
+                    "imgsrc": "/imagens/adidascasacos1.png"
+                },
+                {
+                    "id": 25,
+                    "brand": "Adidas",
+                    "model": "Adidas Insulated Vest (Shadow Grenn Cardboard Black)",
+                    "price": "74,99 EUR",
+                    "imgsrc": "/imagens/adidascasacos2.png"
+                },
+                {
+                    "id": 26,
+                    "brand": "Adidas",
+                    "model": "Adidas TJ Velour Jacket (Black Bluebird Matte Gold)",
+                    "price": "109,99 EUR",
+                    "imgsrc": "/imagens/adidascasacos3.png"
+                },
+                {
+                    "id": 27,
+                    "brand": "Antix",
+                    "model": "Antix Fleece Vest (Black)",
+                    "price": "64,99 EUR",
+                    "imgsrc": "/imagens/antixcasacos1.png"
+                },
+                {
+                    "id": 28,
+                    "brand": "Antix",
+                    "model": "Antix Carta Fleece Jacket (Black)",
+                    "price": "69,99 EUR",
+                    "imgsrc": "/imagens/antixcasacos2.png"
+                },
+                {
+                    "id": 29,
+                    "brand": "Antix",
+                    "model": "Antix Armor Vest (Black)",
+                    "price": "84,99 EUR",
+                    "imgsrc": "/imagens/antixcasacos3.png"
+                },
+                {
+                    "id": 30,
+                    "brand": "Antix",
+                    "model": "Antix Caldo Puffer Jacket (Black)",
+                    "price": "139,99  EUR",
+                    "imgsrc": "/imagens/antixcasacos4.png"
+                },
+                {
+                    "id": 31,
+                    "brand": "Antix",
+                    "model": "Antix Sherpa Fleece Half Zip Jacket (Black)",
+                    "price": "89,99 EUR",
+                    "imgsrc": "/imagens/antixcasacos5.png"
+                },
+                {
+                    "id": 32,
+                    "brand": "Carhartt",
+                    "model": "Carhartt Wip Jackson Jacket (Ammonite)",
+                    "price": "129,99 EUR",
+                    "imgsrc": "/imagens/carharttcasacos1.png"
+                },
+                {
+                    "id": 33,
+                    "brand": "Carhartt",
+                    "model": "Carhartt Wip Windbreaker Pullover Jacket (Black White)",
+                    "price": "159,99 EUR",
+                    "imgsrc": "/imagens/carharttcasacos2.png"
+                },
+                {
+                    "id": 34,
+                    "brand": "Carhartt",
+                    "model": "Carhartt Wip Prentis Liner Jacket (Dusty H Brown Soot Black)",
+                    "price": "179,99 EUR",
+                    "imgsrc": "/imagens/carharttcasacos3.png"
+                },
+                {
+                    "id": 35,
+                    "brand": "Carhartt",
+                    "model": "Carhartt Wip Danville Jacket (Black White)",
+                    "price": "279,99  EUR",
+                    "imgsrc": "/imagens/carharttcasacos4.png"
+                },
+                {
+                    "id": 36,
+                    "brand": "Carhartt",
+                    "model": "Carhartt Wip Nimbus Pullover Winter Jacket (Dark Cedar)",
+                    "price": "169,99 EUR",
+                    "imgsrc": "/imagens/carharttcasacos5.png"
+                },
+                {
+                    "id": 37,
+                    "brand": "Carhartt",
+                    "model": "Carhartt Wip Ginnis Jacket (Ginnis Check Deep Teal)",
+                    "price": "189,99 EUR",
+                    "imgsrc": "/imagens/carharttcasacos6.png"
+                },
+                {
+                    "id": 38,
+                    "brand": "Dickies",
+                    "model": "Dickies Waldenbrug Jacket (Black)",
+                    "price": "134,99 EUR",
+                    "imgsrc": "/imagens/dickiescasacos1.png"
+                },
+                {
+                    "id": 39,
+                    "brand": "Dickies",
+                    "model": "Dickies Oakport Coach Jacket (Khaki)",
+                    "price": "69,99 EUR",
+                    "imgsrc": "/imagens/dickiescasacos2.png"
+                },
+                {
+                    "id": 40,
+                    "brand": "Dickies",
+                    "model": "Dickies Duck Canvas Smr Vest (Black)",
+                    "price": "84,99 EUR",
+                    "imgsrc": "/imagens/dickiescasacos3.png"
+                },
+                {
+                    "id": 41,
+                    "brand": "Dickies",
+                    "model": "Dickies Glacier View Parka Jacket (Black)",
+                    "price": "169,99  EUR",
+                    "imgsrc": "/imagens/dickiescasacos4.png"
+                },
+                {
+                    "id": 42,
+                    "brand": "Dickies",
+                    "model": "Dickies Red Chute Sherpa Jacket (Ecru)",
+                    "price": "94,99 EUR",
+                    "imgsrc": "/imagens/dickiescasacos5.png"
+                },
+                {
+                    "id": 43,
+                    "brand": "Dickies",
+                    "model": "Dickies New Sarpy Jacket (Charcoal Grey)",
+                    "price": "119,99 EUR",
+                    "imgsrc": "/imagens/dickiescasacos6.png"
+                },
+                {
+                    "id": 44,
+                    "brand": "Element",
+                    "model": "Element Field Parka Jacket (Forest Night)",
+                    "price": "194,99 EUR",
+                    "imgsrc": "/imagens/elementcasacos1.png"
+                },
+                {
+                    "id": 45,
+                    "brand": "Element",
+                    "model": "Element Dulcey Light Jacket (Flint Black)",
+                    "price": "154,99 EUR",
+                    "imgsrc": "/imagens/elementcasacos2.png"
+                },
+                {
+                    "id": 46,
+                    "brand": "Element",
+                    "model": "Element X MilletT Mountain Limestone Fleece Jacket (Saphir)",
+                    "price": "149,99 EUR",
+                    "imgsrc": "/imagens/elementcasacos3.png"
+                },
+                {
+                    "id": 47,
+                    "brand": "Element",
+                    "model": "Element Alder Jacket (Flint Black)",
+                    "price": "119,99  EUR",
+                    "imgsrc": "/imagens/elementcasacos4.png"
+                },
+                {
+                    "id": 48,
+                    "brand": "Element",
+                    "model": "Element Atelier Alder Puff Jacket (Off White)",
+                    "price": "189,99 EUR",
+                    "imgsrc": "/imagens/elementcasacos5.png"
+                },
+                {
+                    "id": 49,
+                    "brand": "Nike",
+                    "model": "Nike SB Classics Woven Twill Premium Jacket (Black)",
+                    "price": "74,99 EUR",
+                    "imgsrc": "/imagens/nikecasacos1.png"
+                },
+                {
+                    "id": 50,
+                    "brand": "Nike",
+                    "model": "Nike SB Padded Jacket (Off Noir)",
+                    "price": "169,99 EUR",
+                    "imgsrc": "/imagens/nikecasacos2.png"
+                },
+                {
+                    "id": 51,
+                    "brand": "Nike",
+                    "model": "Nike SB Sportwear Filled Work Jacket (Black)",
+                    "price": "149,99 EUR",
+                    "imgsrc": "/imagens/nikecasacos3.png"
+                },
+                {
+                    "id": 52,
+                    "brand": "Nike",
+                    "model": "Nike SB Sportwear Filled Work Jacket (Oxen Brown)",
+                    "price": "149,99  EUR",
+                    "imgsrc": "/imagens/nikecasacos4.png"
+                },
+                {
+                    "id": 53,
+                    "brand": "Nike",
+                    "model": "Nike SB Harrington Cord Jacket (Light Iron Ore)",
+                    "price": "119,99 EUR",
+                    "imgsrc": "/imagens/nikecasacos5.png"
+                },
+                {
+                    "id": 54,
+                    "brand": "Nike",
+                    "model": "Nike SB X MLB Varsity Jacket (Deep Royal Blue)",
+                    "price": "129,99 EUR",
+                    "imgsrc": "/imagens/nikecasacos6.png"
+                },
+                {
+                    "id": 55,
+                    "brand": "The North Face",
+                    "model": "The North Face Denali Jacket (TNF Black)",
+                    "price": "159,99 EUR",
+                    "imgsrc": "/imagens/northfacecasacos1.png"
+                },
+                {
+                    "id": 56,
+                    "brand": "The North Face",
+                    "model": "The North Face Seasonal Mountain Jacket (TNF Black)",
+                    "price": "109,99 EUR",
+                    "imgsrc": "/imagens/northfacecasacos2.png"
+                },
+                {
+                    "id": 57,
+                    "brand": "The North Face",
+                    "model": "The North Face Seasonal Mountain Jacket (Black Printed)",
+                    "price": "109,99 EUR",
+                    "imgsrc": "/imagens/northfacecasacos3.png"
+                },
+                {
+                    "id": 58,
+                    "brand": "The North Face",
+                    "model": "The North Face Denali VESTVest (TNF Black)",
+                    "price": "139,99  EUR",
+                    "imgsrc": "/imagens/northfacecasacos4.png"
+                },
+                {
+                    "id": 59,
+                    "brand": "The North Face",
+                    "model": "The North Face Element Jacket (TNF Black)",
+                    "price": "199,99 EUR",
+                    "imgsrc": "/imagens/northfacecasacos5.png"
+                },
+                {
+                    "id": 60,
+                    "brand": "The North Face",
+                    "model": "The North Face Himalayn Inspired Jacket (Black)",
+                    "price": "229,99 EUR",
+                    "imgsrc": "/imagens/northfacecasacos6.png"
+                },
+                {
+                    "id": 61,
+                    "brand": "Antix",
+                    "model": "ANTIX VAUX CORD DAD CAP (BLACK)",
+                    "price": "29,99 EUR",
+                    "imgsrc": "/imagens/antixchapeus1.png"
+                },
+                {
+                    "id": 62,
+                    "brand": "Antix",
+                    "model": "ANTIX TEATRUM DAD CAP (BLACK)",
+                    "price": "29,99 EUR",
+                    "imgsrc": "/imagens/antixchapeus2.png"
+                },
+                {
+                    "id": 63,
+                    "brand": "Antix",
+                    "model": "ANTIX PANTERA DAD CAP (SAND NAVY)",
+                    "price": "29,99 EUR",
+                    "imgsrc": "/imagens/antixchapeus3.png"
+                },
+                {
+                    "id": 64,
+                    "brand": "Antix",
+                    "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
+                    "price": "29,99  EUR",
+                    "imgsrc": "/imagens/antixchapeus4.png"
+                },
+                {
+                    "id": 65,
+                    "brand": "Antix",
+                    "model": "PRISMA BEANIE (BLACK)",
+                    "price": "19,99 EUR",
+                    "imgsrc": "/imagens/antixchapeus5.png"
+                },
+                    {
+                        "id": 66,
+                        "brand": "Nike",
+                        "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK WHITE)",
+                        "price": "22,99 EUR",
+                        "imgsrc": "/imagens/nikechapeus1.png"
+                    },
+                    {
+                        "id": 67,
+                        "brand": "Nike",
+                        "model": "SPORTSWEAR HERITAGE 86 CAP (BLACK BLACK BLACK)",
+                        "price": "22,99 EUR",
+                        "imgsrc": "/imagens/nikechapeus2.png"
+                    },
+                    {
+                        "id": 68,
+                        "brand": "Nike",
+                        "model": "SPORTSWEAR HERITAGE 86 METALLIC DAD DAD CAP (BLACK)",
+                        "price": "19,99 EUR",
+                        "imgsrc": "/imagens/nikechapeus3.png"
+                    },
+                    {
+                        "id": 69,
+                        "brand": "Nike",
+                        "model": "SPORTSWEAR HERITAGE 86 DAD CAP (LIGHT BONE)",
+                        "price": "19,99  EUR",
+                        "imgsrc": "/imagens/nikechapeus4.png"
+                    },
+                    {
+                        "id": 70,
+                        "brand": "Nike",
+                        "model": "FAUX DENIM CAP (SANDED GOLD)",
+                        "price": "24,99 EUR",
+                        "imgsrc": "/imagens/nikechapeus5.png"
+                    } ,
+                {
+                    "id": 71,
+                    "brand": "Antix",
+                    "model": "ANTIX PRISMA BELT (BLACK)",
+                    "price": "19,99 EUR",
+                    "imgsrc": "/imagens/antixcintos1.png"
+                },
+                {
+                    "id": 72,
+                    "brand": "Antix",
+                    "model": "ANTIX ELASTIC BELT (BLACK)",
+                    "price": "24,99 EUR",
+                    "imgsrc": "/imagens/antixcintos2.png"
+                },
+                    {
+                        "id": 73,
+                        "brand": "Carhartt",
+                        "model": "CARHARTT WIP SCRIPT TONAL BELT (BLACK)",
+                        "price": "29,99 EUR",
+                        "imgsrc": "/imagens/carharttcintos1.png"
+                    },
+                    {
+                        "id": 74,
+                        "brand": "Carhartt",
+                        "model": "CARHARTT WIP CLIP CHROME BELT (BLACK)",
+                        "price": "29,99 EUR",
+                        "imgsrc": "/imagens/carharttcintos2.png"
+                    },
+                    {
+                        "id": 75,
+                        "brand": "Carhartt",
+                        "model": "CARHARTT WIP SCRIPT LEATHER BELT (BLACK)",
+                        "price": "69,99 EUR",
+                        "imgsrc": "/imagens/carharttcintos3.png"
+                    },
+                {
+                    "id": 76,
+                    "brand": "Dickies",
+                    "model": "DICKIES BROOKSTON BELT (CHARCOAL GREY)",
+                    "price": "24,99 EUR",
+                    "imgsrc": "/imagens/dickiescintos1.png"
+                },
+                {
+                    "id": 77,
+                    "brand": "Dickies",
+                    "model": "DICKIES BROOKSTON BELT (BLACK)",
+                    "price": "24,99 EUR",
+                    "imgsrc": "/imagens/dickiescintos2.png"
+                },
+                {
+                    "id": 78,
+                    "brand": "Dickies",
+                    "model": "DICKIES ORCUTT BELT (BLACK)",
+                    "price": "19,99 EUR",
+                    "imgsrc": "/imagens/dickiescintos3.png"
+                },
+            {
+                "id": 79,
+                "brand": "Element",
+                "model": "ELEMENT CALIBAN BELT (FLINT BLACK)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/elementcintos1.png"
+            },
+            {
+                "id": 80,
+                "brand": "Element",
+                "model": "ELEMENT BEYOND BELT (ARMY)",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/elementcintos2.png"
+            },
+            {
+                "id": 81,
+                "brand": "Element",
+                "model": "ELEMENT POLOMA BELT (BLACK)",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/elementcintos3.png"
+            },
+            {
+                "id": 82,
+                "brand": "Independent",
+                "model": "INDEPENDENT RTB SUMMIT BELT (BLACK)",
+                "price": "21,99 EUR",
+                "imgsrc": "/imagens/independentcintos1.png"
+            },
+            {
+                "id": 83,
+                "brand": "Independent",
+                "model": "INDEPENDENT SPAN CONCEALED BELT (BLACK)",
+                "price": "21,99 EUR",
+                "imgsrc": "/imagens/independentcintos2.png"
+            },
+            {
+                "id": 84,
+                "brand": "Santa Cruz",
+                "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+                "price": "21,99 EUR",
+                "imgsrc": "/imagens/santacruzcintos1.png"
+            },
+            {
+                "id": 85,
+                "brand": "Independent",
+                "model": "INDEPENDENT BEARING SAVER SKATE-TOOL (BLACK)",
+                "price": "17,99 EUR",
+                "imgsrc": "/imagens/independentferramenta1.png"
+            },
+            {
+                "id": 86,
+                "brand": "Pig",
+                "model": "PIG STANDARD SKATE-TOOL INKL. GEWINDESCHNEIDER (ASSORTED)",
+                "price": "21,99 EUR",
+                "imgsrc": "/imagens/pigferramenta1.png"
+            },
+            {
+                "id": 87,
+                "brand": "Silver",
+                "model": "SILVER BASIC SKATE-TOOL (METALIC GOLD)",
+                "price": "31,99 EUR",
+                "imgsrc": "/imagens/silverferramenta1.png"
+            },
+            {
+                "id": 88,
+                "brand": "Silver",
+                "model": "SILVER BASIC SKATE-TOOL (ARMY GREEN)",
+                "price": "31,99 EUR",
+                "imgsrc": "/imagens/silverferramenta2.png"
+            },
+            {
+                "id": 89,
+                "brand": "Spitfire",
+                "model": "SPITFIRE T3 SKATE-TOOL",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/spitfireferramenta1.png"
+            },
+            {
+                "id": 90,
+                "brand": "SkateDeluxe",
+                "model": "SKATEDELUXE MULTI SKATE-TOOL (BLACK)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/skatedeluxeferramenta1.png"
+            },
+            {
+                "id": 91,
+                "brand": "SkateDeluxe",
+                "model": "SKATEDELUXE ULTRA SKATE-TOOL (WHITE)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/skatedeluxeferramenta2.png"
+            },
+            {
+                "id": 92,
+                "brand": "SkateDeluxe",
+                "model": "SKATEDELUXE BASIC SKATE-TOOL (ALL BLACK)",
+                "price": "12,99 EUR",
+                "imgsrc": "/imagens/skatedeluxeferramenta3.png"
+            },
+            {
+                "id": 93,
+                "brand": "SkateDeluxe",
+                "model": "SKATEDELUXE BASIC SKATE-TOOL (WHITE BLACK)",
+                "price": "12,99 EUR",
+                "imgsrc": "/imagens/skatedeluxeferramenta4.png"
+            },
+            {
+                "id": 94,
+                "brand": "SkateDeluxe",
+                "model": "SKATEDELUXE ULTRA SKATE-TOOL (RED)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/skatedeluxeferramenta5.png"
+            },
+            {
+                "id": 95,
+                "brand": "Antix",
+                "model": "CAECUS BEANIE (BLACK)",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/antixgorros1.png"
+            },
+            {
+                "id": 96,
+                "brand": "Antix",
+                "model": "ORTO BEANIE (BLACK RED)",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/antixgorros2.png"
+            },
+            {
+                "id": 97,
+                "brand": "Antix",
+                "model": "ORTO BEANIE (BLACK BLUE)",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/antixgorros3.png"
+            },
+            {
+                "id": 98,
+                "brand": "Antix",
+                "model": "SCRIPT BEANIE (BLACK WHITE)",
+                "price": "24,99  EUR",
+                "imgsrc": "/imagens/antixgorros4.png"
+            },
+            {
+                "id": 99,
+                "brand": "Antix",
+                "model": "ACRYLIC WATCH BEANIE (TAMARIND)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/antixgorros5.png"
+            },
+                {
+                    "id": 100,
+                    "brand": "Carhartt",
+                    "model": "ACRYLIC WATCH BEANIE (BLACK)",
+                    "price": "24,99 EUR",
+                    "imgsrc": "/imagens/carharttgorros1.png"
+                },
+                {
+                    "id": 101,
+                    "brand": "Carhartt",
+                    "model": "CHASE BEANIE (BLACK GOLD)",
+                    "price": "24,99 EUR",
+                    "imgsrc": "/imagens/carharttgorros2.png"
+                },
+                {
+                    "id": 102,
+                    "brand": "Carhartt",
+                    "model": "ACRYLIC WATCH BEANIE (ZEUS)",
+                    "price": "24,99 EUR",
+                    "imgsrc": "/imagens/carharttgorros3.png"
+                },
+                {
+                    "id": 103,
+                    "brand": "Carhartt",
+                    "model": "SOL BEANIE (BLACK)",
+                    "price": "19,99  EUR",
+                    "imgsrc": "/imagens/carharttgorros4.png"
+                },
+                {
+                    "id": 104,
+                    "brand": "Carhartt",
+                    "model": "PRISMA BEANIE (BLACK)",
+                    "price": "19,99 EUR",
+                    "imgsrc": "/imagens/carharttgorros5.png"
+                }  ,
+            {
+                "id": 105,
+                "brand": "Grizzly",
+                "model": "GRIPPIEST 9 GRIPTAPE (BLACK)",
+                "price": "6,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa1.png"
+            },
+            {
+                "id": 106,
+                "brand": "Grizzly",
+                "model": "STAMP PRINT 9 GRIPTAPE (BLACK WHITE)",
+                "price": "9,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa2.png"
+            },
+            {
+                "id": 107,
+                "brand": "Grizzly",
+                "model": "KUMA GRIPTAPE (BLACK)",
+                "price": "16,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa3.png"
+            },
+            {
+                "id": 108,
+                "brand": "Grizzly",
+                "model": "SANTIAGO SIGNATURE 9 GRIPTAPE (BLACK GREEN)",
+                "price": "15,99  EUR",
+                "imgsrc": "/imagens/grizzlylixa4.png"
+            },
+            {
+                "id": 109,
+                "brand": "Grizzly",
+                "model": "DON'T BE SNOTTY 9 GRIPTAPE (MULTI)",
+                "price": "15,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa5.png"
+            },
+            {
+                "id": 110,
+                "brand": "Grizzly",
+                "model": "HOT ROD 9 GRIPTAPE (BLACK)",
+                "price": "15,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa6.png"
+            },
+            {
+                "id": 111,
+                "brand": "Grizzly",
+                "model": "BLOOM STAMP 9 GRIPTAPE (PURPLE)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa7.png"
+            },
+            {
+                "id": 112,
+                "brand": "Grizzly",
+                "model": "RANGE STAMP 9 GRIPTAPE (NAVY)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa8.png"
+            },
+            {
+                "id": 113,
+                "brand": "Grizzly",
+                "model": "TWO FACED 9 GRIPTAPE (BLUE)",
+                "price": "15,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa9.png"
+            },
+            {
+                "id": 114,
+                "brand": "Grizzly",
+                "model": "TIE-DYE STAMP #5 9 GRIPTAPE (MULTI)",
+                "price": "15,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa10.png"
+            },
+            {
+                "id": 115,
+                "brand": "Grizzly",
+                "model": "TIE DYE STAMP #1 9 GRIPTAPE",
+                "price": "15,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa11.png"
+            },
+            {
+                "id": 116,
+                "brand": "Grizzly",
+                "model": "STAMPED NECESSITIES 9 GRIPTAPE (GREEN RED)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa12.png"
+            },
+            {
+                "id": 117,
+                "brand": "Grizzly",
+                "model": "STAMPED NECESSITIES 9 GRIPTAPE (RED)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa13.png"
+            },
+            {
+                "id": 118,
+                "brand": "Grizzly",
+                "model": "TIE DYE STAMP #4 9 GRIPTAPE (MULTI)",
+                "price": "15,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa14.png"
+            },
+            {
+                "id": 119,
+                "brand": "Grizzly",
+                "model": "STAMPED NECESSITIES 9 GRIPTAPE (ORANGE)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/grizzlylixa15.png"
+            },
+            {
+                "id": 120,
+                "brand": "Thrasher",
+                "model": "COP CAR HOODIE (BLACK)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie1.png"
+            },
+            {
+                "id" :121,
+                "brand": "Thrasher",
+                "model": "OUTLINE SWEATSHIRT (BLACK RED)",
+                "price": "64,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie2.png"
+            },
+            {
+                "id": 122,
+                "brand": "Thrasher",
+                "model": "BURN IT DOWN HOODIE (DARK CHOCOLATE)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie3.png"
+            },
+            {
+                "id" : 123,
+                "brand": "Thrasher",
+                "model": "SKATE MAG SWEATSHIRT (RED)",
+                "price": "64,99  EUR",
+                "imgsrc": "/imagens/thrasherhoodie4.png"
+            },
+            {
+                "id": 124,
+                "brand": "Thrasher",
+                "model": " FLAME HOODIE (WHITE)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie5.png"
+            },
+            {
+                "id" :125,
+                "brand": "Thrasher",
+                "model": "DOUBLE FLAME HOODIE (BLACK)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie6.png"
+            },
+            {
+                "id": 126,
+                "brand": "Thrasher",
+                "model": "BBQ REDUX HOODIE (BLACK)",
+                "price": "74,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie7.png"
+            },
+            {
+                "id" : 127,
+                "brand": "Thrasher",
+                "model": " FLAME HOODIE (BLACK BLACK)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie8.png"
+            },
+            {
+                "id": 128,
+                "brand": "Thrasher",
+                "model": "FLAME HOODIE (BLACK)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie9.png"
+            },
+            {
+                "id" :129,
+                "brand": "Thrasher",
+                "model": " FLAME HOODIE (BLACK BLUE)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie10.png"
+            },
+            {
+                "id": 130,
+                "brand": "Thrasher",
+                "model": "FLAME HOODIE (NAVY)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie11.png"
+            },
+            {
+                "id" :131,
+                "brand": "Thrasher",
+                "model": "SKATEGOAT HOODIE (BLACK WHITE)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie12.png"
+            },
+            {
+                "id": 132,
+                "brand": "Thrasher",
+                "model": "FIRE LOGO HOODIE (NAVY)",
+                "price": "79,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie13.png"
+            },
+            {
+                "id" :133,
+                "brand": "Thrasher",
+                "model": "TRUCK 1 HOODIE (BLACK)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie14.png"
+            },
+            {
+                "id": 134,
+                "brand": "Thrasher",
+                "model": "DOUBLE FLAME NEON HOODIE (BLACK)",
+                "price": "89,99 EUR",
+                "imgsrc": "/imagens/thrasherhoodie15.png"
+            },
+            {
+                "id": 135,
+                "brand": "Adidas",
+                "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (WHITE BLACK) 3 PACK",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/adidasmeias1.png"
+            },
+            {
+                "id": 136,
+                "brand": "Adidas",
+                "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (BLACK WHITE) 3 PACK",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/adidasmeias2.png"
+            },
+            {
+                "id": 137,
+                "brand": "Antix",
+                "model": "CARITAS SOCKS US 6-13 (BLACK)",
+                "price": "9,99 EUR",
+                "imgsrc": "/imagens/antixmeias1.png"
+            },
+            {
+                "id": 138,
+                "brand": "Antix",
+                "model": "VAUX SOCKS US 6-13 (BLACK)",
+                "price": "9,99 EUR",
+                "imgsrc": "/imagens/antixmeias2.png"
+            },
+            {
+                "id": 139,
+                "brand": "Antix",
+                "model": "PANTERA SOCKS US 6-13 (WHITE)",
+                "price": "9,99 EUR",
+                "imgsrc": "/imagens/antixmeias3.png"
+            },
+            {
+                "id": 140,
+                "brand": "Antix",
+                "model": "SOL SOCKS US 6-13 (WHITE)",
+                "price": "9,99 EUR",
+                "imgsrc": "/imagens/antixmeias4.png"
+            },
+            {
+                "id": 141,
+                "brand": "Dickies",
+                "model": "VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (WHITE) 3 PACK",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/dickiesmeias1.png"
+            },
+            {
+                "id": 142,
+                "brand": "Dickies",
+                "model": " VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (BLACK) 3 PACK",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/dickiesmeias2.png"
+            },
+            {
+                "id": 143,
+                "brand": "Element",
+                "model": "X STAR WARS GALAXY SOCKS US 8-11 (BLUE)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/elementmeias1.png"
+            },
+            {
+                "id": 144,
+                "brand": "Element",
+                "model": "X PUBLIC ENEMY SKATE SOCKS US 8-11 (WHITE)",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/elementmeias2.png"
+            },
+            {
+                "id": 145,
+                "brand": "Nike",
+                "model": "CUSHION SOCKS US 2-15 (BLACK WHITE) 3 PACK",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/nikemeias1.png"
+            },
+            {
+                "id": 146,
+                "brand": "Nike",
+                "model": "CUSHION SOCKS US 2-15 (WHITE BLACK) 3 PACK",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/nikemeias2.png"
+            },
+            {
+                "id": 147,
+                "brand": "Nike",
+                "model": "EVERYDAY PLUS SOCKS US 5-11 (MULTI)",
+                "price": "17,99 EUR",
+                "imgsrc": "/imagens/nikemeias3.png"
+            },
+            {
+                "id": 148,
+                "brand": "Nike",
+                "model": "EVERYDAY MAX LIGHTWEIGHT SOCKS US 3-12 (MULTI COLOR) 3 PACK",
+                "price": "14,99 EUR",
+                "imgsrc": "/imagens/nikemeias4.png"
+            },
+            {
+                "id": 149,
+                "brand": "TSG",
+                "model": "SKATE/BMX-INJECTED-COLORS HELMET (WHITE)",
+                "price": "39,99 EUR",
+                "imgsrc": "/imagens/protecao1.png"
+            },
+            {
+                "id": 150,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN WHITE)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao2.png"
+            },
+            {
+                "id": 151,
+                "brand": "TSG",
+                "model": "DAWN FLEX-SOLID-COLORS HELMET (BLACK)",
+                "price": "74,99 EUR",
+                "imgsrc": "/imagens/protecao3.png"
+            },
+            {
+                "id": 152,
+                "brand": "TSG",
+                "model": "META-SOLID-COLORS HELMET (SATIN OXBLOOD)",
+                "price": "64,99  EUR",
+                "imgsrc": "/imagens/protecao4.png"
+            },
+            {
+                "id": 153,
+                "brand": "TSG",
+                "model": "SUPERLIGHT-SOLID-COLORS II HELMET (SATIN BLACK)",
+                "price": "74,99 EUR",
+                "imgsrc": "/imagens/protecao5.png"
+            },
+            {
+                "id": 154,
+                "brand": "TSG",
+                "model": "SUPERLIGHT-SOLID-COLORS HELMET (SATIN DARK SHADOW)",
+                "price": "74,99 EUR",
+                "imgsrc": "/imagens/protecao6.png"
+            },
+            {
+                "id": 155,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN BLUE)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao7.png"
+            },
+            {
+                "id": 156,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN OCEAN DEPTHS)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao8.png"
+            },
+            {
+                "id": 157,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN OLIVE)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao9.png"
+            },
+            {
+                "id": 158,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN PORCELAIN BLUE)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao10.png"
+            },
+            {
+                "id": 159,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN OXBLOOD)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao11.png"
+            },
+            {
+                "id": 160,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN SAKURA)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao12.png"
+            },
+            {
+                "id": 161,
+                "brand": "TSG",
+                "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN DARK BLACK)",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/protecao13.png"
+            },
+            {
+                "id": 162,
+                "brand": "TSG",
+                "model": "SUPERLIGHT-SOLID-COLORS HELMET (SATIN SKYRIDE)",
+                "price": "74,99 EUR",
+                "imgsrc": "/imagens/protecao14.png"
+            },
+            {
+                "id": 163,
+                "brand": "TSG",
+                "model": "META-SOLID-COLORS HELMET (SATIN BLACK)",
+                "price": "64,99 EUR",
+                "imgsrc": "/imagens/protecao15.png"
+            },
+            {
+                "id": 164,
+                "brand": "Pro-Tec",
+                "model": "THE CLASSIC HELMET (GLOSS WHITE)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/protecao16.png"
+            },
+            {
+                "id": 165,
+                "brand": "Pro-Tec",
+                "model": "OLD SCHOOL HELMET (GLOSS BLACK)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/protecao17.png"
+            },
+            {
+                "id": 166,
+                "brand": "Pro-Tec",
+                "model": "CLASSIC HELMET (MATTE BLACK)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/protecao18.png"
+            },
+            {
+                "id": 167,
+                "brand": "Pro-Tec",
+                "model": "THE CLASSIC HELMET (MATTE BLUE)",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/protecao19.png"
+            },
+            {
+                "id": 168,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR CONICAL FULL WHEELS (WHITE RED) 56MM 101A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas1.png"
+            },
+            {
+                "id" :169,
+                "brand": "SpitFire",
+                "model": "OG CLASSICS WHEELS (WHITE) 53MM 99A 4 PACK",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas2.png"
+            },
+            {
+                "id": 170,
+                "brand": "SpitFire",
+                "model": " FORMULA FOUR CONICAL FULL WHEELS (WHITE BLUE) 58MM 99A 4 PACK",
+                "price": "74,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas3.png"
+            },
+            {
+                "id" : 171,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR CLASSIC WHEELS (WHITE SILVER) 54MM 101A 4 PACK",
+                "price": "69,99  EUR",
+                "imgsrc": "/imagens/spitfirerodas4.png"
+            },
+            {
+                "id": 172,
+                "brand": "SpitFire",
+                "model": "OG CLASSICS WHEELS (WHITE) 52MM 99A 4 PACK",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas5.png"
+            },
+            {
+                "id" :173,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR CLASSIC WHEELS (WHITE ORANGE) 53MM 99A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas6.png"
+            },
+            {
+                "id": 174,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR WILSON DEATH ROLL CONICAL FULL WHEELS (BLACK GREEN) 54MM 99A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas7.png"
+            },
+            {
+                "id" : 175,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR LOCK INS WHEELS (WHITE BLUE) 55MM 99A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas8.png"
+            },
+            {
+                "id": 176,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR REPEATERS CLASSIC WHEELS (WHITE) 52MM 99A 4 PACK",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas9.png"
+            },
+            {
+                "id" : 177,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR REPEATERS CLASSIC WHEELS (WHITE) 54MM 99A 4 PACK",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas10.png"
+            },
+            {
+                "id": 178,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR CLASSIC WHEELS (WHITE BLUE) 56MM 99A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas11.png"
+            },
+            {
+                "id" :179,
+                "brand": "SpitFire",
+                "model": "NEON BIGHEADS CLASSIC WHEELS (NEON BLUE) 57MM 99A 4 PACK",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas12.png"
+            },
+            {
+                "id": 180,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR TABLETS WHEELS (NATURAL BLUE) 52MM 99A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas13.png"
+            },
+            {
+                "id" :181,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR CLASSIC WHEELS (WHITE YELLOW) 55MM 99A 4 PACK",
+                "price": "69,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas14.png"
+            },
+            {
+                "id": 182,
+                "brand": "SpitFire",
+                "model": "FORMULA FOUR REPEATERS CLASSIC WHEELS (BLACK) 53MM 99A 4 PACK",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/spitfirerodas15.png"
+            },
+            {
+                "id": 183,
+                "brand": "Bones",
+                "model": " BEARINGS REDS BEARINGS (RED)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos1.png"
+            },
+            {
+                "id": 184,
+                "brand": "Bones",
+                "model": "BEARINGS REDS BIG BALLS BEARINGS (BLUE)",
+                "price": "31,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos2.png"
+            },
+            {
+                "id": 185,
+                "brand": "Bones",
+                "model": "BEARINGS RACE REDS BEARINGS",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos3.png"
+            },
+            {
+                "id": 186,
+                "brand": "Bones",
+                "model": "BEARINGS SUPER REDS BEARINGS (BLACK)",
+                "price": "39,99  EUR",
+                "imgsrc": "/imagens/bonesrolamentos4.png"
+            },
+            {
+                "id": 187,
+                "brand": "Bones",
+                "model": "BEARINGS CERAMIC SUPER REDS BEARINGS (WHITE)",
+                "price": "114,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos5.png"
+            },
+            {
+                "id": 188,
+                "brand": "Bones",
+                "model": "BEARINGS SWISS 7 BALLS BEARINGS",
+                "price": "99,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos6.png"
+            },
+            {
+                "id": 189,
+                "brand": "Bones",
+                "model": "BEARINGS SUPER SWISS 6 BEARINGS INKL. SPACER (BLUE)",
+                "price": "104,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos7.png"
+            },
+            {
+                "id": 190,
+                "brand": "Bones",
+                "model": "BEARINGS SWISS CERAMICS BEARINGS (BLACK)",
+                "price": "224,99 EUR",
+                "imgsrc": "/imagens/bonesrolamentos8.png"
+            },
+            {
+                "id": 191,
+                "brand": "Adidas",
+                "model": "Adidas Skateboarding Campus 00S Shoes (Silver Black)",
+                "price": "109,90 EUR",
+                "imgsrc": "/imagens/adidassapatos1.png"
+            },
+            {
+                "id": 192,
+                "brand": "Adidas",
+                "model": "Adidas Skateboarding Busenitz Vulc II Shoes (Carbon Ink Gold Melange)",
+                "price": "79,90 EUR",
+                "imgsrc": "/imagens/adidassapatos2.png"
+            },
+            {
+                "id": 193,
+                "brand": "Adidas",
+                "model": "Adidas Skateboarding Puig Shoes (Core Black White GoldMelange)",
+                "price": "99,90 EUR",
+                "imgsrc": "/imagens/adidassapatos3.png"
+            },
+            {
+                "id": 194,
+                "brand": "Adidas",
+                "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
+                "price": "89,90  EUR",
+                "imgsrc": "/imagens/adidassapatos4.png"
+            },
+            {
+                "id": 195,
+                "brand": "DC",
+                "model": "DC Mantega 4 Shoes (Black Black Gum)",
+                "price": "84,90 EUR",
+                "imgsrc": "/imagens/dcsapatos1.png"
+            },
+            {
+                "id": 196,
+                "brand": "DC",
+                "model": "DC Mantega 4 Shoes (Black Athletic Red)",
+                "price": "74,90 EUR",
+                "imgsrc": "/imagens/dcsapatos2.png"
+            },
+            {
+                "id": 197,
+                "brand": "DC",
+                "model": "DC Mantega 4 Shoes (Black White Gum)",
+                "price": "74,90 EUR",
+                "imgsrc": "/imagens/dcsapatos3.png"
+            },
+            {
+                "id": 198,
+                "brand": "DC",
+                "model": "DC Crisis 2 Shoes(Black Gum)",
+                "price": "74,90  EUR",
+                "imgsrc": "/imagens/dcsapatos4.png"
+            },
+            {
+                "id": 199,
+                "brand": "DC",
+                "model": "DC Versatile Shoes (Black White Athletic Red)",
+                "price": "94,90 EUR",
+                "imgsrc": "/imagens/dcsapatos5.png"
+            },
+            {
+                "id": 200,
+                "brand": "New Balance",
+                "model": "New Balance Numeric 808 Tiago Shoes (White Blue)",
+                "price": "114,90 EUR",
+                "imgsrc": "/imagens/newbalancesapatos1.png"
+            },
+            {
+                "id": 201,
+                "brand": "New Balance",
+                "model": "New Balance Numeric 306 Shoes (Summer Fog)",
+                "price": "89,90 EUR",
+                "imgsrc": "/imagens/newbalancesapatos2.png"
+            },
+            {
+                "id": 202,
+                "brand": "New Balance",
+                "model": "New Balance Numeric 306 Shoes (Black Red)",
+                "price": "84,90 EUR",
+                "imgsrc": "/imagens/newbalancesapatos3.png"
+            },
+            {
+                "id": 203,
+                "brand": "New Balance",
+                "model": "New Balance Numeric 440 Shoes (White Red)",
+                "price": "79,90  EUR",
+                "imgsrc": "/imagens/newbalancesapatos4.png"
+            },
+            {
+                "id": 204,
+                "brand": "New Balance",
+                "model": "New Balance Numeric 808 Tiago Shoes (Wheat Brown)",
+                "price": "109,90 EUR",
+                "imgsrc": "/imagens/newbalancesapatos5.png"
+            },
+            {
+                "id": 205,
+                "brand": "New Balance",
+                "model": "New Balance Numeric 272 Shoes (Black White)",
+                "price": "89,90 EUR",
+                "imgsrc": "/imagens/newbalancesapatos6.png"
+            },
+            {
+                "id": 206,
+                "brand": "Nike",
+                "model": "Nike SB Force 58 Premium Shoes (White Black)",
+                "price": "79,90 EUR",
+                "imgsrc": "/imagens/nikesapatos1.png"
+            },
+            {
+                "id": 207,
+                "brand": "Nike",
+                "model": "Nike SB Pogo Premium Shoes (Black Black Gum)",
+                "price": "84,90 EUR",
+                "imgsrc": "/imagens/nikesapatos2.png"
+            },
+            {
+                "id": 208,
+                "brand": "Nike",
+                "model": "Nike SB Ishod Premium Shoes (White Black White)",
+                "price": "109,90 EUR",
+                "imgsrc": "/imagens/nikesapatos3.png"
+            },
+            {
+                "id": 209,
+                "brand": "Nike",
+                "model": "Nike SB Ishod Premium Shoes (Baroque Brown Obsidian Black)",
+                "price": "109,90  EUR",
+                "imgsrc": "/imagens/nikesapatos4.png"
+            },
+            {
+                "id": 210,
+                "brand": "Nike",
+                "model": "Nike SB Zoom Blazer Mid Shoes (Black White Sail)",
+                "price": "89,90 EUR",
+                "imgsrc": "/imagens/nikesapatos5.png"
+            },
+            {
+                "id": 211,
+                "brand": "Nike",
+                "model": "Nike SB Force 58 Shoes (Dark Grey White)",
+                "price": "74,90 EUR",
+                "imgsrc": "/imagens/nikesapatos6.png"
+            },
+            {
+                "id": 212,
+                "brand": "Vans",
+                "model": "Vans BMX Style 114 Shoes (Black White)",
+                "price": "94,90 EUR",
+                "imgsrc": "/imagens/vanssapatos1.png"
+            },
+            {
+                "id": 213,
+                "brand": "Vans",
+                "model": "Vans Rowan Shoes (Black Black White)",
+                "price": "89,90 EUR",
+                "imgsrc": "/imagens/vanssapatos2.png"
+            },
+            {
+                "id": 214,
+                "brand": "Vans",
+                "model": "Vans SK8-Low Cont Shoes (White Black)",
+                "price": "79,90 EUR",
+                "imgsrc": "/imagens/vanssapatos3.png"
+            },
+            {
+                "id": 215,
+                "brand": "Vans",
+                "model": "Vans Kyle Walker Shoes (Overland Trek)",
+                "price": "94,90 EUR",
+                "imgsrc": "/imagens/vanssapatos4.png"
+            },
+            {
+                "id": 216,
+                "brand": "Vans",
+                "model": "Vans Rowan Nubuk Shoes (Black)",
+                "price": "94,90 EUR",
+                "imgsrc": "/imagens/vanssapatos5.png"
+            },
+            {
+                "id": 217,
+                "brand": "Vans",
+                "model": "Vans Skate Old Skool Breana Shoes (Blue Black)",
+                "price": "89,90 EUR",
+                "imgsrc": "/imagens/vanssapatos6.png"
+            },
+            {
+                "id": 218,
+                "brand": "Jart",
+                "model": "Mobie Pool Before Death 8.375",
+                "price": "64,99 EUR",
+                "imgsrc": "/imagens/jart1.png"
+            },
+            {
+                "id" : 219,
+                "brand": "Jart",
+                "model": "Secondary Actor 7.6",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/jart2.png"
+            },
+            {
+                "id": 220,
+                "brand": "Jart",
+                "model": "Renaissance III 8.25",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/jart3.png"
+            },
+            {
+                "id" : 221,
+                "brand": "Jart",
+                "model": "Jartergeist Pool Before Death 8.875",
+                "price": "64,99  EUR",
+                "imgsrc": "/imagens/jart4.png"
+            },
+            {
+                "id": 222,
+                "brand": "Jart",
+                "model": "JART CHROME 8.25s",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/jart5.png"
+            },
+            {
+                "id" : 223,
+                "brand": "Jart",
+                "model": "FRIENDS 8",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/jart6.png"
+            },
+            {
+                "id": 224,
+                "brand": "Jart",
+                "model": "RENAISSANCE II WEEDSUSCHRIST 8",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/jart7.png"
+            },
+            {
+                "id" : 225,
+                "brand": "Jart",
+                "model": "MEME 8.375",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/jart8.png"
+            },
+            {
+                "id": 226,
+                "brand": "Jart",
+                "model": "JART GANGS MONTANA 8",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/jart9.png"
+            },
+            {
+                "id" : 227,
+                "brand": "Jart",
+                "model": "FRÖLICH TYSON 8",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/jart10.png"
+            },
+            {
+                "id": 228,
+                "brand": "Jart",
+                "model": "GEMSTONE 8",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/jart11.png"
+            },
+            {
+                "id" : 229,
+                "brand": "Jart",
+                "model": "JART ROCKY X POOL BEFORE DEATH 8.875",
+                "price": "59,99 EUR",
+                "imgsrc": "/imagens/jart12.png"
+            },
+            {
+                "id": 230,
+                "brand": "Jart",
+                "model": "HAVE YOU SEEN HIM 8.25",
+                "price": "54,99 EUR",
+                "imgsrc": "/imagens/jart13.png"
+            },
+            {
+                "id" : 231,
+                "brand": "Jart",
+                "model": "LIFE 8.375",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/jart14.png"
+            },
+            {
+                "id": 232,
+                "brand": "Jart",
+                "model": "FRÖLICH COWBOY 8",
+                "price": "64,99 EUR",
+                "imgsrc": "/imagens/jart15.png"
+            },
+            {
+                "id": 233,
+                "brand": "Independent",
+                "model": "44 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 8.25",
+                "price": "49,99 EUR",
+                "imgsrc": "/imagens/independenttruck1.png"
+            },
+            {
+                "id": 234,
+                "brand": "Independent",
+                "model": "139 MID FORGED HOLLOW TRUCK (SILVER) 8",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/independenttruck2.png"
+            },
+            {
+                "id": 235,
+                "brand": "Independent",
+                "model": "149 MID FORGED HOLLOW TRUCK (SILVER) 8.5",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/independenttruck3.png"
+            },
+            {
+                "id": 236,
+                "brand": "Independent",
+                "model": "X PRIMITIVE 149 STAGE 11 MID TRUCK (GOLD) 8.5",
+                "price": "42,99  EUR",
+                "imgsrc": "/imagens/independenttruck4.png"
+            },
+            {
+                "id": 237,
+                "brand": "Independent",
+                "model": "144 MID REYNOLDS BLOCK HOLLOW TRUCK (SILVER) 8.25",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/independenttruck5.png"
+            },
+            {
+                "id": 238,
+                "brand": "Independent",
+                "model": "X SLAYER 144 STAGE 11 STANDARD TRUCK (SILVER) 8.25",
+                "price": "39,99 EUR",
+                "imgsrc": "/imagens/independenttruck6.png"
+            },
+            {
+                "id": 239,
+                "brand": "Independent",
+                "model": "44 MID FORGED HOLLOW TRUCK (SILVER) 8.25",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/independenttruck7.png"
+            },
+            {
+                "id": 240,
+                "brand": "Independent",
+                "model": "144 STAGE 11 STANDARD DELFINO HOLLOW TRUCK (SILVER RED) 8.25",
+                "price": "42,99 EUR",
+                "imgsrc": "/imagens/independenttruck8.png"
+            },
+            {
+                "id": 241,
+                "brand": "Independent",
+                "model": "X PRIMITIVE 144 STAGE 11 MID TRUCK (GOLD) 8.25",
+                "price": "42,99 EUR",
+                "imgsrc": "/imagens/independenttruck9.png"
+            },
+            {
+                "id": 242,
+                "brand": "Independent",
+                "model": "144 STAGE 11 STANDARD GEERING HOLLOW TRUCK (BLACK RED) 8.25",
+                "price": "42,99 EUR",
+                "imgsrc": "/imagens/independenttruck10.png"
+            },
+            {
+                "id": 243,
+                "brand": "Independent",
+                "model": "169 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 9.125",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/independenttruck11.png"
+            },
+            {
+                "id": 244,
+                "brand": "Independent",
+                "model": "X TOY MACHINE 159 STAGE 11 STANDARD TRUCK (SILVER) 8.75",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/independenttruck12.png"
+            },
+            {
+                "id": 245,
+                "brand": "Independent",
+                "model": "139 MID LEMOS TRUCK (POLISHED) 8",
+                "price": "42,99 EUR",
+                "imgsrc": "/imagens/independenttruck13.png"
+            },
+            {
+                "id": 246,
+                "brand": "Independent",
+                "model": "149 STAGE 11 STANDARD WINKOWSKI BALLER HOLLOW TRUCK (POLISHED) 8.5",
+                "price": "42,99 EUR",
+                "imgsrc": "/imagens/independenttruck14.png"
+            },
+            {
+                "id": 247,
+                "brand": "Independent",
+                "model": "159 STAGE 11 STANDARD FORGED TITANIUM TRUCK (SILVER) 8.75",
+                "price": "64,99 EUR",
+                "imgsrc": "/imagens/independenttruck15.png"
+            },
+            {
+                "id": 248,
+                "brand": "Adidas",
+                "model": "Adidas Artist G T-Sshirt (Chulky Brown Multicolor)",
+                "price": "32,99 EUR",
+                "imgsrc": "/imagens/adidastshirt1.png"
+            },
+            {
+                "id": 249,
+                "brand": "Adidas",
+                "model": "Adidas Skateboarding X Maxallure Ringer T-Shirt (White Bluebird)",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/adidastshirt2.png"
+            },
+            {
+                "id": 250,
+                "brand": "Adidas",
+                "model": "Adidas G Shmoo T-Shirt (Core White Multicolor)",
+                "price": "32,99 EUR",
+                "imgsrc": "/imagens/adidastshirt3.png"
+            },
+            {
+                "id": 251,
+                "brand": "Adidas",
+                "model": "Adidas Artist G T-Sshirt (White Multicolor II)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/adidastshirt4.png"
+            },
+            {
+                "id": 252,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip W' Chase Oorganic T-Shirt (White Gold)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt1.png"
+            },
+            {
+                "id": 253,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip W' Chester T-Shirt (Black)",
+                "price": "34,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt2.png"
+            },
+            {
+                "id": 254,
+                "brand": "Carhartt",
+                "model": "ANTIX PRISMA BELT (BLACK)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt3.png"
+            },
+            {
+                "id": 255,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Duck Pond T-Shirt (Black)",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt4.png"
+            },
+            {
+                "id": 256,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Duck Pond T-Shirt (Ale)",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt5.png"
+            },
+            {
+                "id": 257,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Dream Factory T-Shirt (Black)",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt6.png"
+            },
+            {
+                "id": 258,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Script T-Shirt (Enzian Misty Sky)",
+                "price": "29,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt7.png"
+            },
+            {
+                "id": 259,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip New Tools T-Shirt (Black)",
+                "price": "44,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt8.png"
+            },
+            {
+                "id": 260,
+                "brand": "Carhartt",
+                "model": "Carhartt Wip Nice Trip T-Shirt (Black)",
+                "price": "39,99 EUR",
+                "imgsrc": "/imagens/carhartttshirt9.png"
+            },
+                {
+                    "id": 261,
+                    "brand": "Baker",
+                    "model": "Baker Brand Logo T-Shirt (White)",
+                    "price": "39,99 EUR",
+                    "imgsrc": "/imagens/bakertshirt1.png"
+                },
+                {
+                    "id": 262,
+                    "brand": "Baker",
+                    "model": "Baker Brand Logo T-Shirt (Black White)",
+                    "price": "29,99 EUR",
+                    "imgsrc": "/imagens/bakertshirt2.png"
+                },
+            {
+                "id": 263,
+                "brand": "Dickies",
+                "model": "Dickies Mount Vista T-Shirt (White)",
+                "price": "34,99 EUR",
+                "imgsrc": "/imagens/dickiestshirt1.png"
+            },
+            {
+                "id": 264,
+                "brand": "Dickies",
+                "model": "DICKIES BROOKSTON BELT (BLACK)",
+                "price": "24,99 EUR",
+                "imgsrc": "/imagens/dickiestshirts2.png"
+            },
+            {
+                "id": 265,
+                "brand": "Dickies",
+                "model": "DICKIES ORCUTT BELT (BLACK)",
+                "price": "19,99 EUR",
+                "imgsrc": "/imagens/dickiescintos3.png"
+            },
+        {
+            "id": 266,
+            "brand": "Independent",
+            "model": "INDEPENDENT RTB SUMMIT BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/independentcintos1.png"
+        },
+        {
+            "id": 267,
+            "brand": "Independent",
+            "model": "INDEPENDENT SPAN CONCEALED BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/independentcintos2.png"
+        },
+        {
+            "id": 268,
+            "brand": "Santa Cruz",
+            "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/santacruzcintos1.png"
+        },
+        {
+            "id": 269,
+            "brand": "Santa Cruz",
+            "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/santacruzcintos1.png"
+        },
+        {
+            "id": 270,
+            "brand": "Santa Cruz",
+            "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/santacruzcintos1.png"
+        },
+        {
+            "id": 271,
+            "brand": "Santa Cruz",
+            "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/santacruzcintos1.png"
+        },
+        {
+            "id": 272,
+            "brand": "Santa Cruz",
+            "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+            "price": "21,99 EUR",
+            "imgsrc": "/imagens/santacruzcintos1.png"
+        },
+        {
+            "id": 273,
+            "brand": "Adidas",
+            "model": "ADIDAS H SHMOO PANTS (Black White)",
+            "price": "99,99 EUR",
+            "imgsrc": "/imagens/adidascalcas1.png"
+        },
+        {
+            "id": 274,
+            "brand": "Adidas",
+            "model": "Adidas Tj Velour Pants (Black Bluebird Matte Gold)",
+            "price": "99,99 EUR",
+            "imgsrc": "/imagens/adidascalcas2.png"
+        },
+        {
+            "id": 275,
+            "brand": "Adidas",
+            "model": "Adidas Skateboarding X Maxallure Track Slack Pants (Black White)",
+            "price": "84,99 EUR",
+            "imgsrc": "/imagens/adidascalcas3.png"
+        },
+        {
+            "id": 276,
+            "brand": "Adidas",
+            "model": "Adidas Superfire Tk Pants (Black)",
+            "price": "74,99  EUR",
+            "imgsrc": "/imagens/adidascalcas4.png"
+        },
+        {
+            "id": 277,
+            "brand": "Antix",
+            "model": "Antix Slack Pants (Washed Olive)",
+            "price": "79,99 EUR",
+            "imgsrc": "/imagens/antixcalcas1.png"
+        },
+        {
+            "id": 278,
+            "brand": "Antix",
+            "model": "Antix Slack Pants (Cement)",
+            "price": "69,99 EUR",
+            "imgsrc": "/imagens/antixcalcas2.png"
+        },
+        {
+            "id": 279,
+            "brand": "Antix",
+            "model": "Antix Slack Cord Cargo Pants (Black) ",
+            "price": "79,99 EUR",
+            "imgsrc": "/imagens/antixcalcas3.png"
+        },
+        {
+            "id": 280,
+            "brand": "Antix",
+            "model": "Antix Slack Pants (Washed Brown)",
+            "price": "79,99  EUR",
+            "imgsrc": "/imagens/antixcalcas4.png"
+        },
+        {
+            "id": 281,
+            "brand": "Antix",
+            "model": "Antix Slack Pants (Acid Grey)",
+            "price": "79,99 EUR",
+            "imgsrc": "/imagens/antixcalcas5.png"
+        },
+        {
+            "id": 282,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Reular Cargo Pant Columbia Pants (Buffalo Rinsed)",
+            "price": "119,99 EUR",
+            "imgsrc": "/imagens/carharttcalcas1.png"
+        },
+        {
+            "id": 283,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Newel Pant Maitland Jeans (Blue Stone Washed)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/carharttcalcas2.png"
+        },
+        {
+            "id": 284,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Jura Rinsed)",
+            "price": "99,99 EUR",
+            "imgsrc": "/imagens/carharttcalcas3.png"
+        },
+        {
+            "id": 285,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Tamarind Rinsed)",
+            "price": "99,99  EUR",
+            "imgsrc": "/imagens/carharttcalcas4.png"
+        },
+        {
+            "id": 286,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Simple Pant Norco Jeans (Blue Light True Washed)",
+            "price": "109,99 EUR",
+            "imgsrc": "/imagens/carharttcalcas5.png"
+        },
+        {
+            "id": 287,
+            "brand": "Carhartt",
+            "model": "Carhartt Wip Wide Panel Pant Marshall Pants (Hamilton Brown Rinsed)",
+            "price": "129,99 EUR",
+            "imgsrc": "/imagens/carharttcalcas5.png"
+        },
+        {
+            "id": 288,
+            "brand": "Dickies",
+            "model": "Dickies 874 Work Recycled Pants (Black)",
+            "price": "69,99 EUR",
+            "imgsrc": "/imagens/dickiescalcas1.png"
+        },
+        {
+            "id": 289,
+            "brand": "Dickies",
+            "model": "Dickies Double Knee Recycled Pants (Black)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/dickiescalcas2.png"
+        },
+        {
+            "id": 290,
+            "brand": "Dickies",
+            "model": "Dickies Garyville Jeans (Classic Blue)",
+            "price": "79,99 EUR",
+            "imgsrc": "/imagens/dickiescalcas3.png"
+        },
+        {
+            "id": 291,
+            "brand": "Dickies",
+            "model": "Dickies Thomasville Jeans (Vintage Aged Blue)",
+            "price": "84,99  EUR",
+            "imgsrc": "/imagens/dickiescalcas4.png"
+        },
+        {
+            "id": 292,
+            "brand": "Dickies",
+            "model": "Dickies Double Knee Recycled Pants (Charcoal Grey)",
+            "price": "69,99 EUR",
+            "imgsrc": "/imagens/dickiescalcas5.png"
+        },
+        {
+            "id":293,
+            "brand": "Dickies",
+            "model": "Dickies Valley Grande Double Knee Pants (Khaki)",
+            "price": "79,99 EUR",
+            "imgsrc": "/imagens/dickiescalcas5.png"
+        },
+        {
+            "id": 294,
+            "brand": "Nike",
+            "model": "Nike SB Chino Pants (Black)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/nikecalcas1.png"
+        },
+        {
+            "id": 295,
+            "brand": "Nike",
+            "model": "Nike SB Kearny Cargo Pants (Black)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/nikecalcas2.png"
+        },
+        {
+            "id": 296,
+            "brand": "Nike",
+            "model": "Nike SB Lab Pants (Black White)",
+            "price": "74,99 EUR",
+            "imgsrc": "/imagens/nikecalcas3.png"
+        },
+        {
+            "id": 297,
+            "brand": "Nike",
+            "model": "Nike SB Lab Pants (Dark Grey Heather)",
+            "price": "74,99  EUR",
+            "imgsrc": "/imagens/nikecalcas4.png"
+        },
+        {
+            "id": 298,
+            "brand": "Nike",
+            "model": "Nike SB Kearny Cargo Pants (Dark Driftwood)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/nikecalcas5.png"
+        },
+        {
+            "id": 299,
+            "brand": "Nike",
+            "model": "Nike SB Kearny Cargo Pants (Medium Olive)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/nikecalcas5.png"
+        },
+        {
+            "id": 300,
+            "brand": "Polar",
+            "model": "Polar Surf Pants (Black)",
+            "price": "89,99 EUR",
+            "imgsrc": "/imagens/polarcalcas1.png"
+        },
+        {
+            "id": 301,
+            "brand": "Polar",
+            "model": "Polar 93 Denim Jeans (Light Blue)",
+            "price": "119,99 EUR",
+            "imgsrc": "/imagens/polarcalcas2.png"
+        },
+        {
+            "id": 302,
+            "brand": "Polar",
+            "model": "Polar Railway Pants (Navy)",
+            "price": "124,99 EUR",
+            "imgsrc": "/imagens/polarcalcas3.png"
+        },
+        {
+            "id": 303,
+            "brand": "Polar",
+            "model": "Polar 92 Denim Jeans (Light Blue)",
+            "price": "114,99  EUR",
+            "imgsrc": "/imagens/polarcalcas4.png"
+        },
+        {
+            "id": 304,
+            "brand": "Polar",
+            "model": "Polar Utility Pants (Black)",
+            "price": "119,99 EUR",
+            "imgsrc": "/imagens/polarcalcas5.png"
+        },
+        {
+            "id": 305,
+            "brand": "Polar",
+            "model": "Polar Utility Pants (Khaki)",
+            "price": "124,99 EUR",
+            "imgsrc": "/imagens/polarcalcas6.png"
+        }
+    ]
+}
+        

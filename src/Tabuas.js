@@ -13,7 +13,7 @@ function Tabuas() {
             <Row xs={1} md={4} className="row-2">
               {TabuasData.Jart.map(skateboard => (
                 <li key={skateboard.id} className="productCard">
-                  <Link to={`/Product/${skateboard.id}`} className="productLink">
+                  <Link to={`/Produto/${skateboard.id}`} className="productLink">
                   <Figure>
                     <Figure.Image
                       width={140}

@@ -25,6 +25,7 @@ function Rodas() {
           {
             data.Spitfire.map(item => (
               <li key={item.id} className="productCard"> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={250}
@@ -44,6 +45,7 @@ function Rodas() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }

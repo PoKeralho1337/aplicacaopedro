@@ -1,21 +1,21 @@
 {
     "Adidas": [
         {
-            "id": 1,
+            "id": 24,
             "brand": "Adidas",
             "model": "Adidas Superfire TK Jacket (Black)",
             "price": "84,99 EUR",
             "imgsrc": "/imagens/adidascasacos1.png"
         },
         {
-            "id": 2,
+            "id": 25,
             "brand": "Adidas",
             "model": "Adidas Insulated Vest (Shadow Grenn Cardboard Black)",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/adidascasacos2.png"
         },
         {
-            "id": 3,
+            "id": 26,
             "brand": "Adidas",
             "model": "Adidas TJ Velour Jacket (Black Bluebird Matte Gold)",
             "price": "109,99 EUR",
@@ -24,35 +24,35 @@
     ],
     "Antix": [
         {
-            "id": 1,
+            "id": 27,
             "brand": "Antix",
             "model": "Antix Fleece Vest (Black)",
             "price": "64,99 EUR",
             "imgsrc": "/imagens/antixcasacos1.png"
         },
         {
-            "id": 2,
+            "id": 28,
             "brand": "Antix",
             "model": "Antix Carta Fleece Jacket (Black)",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/antixcasacos2.png"
         },
         {
-            "id": 3,
+            "id": 29,
             "brand": "Antix",
             "model": "Antix Armor Vest (Black)",
             "price": "84,99 EUR",
             "imgsrc": "/imagens/antixcasacos3.png"
         },
         {
-            "id": 4,
+            "id": 30,
             "brand": "Antix",
             "model": "Antix Caldo Puffer Jacket (Black)",
             "price": "139,99  EUR",
             "imgsrc": "/imagens/antixcasacos4.png"
         },
         {
-            "id": 5,
+            "id": 31,
             "brand": "Antix",
             "model": "Antix Sherpa Fleece Half Zip Jacket (Black)",
             "price": "89,99 EUR",
@@ -61,42 +61,42 @@
     ],
     "Carhartt": [
         {
-            "id": 1,
+            "id": 32,
             "brand": "Carhartt",
             "model": "Carhartt Wip Jackson Jacket (Ammonite)",
             "price": "129,99 EUR",
             "imgsrc": "/imagens/carharttcasacos1.png"
         },
         {
-            "id": 2,
+            "id": 33,
             "brand": "Carhartt",
             "model": "Carhartt Wip Windbreaker Pullover Jacket (Black White)",
             "price": "159,99 EUR",
             "imgsrc": "/imagens/carharttcasacos2.png"
         },
         {
-            "id": 3,
+            "id": 34,
             "brand": "Carhartt",
             "model": "Carhartt Wip Prentis Liner Jacket (Dusty H Brown Soot Black)",
             "price": "179,99 EUR",
             "imgsrc": "/imagens/carharttcasacos3.png"
         },
         {
-            "id": 4,
+            "id": 35,
             "brand": "Carhartt",
             "model": "Carhartt Wip Danville Jacket (Black White)",
             "price": "279,99  EUR",
             "imgsrc": "/imagens/carharttcasacos4.png"
         },
         {
-            "id": 5,
+            "id": 36,
             "brand": "Carhartt",
             "model": "Carhartt Wip Nimbus Pullover Winter Jacket (Dark Cedar)",
             "price": "169,99 EUR",
             "imgsrc": "/imagens/carharttcasacos5.png"
         },
         {
-            "id": 6,
+            "id": 37,
             "brand": "Carhartt",
             "model": "Carhartt Wip Ginnis Jacket (Ginnis Check Deep Teal)",
             "price": "189,99 EUR",
@@ -105,42 +105,42 @@
     ],
     "Dickies": [
         {
-            "id": 1,
+            "id": 38,
             "brand": "Dickies",
             "model": "Dickies Waldenbrug Jacket (Black)",
             "price": "134,99 EUR",
             "imgsrc": "/imagens/dickiescasacos1.png"
         },
         {
-            "id": 2,
+            "id": 39,
             "brand": "Dickies",
             "model": "Dickies Oakport Coach Jacket (Khaki)",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/dickiescasacos2.png"
         },
         {
-            "id": 3,
+            "id": 40,
             "brand": "Dickies",
             "model": "Dickies Duck Canvas Smr Vest (Black)",
             "price": "84,99 EUR",
             "imgsrc": "/imagens/dickiescasacos3.png"
         },
         {
-            "id": 4,
+            "id": 41,
             "brand": "Dickies",
             "model": "Dickies Glacier View Parka Jacket (Black)",
             "price": "169,99  EUR",
             "imgsrc": "/imagens/dickiescasacos4.png"
         },
         {
-            "id": 5,
+            "id": 42,
             "brand": "Dickies",
             "model": "Dickies Red Chute Sherpa Jacket (Ecru)",
             "price": "94,99 EUR",
             "imgsrc": "/imagens/dickiescasacos5.png"
         },
         {
-            "id": 6,
+            "id": 43,
             "brand": "Dickies",
             "model": "Dickies New Sarpy Jacket (Charcoal Grey)",
             "price": "119,99 EUR",
@@ -149,35 +149,35 @@
     ],
     "Element": [
         {
-            "id": 1,
+            "id": 44,
             "brand": "Element",
             "model": "Element Field Parka Jacket (Forest Night)",
             "price": "194,99 EUR",
             "imgsrc": "/imagens/elementcasacos1.png"
         },
         {
-            "id": 2,
+            "id": 45,
             "brand": "Element",
             "model": "Element Dulcey Light Jacket (Flint Black)",
             "price": "154,99 EUR",
             "imgsrc": "/imagens/elementcasacos2.png"
         },
         {
-            "id": 3,
+            "id": 46,
             "brand": "Element",
             "model": "Element X MilletT Mountain Limestone Fleece Jacket (Saphir)",
             "price": "149,99 EUR",
             "imgsrc": "/imagens/elementcasacos3.png"
         },
         {
-            "id": 4,
+            "id": 47,
             "brand": "Element",
             "model": "Element Alder Jacket (Flint Black)",
             "price": "119,99  EUR",
             "imgsrc": "/imagens/elementcasacos4.png"
         },
         {
-            "id": 5,
+            "id": 48,
             "brand": "Element",
             "model": "Element Atelier Alder Puff Jacket (Off White)",
             "price": "189,99 EUR",
@@ -186,42 +186,42 @@
     ],
     "Nike": [
         {
-            "id": 1,
+            "id": 49,
             "brand": "Nike",
             "model": "Nike SB Classics Woven Twill Premium Jacket (Black)",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/nikecasacos1.png"
         },
         {
-            "id": 2,
+            "id": 50,
             "brand": "Nike",
             "model": "Nike SB Padded Jacket (Off Noir)",
             "price": "169,99 EUR",
             "imgsrc": "/imagens/nikecasacos2.png"
         },
         {
-            "id": 3,
+            "id": 51,
             "brand": "Nike",
             "model": "Nike SB Sportwear Filled Work Jacket (Black)",
             "price": "149,99 EUR",
             "imgsrc": "/imagens/nikecasacos3.png"
         },
         {
-            "id": 4,
+            "id": 52,
             "brand": "Nike",
             "model": "Nike SB Sportwear Filled Work Jacket (Oxen Brown)",
             "price": "149,99  EUR",
             "imgsrc": "/imagens/nikecasacos4.png"
         },
         {
-            "id": 5,
+            "id": 53,
             "brand": "Nike",
             "model": "Nike SB Harrington Cord Jacket (Light Iron Ore)",
             "price": "119,99 EUR",
             "imgsrc": "/imagens/nikecasacos5.png"
         },
         {
-            "id": 6,
+            "id": 54,
             "brand": "Nike",
             "model": "Nike SB X MLB Varsity Jacket (Deep Royal Blue)",
             "price": "129,99 EUR",
@@ -230,42 +230,42 @@
     ],
     "TheNorthFace": [
         {
-            "id": 1,
+            "id": 55,
             "brand": "The North Face",
             "model": "The North Face Denali Jacket (TNF Black)",
             "price": "159,99 EUR",
             "imgsrc": "/imagens/northfacecasacos1.png"
         },
         {
-            "id": 2,
+            "id": 56,
             "brand": "The North Face",
             "model": "The North Face Seasonal Mountain Jacket (TNF Black)",
             "price": "109,99 EUR",
             "imgsrc": "/imagens/northfacecasacos2.png"
         },
         {
-            "id": 3,
+            "id": 57,
             "brand": "The North Face",
             "model": "The North Face Seasonal Mountain Jacket (Black Printed)",
             "price": "109,99 EUR",
             "imgsrc": "/imagens/northfacecasacos3.png"
         },
         {
-            "id": 4,
+            "id": 58,
             "brand": "The North Face",
             "model": "The North Face Denali VESTVest (TNF Black)",
             "price": "139,99  EUR",
             "imgsrc": "/imagens/northfacecasacos4.png"
         },
         {
-            "id": 5,
+            "id": 59,
             "brand": "The North Face",
             "model": "The North Face Element Jacket (TNF Black)",
             "price": "199,99 EUR",
             "imgsrc": "/imagens/northfacecasacos5.png"
         },
         {
-            "id": 6,
+            "id": 60,
             "brand": "The North Face",
             "model": "The North Face Himalayn Inspired Jacket (Black)",
             "price": "229,99 EUR",

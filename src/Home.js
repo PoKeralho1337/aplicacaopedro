@@ -111,6 +111,7 @@ function Home() {
               <Row className="row-2 img">
                 <Col>
                   <table>
+                  <Link to={`/Produto/26`} className="productLink">
                     <div className='produto-card'>
                       <div class="card__infos">
                         <img src='imagens/adidascasacos3.png' alt="" />
@@ -124,10 +125,12 @@ function Home() {
                         <p>109,99 €</p>
                       </div>
                     </div>
+                    </Link>
                   </table>
                 </Col>
                 <Col>
                   <table>
+                  <Link to={`/Produto/278`} className="productLink">
                     <div className='produto-card'>
                       <div class="card__infos">
                         <img src='imagens/antixcalcas2.png' alt="" />
@@ -135,16 +138,18 @@ function Home() {
                         </div>
                       </div>
                       <div class="card__title">
-                        <h4>Calcas Antix</h4>
+                        <h4>Calças Antix</h4>
                       </div>
                       <div class="card__price">
                         <p>69,99 €</p>
                       </div>
                     </div>
+                    </Link>
                   </table>
                 </Col>
                 <Col>
                   <table>
+                  <Link to={`/Produto/18`} className="productLink">
                     <div className='produto-card'>
                       <div class="card__infos">
                         <img src='imagens/rellcalcoes1.png' alt="" />
@@ -158,12 +163,14 @@ function Home() {
                         <p>59,99 €</p>
                       </div>
                     </div>
+                    </Link>
                   </table>
                 </Col>
               </Row>
               <Row>
                 <Col>
                   <table>
+                  <Link to={`/Produto/133`} className="productLink">
                     <div className='produto-card'>
                       <div class="card__infos">
                         <img src='imagens/thrasherhoodie14.png' alt="" class="produto-imagem" />
@@ -177,10 +184,12 @@ function Home() {
                         <p>89,99 €</p>
                       </div>
                     </div>
+                    </Link>
                   </table>
                 </Col>
                 <Col>
                   <table>
+                  <Link to={`/Produto/66`} className="productLink">
                     <div className='produto-card'>
                       <div class="card__infos">
                         <img src='imagens/nikechapeus1.png' alt="" class="produto-imagem" />
@@ -194,10 +203,12 @@ function Home() {
                         <p>22,99 €</p>
                       </div>
                     </div>
+                    </Link>
                   </table>
                 </Col>
                 <Col>
                   <table>
+                  <Link to={`/Produto/212`} className="productLink">
                     <div className='produto-card'>
                       <div class="card__infos">
                         <img src='imagens/vanssapatos1.png' />
@@ -211,6 +222,7 @@ function Home() {
                         <p>94,90 €</p>
                       </div>
                     </div>
+                    </Link>
                   </table>
                 </Col>
               </Row>

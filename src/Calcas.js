@@ -9,6 +9,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Figure from 'react-bootstrap/Figure';
 
+
 function Calcas() {
 
   var data = require('./Calcas.json');
@@ -22,9 +23,9 @@ function Calcas() {
         <ul className='productList'>
           <Container>
             <Row xs={1} md={4} className="row-2">
-              {
-                data.Adidas.map(item => (
+                   {data.Adidas.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={250}
@@ -44,12 +45,14 @@ function Calcas() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Antix.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={250}
@@ -69,12 +72,14 @@ function Calcas() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Carhartt.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={250}
@@ -94,12 +99,14 @@ function Calcas() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Dickies.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={250}
@@ -119,12 +126,14 @@ function Calcas() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Nike.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={250}
@@ -144,12 +153,14 @@ function Calcas() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Polar.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={250}
@@ -169,6 +180,7 @@ function Calcas() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }

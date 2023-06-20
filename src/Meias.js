@@ -25,6 +25,7 @@ function Hoodies() {
               {
                 data.Adidas.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={300}
@@ -44,12 +45,14 @@ function Hoodies() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Antix.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={300}
@@ -69,12 +72,14 @@ function Hoodies() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Dickies.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={300}
@@ -94,12 +99,14 @@ function Hoodies() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Element.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={300}
@@ -119,12 +126,14 @@ function Hoodies() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }
               {
                 data.Nike.map(item => (
                   <li key={item.id} className="productCard">
+                    <Link to={`/Produto/${item.id}`} className="productLink">
                     <Figure>
                       <Figure.Image
                         width={300}
@@ -144,6 +153,7 @@ function Hoodies() {
                     <p2 className="productPrice">
                       {item.price}
                     </p2>
+                    </Link>
                   </li>
                 ))
               }

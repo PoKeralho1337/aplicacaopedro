@@ -25,6 +25,7 @@ function Gorros() {
           {
             data.Antix1.map(item => (
               <li key={item.id} className="productCard"> 
+              <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -44,12 +45,14 @@ function Gorros() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link>
               </li>
             ))
           }
           {
             data.Carhartt.map(item => (
-              <li key={item.id} className="productCard"> 
+              <li key={item.id} className="productCard">
+                <Link to={`/Produto/${item.id}`} className="productLink">
                 <Figure>
                   <Figure.Image
                     width={200}
@@ -69,6 +72,7 @@ function Gorros() {
                 <p2 className="productPrice"> 
                   {item.price}
                 </p2>
+                </Link> 
               </li>
             ))
           }
