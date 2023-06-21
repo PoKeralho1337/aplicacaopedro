@@ -8,7 +8,7 @@ function ProductDetails() {
   const { id } = useParams();
   const product = ProdutosData.Produtos.find(skateboard => skateboard.id === parseInt(id));
 
-  console.log(product); // Verifique as informações do produto no console
+  console.log(product); 
 
   return (
     <div>
