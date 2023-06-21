@@ -4,6 +4,7 @@
             "id": 135,
             "brand": "Adidas",
             "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (WHITE BLACK) 3 PACK",
+            "name": "Skateboarding Solid Socks",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/adidasmeias1.png"
         },
@@ -11,6 +12,7 @@
             "id": 136,
             "brand": "Adidas",
             "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (BLACK WHITE) 3 PACK",
+            "name": "Skateboarding Solid Socks",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/adidasmeias2.png"
         }
@@ -21,6 +23,7 @@
             "id": 137,
             "brand": "Antix",
             "model": "CARITAS SOCKS US 6-13 (BLACK)",
+            "name": "Caritas Socks",
             "price": "9,99 EUR",
             "imgsrc": "/imagens/antixmeias1.png"
         },
@@ -28,6 +31,7 @@
             "id": 138,
             "brand": "Antix",
             "model": "VAUX SOCKS US 6-13 (BLACK)",
+            "Vaux": "Vaux Socks",
             "price": "9,99 EUR",
             "imgsrc": "/imagens/antixmeias2.png"
         },

@@ -41,7 +41,7 @@ function Ferramentas() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}
@@ -68,7 +68,7 @@ function Ferramentas() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}
@@ -95,7 +95,7 @@ function Ferramentas() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}
@@ -122,7 +122,7 @@ function Ferramentas() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}
@@ -149,7 +149,7 @@ function Ferramentas() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}

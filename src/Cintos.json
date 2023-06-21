@@ -4,6 +4,7 @@
             "id": 71,
             "brand": "Antix",
             "model": "ANTIX PRISMA BELT (BLACK)",
+            "name": "Antix Prisma Belt",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/antixcintos1.png"
         },
@@ -11,6 +12,7 @@
             "id": 72,
             "brand": "Antix",
             "model": "ANTIX ELASTIC BELT (BLACK)",
+            "name": "Antix Elastic Belt",
             "price": "24,99 EUR",
             "imgsrc": "/imagens/antixcintos2.png"
         }
@@ -21,6 +23,7 @@
                 "id": 73,
                 "brand": "Carhartt",
                 "model": "CARHARTT WIP SCRIPT TONAL BELT (BLACK)",
+                "name": "Carhartt Wip Script Belt",
                 "price": "29,99 EUR",
                 "imgsrc": "/imagens/carharttcintos1.png"
             },
@@ -28,6 +31,7 @@
                 "id": 74,
                 "brand": "Carhartt",
                 "model": "CARHARTT WIP CLIP CHROME BELT (BLACK)",
+                "name": "Carhartt Wip Clip Belt",
                 "price": "29,99 EUR",
                 "imgsrc": "/imagens/carharttcintos2.png"
             },
@@ -35,6 +39,7 @@
                 "id": 75,
                 "brand": "Carhartt",
                 "model": "CARHARTT WIP SCRIPT LEATHER BELT (BLACK)",
+                "name": "Carhartt Wip Script Belt",
                 "price": "69,99 EUR",
                 "imgsrc": "/imagens/carharttcintos3.png"
             }
@@ -45,6 +50,7 @@
             "id": 76,
             "brand": "Dickies",
             "model": "DICKIES BROOKSTON BELT (CHARCOAL GREY)",
+            "name": "Dickies Brookston Belt",
             "price": "24,99 EUR",
             "imgsrc": "/imagens/dickiescintos1.png"
         },
@@ -52,6 +58,7 @@
             "id": 77,
             "brand": "Dickies",
             "model": "DICKIES BROOKSTON BELT (BLACK)",
+            "name": "Dickies Brookston Belt",
             "price": "24,99 EUR",
             "imgsrc": "/imagens/dickiescintos2.png"
         },
@@ -59,6 +66,7 @@
             "id": 78,
             "brand": "Dickies",
             "model": "DICKIES ORCUTT BELT (BLACK)",
+            "name": "Dickies Orcutt Belt",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/dickiescintos3.png"
         }
@@ -69,6 +77,7 @@
         "id": 79,
         "brand": "Element",
         "model": "ELEMENT CALIBAN BELT (FLINT BLACK)",
+        "name": "Element Caliban Belt",
         "price": "29,99 EUR",
         "imgsrc": "/imagens/elementcintos1.png"
     },
@@ -76,6 +85,7 @@
         "id": 80,
         "brand": "Element",
         "model": "ELEMENT BEYOND BELT (ARMY)",
+        "name": "Element Beyond Belt",
         "price": "19,99 EUR",
         "imgsrc": "/imagens/elementcintos2.png"
     },
@@ -83,6 +93,7 @@
         "id": 81,
         "brand": "Element",
         "model": "ELEMENT POLOMA BELT (BLACK)",
+        "name": "Element Poloma Belt",
         "price": "44,99 EUR",
         "imgsrc": "/imagens/elementcintos3.png"
     }
@@ -93,6 +104,7 @@
         "id": 82,
         "brand": "Independent",
         "model": "INDEPENDENT RTB SUMMIT BELT (BLACK)",
+        "name": "Independent RTB Belt",
         "price": "21,99 EUR",
         "imgsrc": "/imagens/independentcintos1.png"
     },
@@ -100,6 +112,7 @@
         "id": 83,
         "brand": "Independent",
         "model": "INDEPENDENT SPAN CONCEALED BELT (BLACK)",
+        "name": "Independent Span Belt",
         "price": "21,99 EUR",
         "imgsrc": "/imagens/independentcintos2.png"
     }
@@ -110,6 +123,7 @@
         "id": 84,
         "brand": "Santa Cruz",
         "model": "SANTA CRUZ FLAMED NOT A DOT BELT (BLACK)",
+        "name": "Santa Cruz Flamed Belt",
         "price": "21,99 EUR",
         "imgsrc": "/imagens/santacruzcintos1.png"
     }

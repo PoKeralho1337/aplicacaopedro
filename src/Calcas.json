@@ -4,6 +4,7 @@
             "id": 273,
             "brand": "Adidas",
             "model": "ADIDAS H SHMOO PANTS (Black White)",
+            "name": "Adidas H Pants",
             "price": "99,99 EUR",
             "imgsrc": "/imagens/adidascalcas1.png"
         },
@@ -11,6 +12,7 @@
             "id": 274,
             "brand": "Adidas",
             "model": "Adidas Tj Velour Pants (Black Bluebird Matte Gold)",
+            "name": "Adidas Tj Pants",
             "price": "99,99 EUR",
             "imgsrc": "/imagens/adidascalcas2.png"
         },
@@ -18,6 +20,7 @@
             "id": 275,
             "brand": "Adidas",
             "model": "Adidas Skateboarding X Maxallure Track Slack Pants (Black White)",
+            "name": "Adidas Slack Pants",
             "price": "84,99 EUR",
             "imgsrc": "/imagens/adidascalcas3.png"
         },
@@ -25,6 +28,7 @@
             "id": 276,
             "brand": "Adidas",
             "model": "Adidas Superfire Tk Pants (Black)",
+            "name": "Adidas Tk Pants",
             "price": "74,99  EUR",
             "imgsrc": "/imagens/adidascalcas4.png"
         }
@@ -34,6 +38,7 @@
             "id": 277,
             "brand": "Antix",
             "model": "Antix Slack Pants (Washed Olive)",
+            "name": "Antix Slack Pants",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/antixcalcas1.png"
         },
@@ -41,6 +46,7 @@
             "id": 278,
             "brand": "Antix",
             "model": "Antix Slack Pants (Cement)",
+            "name": "Antix Slack Pants",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/antixcalcas2.png"
         },
@@ -48,6 +54,7 @@
             "id": 279,
             "brand": "Antix",
             "model": "Antix Slack Cord Cargo Pants (Black) ",
+            "name": "Antix Cargo Pants",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/antixcalcas3.png"
         },
@@ -55,6 +62,7 @@
             "id": 280,
             "brand": "Antix",
             "model": "Antix Slack Pants (Washed Brown)",
+            "name": "Antix Slack Pants",
             "price": "79,99  EUR",
             "imgsrc": "/imagens/antixcalcas4.png"
         },
@@ -62,6 +70,7 @@
             "id": 281,
             "brand": "Antix",
             "model": "Antix Slack Pants (Acid Grey)",
+            "name": "Antix Slack Pants",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/antixcalcas5.png"
         }
@@ -71,6 +80,7 @@
             "id": 282,
             "brand": "Carhartt",
             "model": "Carhartt Wip Reular Cargo Pant Columbia Pants (Buffalo Rinsed)",
+            "name": "Carhartt Wip Reular Pants",
             "price": "119,99 EUR",
             "imgsrc": "/imagens/carharttcalcas1.png"
         },
@@ -78,6 +88,7 @@
             "id": 283,
             "brand": "Carhartt",
             "model": "Carhartt Wip Newel Pant Maitland Jeans (Blue Stone Washed)",
+            "name": "Carhartt Wip Newel Pants",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/carharttcalcas2.png"
         },
@@ -85,6 +96,7 @@
             "id": 284,
             "brand": "Carhartt",
             "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Jura Rinsed)",
+            "name": "Carhartt Wip Newel Pants",
             "price": "99,99 EUR",
             "imgsrc": "/imagens/carharttcalcas3.png"
         },
@@ -92,6 +104,7 @@
             "id": 285,
             "brand": "Carhartt",
             "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Tamarind Rinsed)",
+            "name": "Carhartt Wip Newel Pants",
             "price": "99,99  EUR",
             "imgsrc": "/imagens/carharttcalcas4.png"
         },
@@ -99,6 +112,7 @@
             "id": 286,
             "brand": "Carhartt",
             "model": "Carhartt Wip Simple Pant Norco Jeans (Blue Light True Washed)",
+            "name": "Carhartt Wip Simple Pants",
             "price": "109,99 EUR",
             "imgsrc": "/imagens/carharttcalcas5.png"
         },
@@ -106,6 +120,7 @@
             "id": 287,
             "brand": "Carhartt",
             "model": "Carhartt Wip Wide Panel Pant Marshall Pants (Hamilton Brown Rinsed)",
+            "name": "Carhartt Wip Wide Pants",
             "price": "129,99 EUR",
             "imgsrc": "/imagens/carharttcalcas5.png"
         }
@@ -115,6 +130,7 @@
             "id": 288,
             "brand": "Dickies",
             "model": "Dickies 874 Work Recycled Pants (Black)",
+            "name": "ickies 874 Work Pants",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/dickiescalcas1.png"
         },
@@ -122,6 +138,7 @@
             "id": 289,
             "brand": "Dickies",
             "model": "Dickies Double Knee Recycled Pants (Black)",
+            "name": "Dickies Double Knee Pants",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/dickiescalcas2.png"
         },
@@ -129,6 +146,7 @@
             "id": 290,
             "brand": "Dickies",
             "model": "Dickies Garyville Jeans (Classic Blue)",
+            "name": "Dickies Garyville Jeans",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/dickiescalcas3.png"
         },
@@ -136,6 +154,7 @@
             "id": 291,
             "brand": "Dickies",
             "model": "Dickies Thomasville Jeans (Vintage Aged Blue)",
+            "name": "Dickies Thomasville Jeans",
             "price": "84,99  EUR",
             "imgsrc": "/imagens/dickiescalcas4.png"
         },
@@ -143,6 +162,7 @@
             "id": 292,
             "brand": "Dickies",
             "model": "Dickies Double Knee Recycled Pants (Charcoal Grey)",
+            "name": "Dickies Double Knee Pants",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/dickiescalcas5.png"
         },
@@ -150,6 +170,7 @@
             "id": 293,
             "brand": "Dickies",
             "model": "Dickies Valley Grande Double Knee Pants (Khaki)",
+            "name": "Dickies Valley Grande Pants",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/dickiescalcas5.png"
         }
@@ -159,6 +180,7 @@
             "id": 294,
             "brand": "Nike",
             "model": "Nike SB Chino Pants (Black)",
+            "name": "Nike SB Chino Pants",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas1.png"
         },
@@ -166,6 +188,7 @@
             "id": 295,
             "brand": "Nike",
             "model": "Nike SB Kearny Cargo Pants (Black)",
+            "name": "Nike SB Kearny Cargo Pants",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas2.png"
         },
@@ -173,6 +196,7 @@
             "id": 296,
             "brand": "Nike",
             "model": "Nike SB Lab Pants (Black White)",
+            "name": "Nike SB Lab Pants",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/nikecalcas3.png"
         },
@@ -180,6 +204,7 @@
             "id": 297,
             "brand": "Nike",
             "model": "Nike SB Lab Pants (Dark Grey Heather)",
+            "name": "Nike SB Lab Pants",
             "price": "74,99  EUR",
             "imgsrc": "/imagens/nikecalcas4.png"
         },
@@ -187,6 +212,7 @@
             "id": 298,
             "brand": "Nike",
             "model": "Nike SB Kearny Cargo Pants (Dark Driftwood)",
+            "name": "Nike SB Kearny Cargo Pant",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas5.png"
         },
@@ -194,6 +220,7 @@
             "id": 299,
             "brand": "Nike",
             "model": "Nike SB Kearny Cargo Pants (Medium Olive)",
+            "name": "Nike SB Kearny Cargo Pants",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/nikecalcas5.png"
         }
@@ -203,6 +230,7 @@
             "id": 300,
             "brand": "Polar",
             "model": "Polar Surf Pants (Black)",
+            "name": "Polar Surf Pants",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/polarcalcas1.png"
         },
@@ -210,6 +238,7 @@
             "id": 301,
             "brand": "Polar",
             "model": "Polar 93 Denim Jeans (Light Blue)",
+            "name": "Polar 93 Denim Jeans",
             "price": "119,99 EUR",
             "imgsrc": "/imagens/polarcalcas2.png"
         },
@@ -217,6 +246,7 @@
             "id": 302,
             "brand": "Polar",
             "model": "Polar Railway Pants (Navy)",
+            "name": "Polar Railway Pants",
             "price": "124,99 EUR",
             "imgsrc": "/imagens/polarcalcas3.png"
         },
@@ -224,6 +254,7 @@
             "id": 303,
             "brand": "Polar",
             "model": "Polar 92 Denim Jeans (Light Blue)",
+            "name": "Polar 92 Denim Jeans",
             "price": "114,99  EUR",
             "imgsrc": "/imagens/polarcalcas4.png"
         },
@@ -231,6 +262,7 @@
             "id": 304,
             "brand": "Polar",
             "model": "Polar Utility Pants (Black)",
+            "name": "Polar Utility Pants",
             "price": "119,99 EUR",
             "imgsrc": "/imagens/polarcalcas5.png"
         },
@@ -238,6 +270,7 @@
             "id": 305,
             "brand": "Polar",
             "model": "Polar Utility Pants (Khaki)",
+            "name": "Polar Utility Pants",
             "price": "124,99 EUR",
             "imgsrc": "/imagens/polarcalcas6.png"
         }

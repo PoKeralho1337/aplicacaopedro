@@ -4,6 +4,7 @@
             "id": 105,
             "brand": "Grizzly",
             "model": "GRIPPIEST 9 GRIPTAPE (BLACK)",
+            "name": "Grippiest Griptape",
             "price": "6,99 EUR",
             "imgsrc": "/imagens/grizzlylixa1.png"
         },
@@ -11,6 +12,7 @@
             "id": 106,
             "brand": "Grizzly",
             "model": "STAMP PRINT 9 GRIPTAPE (BLACK WHITE)",
+            "name": "Stamp Griptape",
             "price": "9,99 EUR",
             "imgsrc": "/imagens/grizzlylixa2.png"
         },
@@ -18,6 +20,7 @@
             "id": 107,
             "brand": "Grizzly",
             "model": "KUMA GRIPTAPE (BLACK)",
+            "name": "Kuma Griptape",
             "price": "16,99 EUR",
             "imgsrc": "/imagens/grizzlylixa3.png"
         },
@@ -25,6 +28,7 @@
             "id": 108,
             "brand": "Grizzly",
             "model": "SANTIAGO SIGNATURE 9 GRIPTAPE (BLACK GREEN)",
+            "name": "Santiago Griptape",
             "price": "15,99  EUR",
             "imgsrc": "/imagens/grizzlylixa4.png"
         },
@@ -32,6 +36,7 @@
             "id": 109,
             "brand": "Grizzly",
             "model": "DON'T BE SNOTTY 9 GRIPTAPE (MULTI)",
+            "name": "Don't Be Griptape",
             "price": "15,99 EUR",
             "imgsrc": "/imagens/grizzlylixa5.png"
         },
@@ -39,6 +44,7 @@
             "id": 110,
             "brand": "Grizzly",
             "model": "HOT ROD 9 GRIPTAPE (BLACK)",
+            "name": "Hot Rod Griptape",
             "price": "15,99 EUR",
             "imgsrc": "/imagens/grizzlylixa6.png"
         },
@@ -46,6 +52,7 @@
             "id": 111,
             "brand": "Grizzly",
             "model": "BLOOM STAMP 9 GRIPTAPE (PURPLE)",
+            "name": "Bloom Griptape",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/grizzlylixa7.png"
         },
@@ -53,6 +60,7 @@
             "id": 112,
             "brand": "Grizzly",
             "model": "RANGE STAMP 9 GRIPTAPE (NAVY)",
+            "name": "Range Griptape",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/grizzlylixa8.png"
         },
@@ -60,6 +68,7 @@
             "id": 113,
             "brand": "Grizzly",
             "model": "TWO FACED 9 GRIPTAPE (BLUE)",
+            "name": "Faced Griptape",
             "price": "15,99 EUR",
             "imgsrc": "/imagens/grizzlylixa9.png"
         },
@@ -67,6 +76,7 @@
             "id": 114,
             "brand": "Grizzly",
             "model": "TIE-DYE STAMP #5 9 GRIPTAPE (MULTI)",
+            "name": "Tie-Dye Griptape",
             "price": "15,99 EUR",
             "imgsrc": "/imagens/grizzlylixa10.png"
         },
@@ -74,6 +84,7 @@
             "id": 115,
             "brand": "Grizzly",
             "model": "TIE DYE STAMP #1 9 GRIPTAPE",
+            "name":"Tie Dye Griptape",
             "price": "15,99 EUR",
             "imgsrc": "/imagens/grizzlylixa11.png"
         },
@@ -81,6 +92,7 @@
             "id": 116,
             "brand": "Grizzly",
             "model": "STAMPED NECESSITIES 9 GRIPTAPE (GREEN RED)",
+            "name": "Stamep Griptape",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/grizzlylixa12.png"
         },
@@ -88,6 +100,7 @@
             "id": 117,
             "brand": "Grizzly",
             "model": "STAMPED NECESSITIES 9 GRIPTAPE (RED)",
+            "name": "Stamep Griptape",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/grizzlylixa13.png"
         },
@@ -95,6 +108,7 @@
             "id": 118,
             "brand": "Grizzly",
             "model": "TIE DYE STAMP #4 9 GRIPTAPE (MULTI)",
+            "name": "Tie Dye Griptape",
             "price": "15,99 EUR",
             "imgsrc": "/imagens/grizzlylixa14.png"
         },
@@ -102,6 +116,7 @@
             "id": 119,
             "brand": "Grizzly",
             "model": "STAMPED NECESSITIES 9 GRIPTAPE (ORANGE)",
+            "name": "Stamep Griptape",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/grizzlylixa15.png"
         }

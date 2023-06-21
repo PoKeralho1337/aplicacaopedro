@@ -40,7 +40,7 @@ function Chapeus() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}
@@ -67,7 +67,7 @@ function Chapeus() {
                   {item.brand}
                 </h1>
                 <h5> 
-                  {item.model}
+                  {item.name}
                 </h5>
                 <p2 className="productPrice"> 
                   {item.price}

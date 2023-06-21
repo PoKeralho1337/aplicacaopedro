@@ -4,6 +4,7 @@
             "id": 120,
             "brand": "Thrasher",
             "model": "COP CAR HOODIE (BLACK)",
+            "name": "Cop Car Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie1.png"
         },
@@ -11,6 +12,7 @@
             "id" :121,
             "brand": "Thrasher",
             "model": "OUTLINE SWEATSHIRT (BLACK RED)",
+            "name": "Outline Sweatshirt",
             "price": "64,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie2.png"
         },
@@ -18,6 +20,7 @@
             "id": 122,
             "brand": "Thrasher",
             "model": "BURN IT DOWN HOODIE (DARK CHOCOLATE)",
+            "name": "Burn It Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie3.png"
         },
@@ -25,13 +28,15 @@
             "id" : 123,
             "brand": "Thrasher",
             "model": "SKATE MAG SWEATSHIRT (RED)",
+            "name": "Skate Mag Sweatshirt",
             "price": "64,99  EUR",
             "imgsrc": "/imagens/thrasherhoodie4.png"
         },
         {
             "id": 124,
             "brand": "Thrasher",
-            "model": " FLAME HOODIE (WHITE)",
+            "model": "FLAME HOODIE (WHITE)",
+            "name": "Flame Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie5.png"
         },
@@ -39,6 +44,7 @@
             "id" :125,
             "brand": "Thrasher",
             "model": "DOUBLE FLAME HOODIE (BLACK)",
+            "name": "Double Flame Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie6.png"
         },
@@ -46,13 +52,15 @@
             "id": 126,
             "brand": "Thrasher",
             "model": "BBQ REDUX HOODIE (BLACK)",
+            "name": "BBQ Redux Hoodie",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie7.png"
         },
         {
             "id" :127,
             "brand": "Thrasher",
-            "model": " FLAME HOODIE (BLACK BLACK)",
+            "model": "FLAME HOODIE (BLACK BLACK)",
+            "name": "Flame Hoodie",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie8.png"
         },
@@ -60,6 +68,7 @@
             "id": 128,
             "brand": "Thrasher",
             "model": "FLAME HOODIE (BLACK)",
+            "name": "Flame Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie9.png"
         },
@@ -67,6 +76,7 @@
             "id" :129,
             "brand": "Thrasher",
             "model": " FLAME HOODIE (BLACK BLUE)",
+            "name": "Flame Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie10.png"
         },
@@ -74,6 +84,7 @@
             "id": 130,
             "brand": "Thrasher",
             "model": "FLAME HOODIE (NAVY)",
+            "name": "Flame Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie11.png"
         },
@@ -81,6 +92,7 @@
             "id" :131,
             "brand": "Thrasher",
             "model": "SKATEGOAT HOODIE (BLACK WHITE)",
+            "name": "SkateGoat Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie12.png"
         },
@@ -88,6 +100,7 @@
             "id": 132,
             "brand": "Thrasher",
             "model": "FIRE LOGO HOODIE (NAVY)",
+            "name": "Fire Logo Hoodie",
             "price": "79,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie13.png"
         },
@@ -95,6 +108,7 @@
             "id" :133,
             "brand": "Thrasher",
             "model": "TRUCK 1 HOODIE (BLACK)",
+            "name": "Trcuk 1 Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie14.png"
         },
@@ -102,6 +116,7 @@
             "id": 134,
             "brand": "Thrasher",
             "model": "DOUBLE FLAME NEON HOODIE (BLACK)",
+            "name": "Double Flame Hoodie",
             "price": "89,99 EUR",
             "imgsrc": "/imagens/thrasherhoodie15.png"
         }
