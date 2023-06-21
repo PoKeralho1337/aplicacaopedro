@@ -4,6 +4,7 @@
             "id": 149,
             "brand": "TSG",
             "model": "SKATE/BMX-INJECTED-COLORS HELMET (WHITE)",
+            "name": "Skate-Bmx Helmet",
             "price": "39,99 EUR",
             "imgsrc": "/imagens/protecao1.png"
         },
@@ -11,6 +12,7 @@
             "id": 150,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN WHITE)",
+            "name": "Evolution Helmet",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao2.png"
         },
@@ -18,6 +20,7 @@
             "id": 151,
             "brand": "TSG",
             "model": "DAWN FLEX-SOLID-COLORS HELMET (BLACK)",
+            "name": "Dawn Helmet",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/protecao3.png"
         },
@@ -25,6 +28,7 @@
             "id": 152,
             "brand": "TSG",
             "model": "META-SOLID-COLORS HELMET (SATIN OXBLOOD)",
+            "name": "Meta Helmet",
             "price": "64,99  EUR",
             "imgsrc": "/imagens/protecao4.png"
         },
@@ -32,6 +36,7 @@
             "id": 153,
             "brand": "TSG",
             "model": "SUPERLIGHT-SOLID-COLORS II HELMET (SATIN BLACK)",
+            "name": "Superlight Helmet",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/protecao5.png"
         },
@@ -39,6 +44,7 @@
             "id": 154,
             "brand": "TSG",
             "model": "SUPERLIGHT-SOLID-COLORS HELMET (SATIN DARK SHADOW)",
+            "name": "Superlight Helmet",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/protecao6.png"
         },
@@ -46,6 +52,7 @@
             "id": 155,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN BLUE)",
+            "name": "Evolution Helmet",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao7.png"
         },
@@ -53,6 +60,7 @@
             "id": 156,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN OCEAN DEPTHS)",
+            "name": "Evolution Helmet Women",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao8.png"
         },
@@ -60,6 +68,7 @@
             "id": 157,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN OLIVE)",
+            "name": "Evolution Helmet",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao9.png"
         },
@@ -67,6 +76,7 @@
             "id": 158,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN PORCELAIN BLUE)",
+            "name": "Evolution Helmet Women",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao10.png"
         },
@@ -74,6 +84,7 @@
             "id": 159,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN OXBLOOD)",
+            "name":"Evolution Helmet",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao11.png"
         },
@@ -81,6 +92,7 @@
             "id": 160,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET WOMEN (SATIN SAKURA)",
+            "name": "Evolution Helmet Women",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao12.png"
         },
@@ -88,6 +100,7 @@
             "id": 161,
             "brand": "TSG",
             "model": "EVOLUTION-SOLID-COLORS HELMET (SATIN DARK BLACK)",
+            "name":"Evolution Helmet",
             "price": "54,99 EUR",
             "imgsrc": "/imagens/protecao13.png"
         },
@@ -95,6 +108,7 @@
             "id": 162,
             "brand": "TSG",
             "model": "SUPERLIGHT-SOLID-COLORS HELMET (SATIN SKYRIDE)",
+            "name": "Superlight Helmet",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/protecao14.png"
         },
@@ -102,6 +116,7 @@
             "id": 163,
             "brand": "TSG",
             "model": "META-SOLID-COLORS HELMET (SATIN BLACK)",
+            "name": "Meta Helmet",
             "price": "64,99 EUR",
             "imgsrc": "/imagens/protecao15.png"
         },
@@ -109,6 +124,7 @@
             "id": 164,
             "brand": "Pro-Tec",
             "model": "THE CLASSIC HELMET (GLOSS WHITE)",
+            "name": "Classic Helmet",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/protecao16.png"
         },
@@ -116,6 +132,7 @@
             "id": 165,
             "brand": "Pro-Tec",
             "model": "OLD SCHOOL HELMET (GLOSS BLACK)",
+            "name": "Old School Helmet",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/protecao17.png"
         },
@@ -123,6 +140,7 @@
             "id": 166,
             "brand": "Pro-Tec",
             "model": "CLASSIC HELMET (MATTE BLACK)",
+            "name": "Classic Helmet",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/protecao18.png"
         },
@@ -130,6 +148,7 @@
             "id": 167,
             "brand": "Pro-Tec",
             "model": "THE CLASSIC HELMET (MATTE BLUE)",
+            "name": "Classic Helmet",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/protecao19.png"
         }

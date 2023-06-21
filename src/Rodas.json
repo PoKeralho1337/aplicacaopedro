@@ -4,6 +4,7 @@
             "id": 168,
             "brand": "SpitFire",
             "model": "FORMULA FOUR CONICAL FULL WHEELS (WHITE RED) 56MM 101A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas1.png"
         },
@@ -11,6 +12,7 @@
             "id" :169,
             "brand": "SpitFire",
             "model": "OG CLASSICS WHEELS (WHITE) 53MM 99A 4 PACK",
+            "name": "OG Classics Wheels",
             "price": "49,99 EUR",
             "imgsrc": "/imagens/spitfirerodas2.png"
         },
@@ -18,6 +20,7 @@
             "id": 170,
             "brand": "SpitFire",
             "model": " FORMULA FOUR CONICAL FULL WHEELS (WHITE BLUE) 58MM 99A 4 PACK",
+            "name": "Formula Four Conical Wheels",
             "price": "74,99 EUR",
             "imgsrc": "/imagens/spitfirerodas3.png"
         },
@@ -25,6 +28,7 @@
             "id" :171,
             "brand": "SpitFire",
             "model": "FORMULA FOUR CLASSIC WHEELS (WHITE SILVER) 54MM 101A 4 PACK",
+            "name": "Formula Four Classic Wheels",
             "price": "69,99  EUR",
             "imgsrc": "/imagens/spitfirerodas4.png"
         },
@@ -32,6 +36,7 @@
             "id": 172,
             "brand": "SpitFire",
             "model": "OG CLASSICS WHEELS (WHITE) 52MM 99A 4 PACK",
+            "name": "OG Classics Wheels",
             "price": "49,99 EUR",
             "imgsrc": "/imagens/spitfirerodas5.png"
         },
@@ -39,6 +44,7 @@
             "id" :173,
             "brand": "SpitFire",
             "model": "FORMULA FOUR CLASSIC WHEELS (WHITE ORANGE) 53MM 99A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas6.png"
         },
@@ -46,6 +52,7 @@
             "id": 174,
             "brand": "SpitFire",
             "model": "FORMULA FOUR WILSON DEATH ROLL CONICAL FULL WHEELS (BLACK GREEN) 54MM 99A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas7.png"
         },
@@ -53,6 +60,7 @@
             "id" :175,
             "brand": "SpitFire",
             "model": "FORMULA FOUR LOCK INS WHEELS (WHITE BLUE) 55MM 99A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas8.png"
         },
@@ -60,6 +68,7 @@
             "id": 176,
             "brand": "SpitFire",
             "model": "FORMULA FOUR REPEATERS CLASSIC WHEELS (WHITE) 52MM 99A 4 PACK",
+            "name": "Formula Four Classic Wheels",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/spitfirerodas9.png"
         },
@@ -67,6 +76,7 @@
             "id" :177,
             "brand": "SpitFire",
             "model": "FORMULA FOUR REPEATERS CLASSIC WHEELS (WHITE) 54MM 99A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/spitfirerodas10.png"
         },
@@ -74,6 +84,7 @@
             "id": 178,
             "brand": "SpitFire",
             "model": "FORMULA FOUR CLASSIC WHEELS (WHITE BLUE) 56MM 99A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas11.png"
         },
@@ -81,6 +92,7 @@
             "id" :179,
             "brand": "SpitFire",
             "model": "NEON BIGHEADS CLASSIC WHEELS (NEON BLUE) 57MM 99A 4 PACK",
+            "name":"Neon Classic Wheels",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/spitfirerodas12.png"
         },
@@ -88,6 +100,7 @@
             "id": 180,
             "brand": "SpitFire",
             "model": "FORMULA FOUR TABLETS WHEELS (NATURAL BLUE) 52MM 99A 4 PACK",
+            "name": "Formula Four Tablets Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas13.png"
         },
@@ -95,6 +108,7 @@
             "id" :181,
             "brand": "SpitFire",
             "model": "FORMULA FOUR CLASSIC WHEELS (WHITE YELLOW) 55MM 99A 4 PACK",
+            "name": "Formula Four Classic Wheels",
             "price": "69,99 EUR",
             "imgsrc": "/imagens/spitfirerodas14.png"
         },
@@ -102,6 +116,7 @@
             "id": 182,
             "brand": "SpitFire",
             "model": "FORMULA FOUR REPEATERS CLASSIC WHEELS (BLACK) 53MM 99A 4 PACK",
+            "name": "Formula Four Wheels",
             "price": "59,99 EUR",
             "imgsrc": "/imagens/spitfirerodas15.png"
         }

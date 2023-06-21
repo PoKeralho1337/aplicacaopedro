@@ -4,6 +4,7 @@
             "id": 183,
             "brand": "Bones",
             "model": " BEARINGS REDS BEARINGS (RED)",
+            "name": "Bearings Red Bearings",
             "price": "24,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos1.png"
         },
@@ -11,6 +12,7 @@
             "id": 184,
             "brand": "Bones",
             "model": "BEARINGS REDS BIG BALLS BEARINGS (BLUE)",
+            "name": "Bearings Red Big Bearings",
             "price": "31,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos2.png"
         },
@@ -18,6 +20,7 @@
             "id": 185,
             "brand": "Bones",
             "model": "BEARINGS RACE REDS BEARINGS",
+            "name": "Bearings Race Reds Bearings",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos3.png"
         },
@@ -25,6 +28,7 @@
             "id": 186,
             "brand": "Bones",
             "model": "BEARINGS SUPER REDS BEARINGS (BLACK)",
+            "name": "Bearings Super Reds Bearings",
             "price": "39,99  EUR",
             "imgsrc": "/imagens/bonesrolamentos4.png"
         },
@@ -32,6 +36,7 @@
             "id": 187,
             "brand": "Bones",
             "model": "BEARINGS CERAMIC SUPER REDS BEARINGS (WHITE)",
+            "name": "Bearings Ceramic Reds Bearings",
             "price": "114,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos5.png"
         },
@@ -39,6 +44,7 @@
             "id": 188,
             "brand": "Bones",
             "model": "BEARINGS SWISS 7 BALLS BEARINGS",
+            "name": "Bearings Swiss Balls Bearings",
             "price": "99,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos6.png"
         },
@@ -46,6 +52,7 @@
             "id": 189,
             "brand": "Bones",
             "model": "BEARINGS SUPER SWISS 6 BEARINGS INKL. SPACER (BLUE)",
+            "name": "Bearings Super Swiss Bearings",
             "price": "104,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos7.png"
         },
@@ -53,6 +60,7 @@
             "id": 190,
             "brand": "Bones",
             "model": "BEARINGS SWISS CERAMICS BEARINGS (BLACK)",
+            "name": "Bearings Swiss Bearings",
             "price": "224,99 EUR",
             "imgsrc": "/imagens/bonesrolamentos8.png"
         }    

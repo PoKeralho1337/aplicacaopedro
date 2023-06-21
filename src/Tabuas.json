@@ -4,6 +4,7 @@
                 "id": 218,
                 "brand": "Jart",
                 "model": "Mobie Pool Before Death 8.375",
+                "name": "Mobie Pool Before Death",
                 "price": "64,99 EUR",
                 "imgsrc": "/imagens/jart1.png"
             },
@@ -11,6 +12,7 @@
                 "id" :219,
                 "brand": "Jart",
                 "model": "Secondary Actor 7.6",
+                "name": "Secondary Actor",
                 "price": "54,99 EUR",
                 "imgsrc": "/imagens/jart2.png"
             },
@@ -18,6 +20,7 @@
                 "id": 220,
                 "brand": "Jart",
                 "model": "Renaissance III 8.25",
+                "name": "Renaissance III",
                 "price": "49,99 EUR",
                 "imgsrc": "/imagens/jart3.png"
             },
@@ -25,20 +28,23 @@
                 "id" : 221,
                 "brand": "Jart",
                 "model": "Jartergeist Pool Before Death 8.875",
+                "name": "Jartergeist Pool Before Death",
                 "price": "64,99  EUR",
                 "imgsrc": "/imagens/jart4.png"
             },
             {
                 "id": 222,
                 "brand": "Jart",
-                "model": "JART CHROME 8.25s",
+                "model": "Jart Chrome 8.25s",
+                "name": "Jart Chrome",
                 "price": "49,99 EUR",
                 "imgsrc": "/imagens/jart5.png"
             },
             {
                 "id" : 223,
                 "brand": "Jart",
-                "model": "FRIENDS 8",
+                "model": "Friends 8",
+                "name": "Friends",
                 "price": "49,99 EUR",
                 "imgsrc": "/imagens/jart6.png"
             },
@@ -46,6 +52,7 @@
                 "id": 224,
                 "brand": "Jart",
                 "model": "RENAISSANCE II WEEDSUSCHRIST 8",
+                "name": "Renaissance II Weedsuschrist",
                 "price": "49,99 EUR",
                 "imgsrc": "/imagens/jart7.png"
             },
@@ -53,6 +60,7 @@
                 "id" : 225,
                 "brand": "Jart",
                 "model": "MEME 8.375",
+                "name": "Meme",
                 "price": "54,99 EUR",
                 "imgsrc": "/imagens/jart8.png"
             },
@@ -60,6 +68,7 @@
                 "id": 226,
                 "brand": "Jart",
                 "model": "JART GANGS MONTANA 8",
+                "name": "Jart Gangs Montana",
                 "price": "54,99 EUR",
                 "imgsrc": "/imagens/jart9.png"
             },
@@ -67,6 +76,7 @@
                 "id" : 227,
                 "brand": "Jart",
                 "model": "FRÖLICH TYSON 8",
+                "name": "Frolich Tyson",
                 "price": "59,99 EUR",
                 "imgsrc": "/imagens/jart10.png"
             },
@@ -74,13 +84,15 @@
                 "id": 228,
                 "brand": "Jart",
                 "model": "GEMSTONE 8",
+                "name": "Gemstone",
                 "price": "54,99 EUR",
                 "imgsrc": "/imagens/jart11.png"
             },
             {
                 "id" : 229,
                 "brand": "Jart",
-                "model": "JART ROCKY X POOL BEFORE DEATH 8.875",
+                "model": "ROCKY X POOL BEFORE DEATH 8.875",
+                "name": "Rocky X Pool Before Death",
                 "price": "59,99 EUR",
                 "imgsrc": "/imagens/jart12.png"
             },
@@ -88,6 +100,7 @@
                 "id": 230,
                 "brand": "Jart",
                 "model": "HAVE YOU SEEN HIM 8.25",
+                "name": "Have You Seen Him",
                 "price": "54,99 EUR",
                 "imgsrc": "/imagens/jart13.png"
             },
@@ -95,6 +108,7 @@
                 "id" : 231,
                 "brand": "Jart",
                 "model": "LIFE 8.375",
+                "name": "Life",
                 "price": "49,99 EUR",
                 "imgsrc": "/imagens/jart14.png"
             },
@@ -102,6 +116,7 @@
                 "id": 232,
                 "brand": "Jart",
                 "model": "FRÖLICH COWBOY 8",
+                "name": "Frolich Cowboy",
                 "price": "64,99 EUR",
                 "imgsrc": "/imagens/jart15.png"
             }

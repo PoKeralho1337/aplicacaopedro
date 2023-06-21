@@ -4,6 +4,7 @@
             "id": 233,
             "brand": "Independent",
             "model": "44 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 8.25",
+            "name": "44 Stage Truck",
             "price": "49,99 EUR",
             "imgsrc": "/imagens/independenttruck1.png"
         },
@@ -11,6 +12,7 @@
             "id": 234,
             "brand": "Independent",
             "model": "139 MID FORGED HOLLOW TRUCK (SILVER) 8",
+            "name": "139 Mid Truck",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/independenttruck2.png"
         },
@@ -18,6 +20,7 @@
             "id": 235,
             "brand": "Independent",
             "model": "149 MID FORGED HOLLOW TRUCK (SILVER) 8.5",
+            "name": "149 Mid Truck",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/independenttruck3.png"
         },
@@ -25,6 +28,7 @@
             "id": 236,
             "brand": "Independent",
             "model": "X PRIMITIVE 149 STAGE 11 MID TRUCK (GOLD) 8.5",
+            "name": "X Primitive 149 Truck",
             "price": "42,99  EUR",
             "imgsrc": "/imagens/independenttruck4.png"
         },
@@ -32,6 +36,7 @@
             "id": 237,
             "brand": "Independent",
             "model": "144 MID REYNOLDS BLOCK HOLLOW TRUCK (SILVER) 8.25",
+            "name":"144 Mid Truck",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/independenttruck5.png"
         },
@@ -39,6 +44,7 @@
             "id": 238,
             "brand": "Independent",
             "model": "X SLAYER 144 STAGE 11 STANDARD TRUCK (SILVER) 8.25",
+            "name": "X Slayer 144 Truck",
             "price": "39,99 EUR",
             "imgsrc": "/imagens/independenttruck6.png"
         },
@@ -46,6 +52,7 @@
             "id": 239,
             "brand": "Independent",
             "model": "44 MID FORGED HOLLOW TRUCK (SILVER) 8.25",
+            "name": "44 Mid Truck",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/independenttruck7.png"
         },
@@ -53,6 +60,7 @@
             "id": 240,
             "brand": "Independent",
             "model": "144 STAGE 11 STANDARD DELFINO HOLLOW TRUCK (SILVER RED) 8.25",
+            "name": "144 Stage Truck",
             "price": "42,99 EUR",
             "imgsrc": "/imagens/independenttruck8.png"
         },
@@ -60,6 +68,7 @@
             "id": 241,
             "brand": "Independent",
             "model": "X PRIMITIVE 144 STAGE 11 MID TRUCK (GOLD) 8.25",
+            "name": "X Primitive 144 Truck",
             "price": "42,99 EUR",
             "imgsrc": "/imagens/independenttruck9.png"
         },
@@ -67,6 +76,7 @@
             "id": 242,
             "brand": "Independent",
             "model": "144 STAGE 11 STANDARD GEERING HOLLOW TRUCK (BLACK RED) 8.25",
+            "name": "144 Stage Truck",
             "price": "42,99 EUR",
             "imgsrc": "/imagens/independenttruck10.png"
         },
@@ -74,6 +84,7 @@
             "id": 243,
             "brand": "Independent",
             "model": "169 STAGE 11 BAR STANDARD TRUCK (FLAT BLACK) 9.125",
+            "name": "169 Stage Truck",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/independenttruck11.png"
         },
@@ -81,6 +92,7 @@
             "id": 244,
             "brand": "Independent",
             "model": "X TOY MACHINE 159 STAGE 11 STANDARD TRUCK (SILVER) 8.75",
+            "name": "X Toy 159 Truck",
             "price": "44,99 EUR",
             "imgsrc": "/imagens/independenttruck12.png"
         },
@@ -88,6 +100,7 @@
             "id": 245,
             "brand": "Independent",
             "model": "139 MID LEMOS TRUCK (POLISHED) 8",
+            "name": "139 Mid Truck",
             "price": "42,99 EUR",
             "imgsrc": "/imagens/independenttruck13.png"
         },
@@ -95,6 +108,7 @@
             "id": 246,
             "brand": "Independent",
             "model": "149 STAGE 11 STANDARD WINKOWSKI BALLER HOLLOW TRUCK (POLISHED) 8.5",
+            "name": "149 Stage Truck", 
             "price": "42,99 EUR",
             "imgsrc": "/imagens/independenttruck14.png"
         },
@@ -102,6 +116,7 @@
             "id": 247,
             "brand": "Independent",
             "model": "159 STAGE 11 STANDARD FORGED TITANIUM TRUCK (SILVER) 8.75",
+            "name": "159 Stage Truck",
             "price": "64,99 EUR",
             "imgsrc": "/imagens/independenttruck15.png"
         }

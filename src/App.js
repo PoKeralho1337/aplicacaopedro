@@ -152,7 +152,7 @@ function App() {
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/Protecao">
                   <div>
-                    <img src='/imagens/capacete.jpg' width="60" heigh='60' ></img> Proteção
+                    <img src='/imagens/capacete.jpg' width="60" heigh='60' ></img> Capacetes
                   </div>
                 </NavDropdown.Item>
                 <NavDropdown.Item href="/Cintos">

@@ -31,7 +31,7 @@
             "id": 138,
             "brand": "Antix",
             "model": "VAUX SOCKS US 6-13 (BLACK)",
-            "Vaux": "Vaux Socks",
+            "name": "Vaux Socks",
             "price": "9,99 EUR",
             "imgsrc": "/imagens/antixmeias2.png"
         },
@@ -39,6 +39,7 @@
             "id": 139,
             "brand": "Antix",
             "model": "PANTERA SOCKS US 6-13 (WHITE)",
+            "name": "Pantera Socks",
             "price": "9,99 EUR",
             "imgsrc": "/imagens/antixmeias3.png"
         },
@@ -46,6 +47,7 @@
             "id": 140,
             "brand": "Antix",
             "model": "SOL SOCKS US 6-13 (WHITE)",
+            "name": "Sol Socks",
             "price": "9,99 EUR",
             "imgsrc": "/imagens/antixmeias4.png"
         }
@@ -57,6 +59,7 @@
             "id": 141,
             "brand": "Dickies",
             "model": "VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (WHITE) 3 PACK",
+            "name": "Valley Grove Socks",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/dickiesmeias1.png"
         },
@@ -64,6 +67,7 @@
             "id": 142,
             "brand": "Dickies",
             "model": " VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (BLACK) 3 PACK",
+            "name": "Valley Grove Socks",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/dickiesmeias2.png"
         }
@@ -75,6 +79,7 @@
             "id": 143,
             "brand": "Element",
             "model": "X STAR WARS GALAXY SOCKS US 8-11 (BLUE)",
+            "name": "Star Wars Socks",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/elementmeias1.png"
         },
@@ -82,6 +87,7 @@
             "id": 144,
             "brand": "Element",
             "model": "X PUBLIC ENEMY SKATE SOCKS US 8-11 (WHITE)",
+            "name": "Public Enemy Socks",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/elementmeias2.png"
         }
@@ -93,6 +99,7 @@
             "id": 145,
             "brand": "Nike",
             "model": "CUSHION SOCKS US 2-15 (BLACK WHITE) 3 PACK",
+            "name": "Cushion Socks",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/nikemeias1.png"
         },
@@ -100,6 +107,7 @@
             "id": 146,
             "brand": "Nike",
             "model": "CUSHION SOCKS US 2-15 (WHITE BLACK) 3 PACK",
+            "name": "Cushion Socks",
             "price": "19,99 EUR",
             "imgsrc": "/imagens/nikemeias2.png"
         },
@@ -107,6 +115,7 @@
             "id": 147,
             "brand": "Nike",
             "model": "EVERYDAY PLUS SOCKS US 5-11 (MULTI)",
+            "name": "Everyday Plus Socks",
             "price": "17,99 EUR",
             "imgsrc": "/imagens/nikemeias3.png"
         },
@@ -114,6 +123,7 @@
             "id": 148,
             "brand": "Nike",
             "model": "EVERYDAY MAX LIGHTWEIGHT SOCKS US 3-12 (MULTI COLOR) 3 PACK",
+            "name": "Everyday Max Socks",
             "price": "14,99 EUR",
             "imgsrc": "/imagens/nikemeias4.png"
         }

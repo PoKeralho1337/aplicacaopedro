@@ -28,7 +28,7 @@ function Tabuas() {
                     {skateboard.brand}
                   </h1>
                   <h5>
-                    {skateboard.model}
+                    {skateboard.name}
                   </h5>
                   <p2 className="productPrice">
                     {skateboard.price}
