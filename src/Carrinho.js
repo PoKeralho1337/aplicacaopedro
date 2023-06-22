@@ -1,102 +1,49 @@
-import './App.css';
-import Button from 'react-bootstrap/Button';
-import React, {useState} from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import Button from 'react-bootstrap/Button';
 
 function Carrinho() {
-  var nextid = 0;
+  const [items, setItems] = useState([]);
 
-  var items=[];
-  if (localStorage.getItem("carrinho")) {
-      items = JSON.parse(localStorage.getItem("carrinho"));
-  }
-  else items = [];
+  useEffect(() => {
+    const carrinho = JSON.parse(localStorage.getItem('carrinho'));
+    if (carrinho) {
+      setItems(carrinho);
+    }
+  }, []);
 
-  var total = 0;
+  const handleClearCart = () => {
+    setItems([]);
+    localStorage.removeItem('carrinho');
+  };
 
-  console.log(total);
-  items.forEach(element => {
-      console.log(element.Preco);
-      total += element.Preco;
-  });
-
-
+  const renderCartItems = () => {
+    return items.map(item => (
+      <div key={item.id} className="cart-item">
+        <Link to={`/produto/${item.id}`}>
+          <img src={item.img} alt={item.name} />
+        </Link>
+        <div className="cart-item-details">
+          <h3>{item.name}</h3>
+          <p>{item.price}</p>
+        </div>
+      </div>
+    ));
+  };
 
   return (
-      <body className="">
-          <div className=''></div>
-          <div>
-              <h3 className='titulos'>Carrinho de compras
-              </h3>
-              <button onClick={() => {
-              items = [];
-              window.location.reload();  
-              }
-              }>apagar</button>
-              <div>
-                  {
-                      items.map(item => (
-
-
-                          <table className='table' key={item.id}>
-                              <tr>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <Link to={item.link}><img src={item.img} height="150" /></Link></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='App-header'>{item.nome}</p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='App-header'>{item.preco}</p></th>
-                                  <th><center><img src="" height="35" /></center></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                                  <th> <p className='p'></p></th>
-                              </tr>
-
-                          </table>
-                      
-                      ))
-                      
-                  }
-              </div>
-          </div>
-          
-          <p></p>
-          
-      </body>
-
+    <div>
+        <h1>Carrinho de compras</h1>
+      {items.length > 0 ? (
+        <div className="cart-items-container">{renderCartItems()}</div>
+      ) : (
+        <p>O carrinho está vazio.</p>
+      )}
+      <Button variant="danger" onClick={handleClearCart}>
+        Limpar Carrinho
+      </Button>
+    </div>
   );
 }
+
 export default Carrinho;

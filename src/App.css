@@ -504,8 +504,9 @@ section{
   }
   
   .product-image img {
-    max-width: 100%;
-    max-height: auto;
+    width: auto;
+    height: 400px;
+    object-fit: cover;
   }
   
   .product-info {
