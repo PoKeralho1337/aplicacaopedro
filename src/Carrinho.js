@@ -18,6 +18,12 @@ function Carrinho() {
   };
 
   const renderCartItems = () => {
+    const handleRemoveItem = (itemId) => {
+      const updatedItems = items.filter((item) => item.id !== itemId);
+      setItems(updatedItems);
+      localStorage.setItem('carrinho', JSON.stringify(updatedItems));
+    };
+
     return items.map((item) => (
       <tr key={item.id}>
         <td>
@@ -27,7 +33,12 @@ function Carrinho() {
         </td>
         <td className="cart-item-name">{item.name}</td>
         <td className="cart-item-size">Tamanho: {item.size}</td>
-        <td className="cart-item-price">{item.price}</td>
+        <td className="cart-item-price">
+          {item.price}
+          <Button variant="danger" onClick={() => handleRemoveItem(item.id)} className="remove-button">
+            Remover
+          </Button>
+        </td>
       </tr>
     ));
   };
@@ -51,7 +62,7 @@ function Carrinho() {
 
   return (
     <div>
-      <div class="center-text">
+      <div className="center-text">
         <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span> Compras</span></h1>
       </div>
       {items.length > 0 ? (
@@ -79,11 +90,13 @@ function Carrinho() {
           </tbody>
         </table>
       ) : (
-        <p>O carrinho está vazio.</p>
+        <h1>O carrinho está vazio.</h1>
       )}
-      <Button variant="danger" onClick={handleClearCart}>
-        Limpar Carrinho
-      </Button>
+      {items.length > 0 && (
+        <Button variant="danger" onClick={handleClearCart}>
+          Limpar Carrinho
+        </Button>
+      )}
     </div>
   );
 }

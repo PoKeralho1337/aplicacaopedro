@@ -584,3 +584,6 @@ section{
   margin-right: 10px;
 }
 
+.remove-button {
+  float: right;
+}

@@ -70,7 +70,7 @@ function ProductDetails() {
                       label="XL"
                       name="size"
                       value="XL"
-                      checked={selectedSize === ''}
+                      checked={selectedSize === 'XL'}
                       onChange={handleSizeChange}
                     />
                   </div>
