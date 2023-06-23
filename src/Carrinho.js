@@ -18,24 +18,66 @@ function Carrinho() {
   };
 
   const renderCartItems = () => {
-    return items.map(item => (
-      <div key={item.id} className="cart-item">
-        <Link to={`/produto/${item.id}`}>
-          <img src={item.img} alt={item.name} />
-        </Link>
-        <div className="cart-item-details">
-          <h3>{item.name}</h3>
-          <p>{item.price}</p>
-        </div>
-      </div>
+    return items.map((item) => (
+      <tr key={item.id}>
+        <td>
+          <Link to={`/produto/${item.id}`}>
+            <img src={item.img} alt={item.name} className="cart-item-image" />
+          </Link>
+        </td>
+        <td className="cart-item-name">{item.name}</td>
+        <td className="cart-item-size">Tamanho: {item.size}</td>
+        <td className="cart-item-price">{item.price}</td>
+      </tr>
     ));
+  };
+
+  const calculateTotalQuantity = () => {
+    let totalQuantity = 0;
+    items.forEach((item) => {
+      totalQuantity += item.quantity;
+    });
+    return totalQuantity;
+  };
+
+  const calculateTotalPrice = () => {
+    let totalPrice = 0;
+    items.forEach((item) => {
+      const price = parseFloat(item.price);
+      totalPrice += price * item.quantity;
+    });
+    return totalPrice;
   };
 
   return (
     <div>
-        <h1>Carrinho de compras</h1>
+      <div class="center-text">
+        <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span> Compras</span></h1>
+      </div>
       {items.length > 0 ? (
-        <div className="cart-items-container">{renderCartItems()}</div>
+        <table className="cart-items-table">
+          <thead>
+            <tr>
+              <th>Imagem</th>
+              <th>Nome</th>
+              <th>Tamanho</th>
+              <th>Preço</th>
+            </tr>
+          </thead>
+          <tbody>
+            {renderCartItems()}
+            <tr>
+              <td colSpan="3">Quantidade de Produtos:</td>
+              <td>{calculateTotalQuantity()}</td>
+            </tr>
+            <tr>
+              <td colSpan="3">Total a Pagar:</td>
+              <td className="cart-item-price">
+                {calculateTotalPrice().toFixed(2)}
+              </td>
+            </tr>
+          </tbody>
+        </table>
       ) : (
         <p>O carrinho está vazio.</p>
       )}

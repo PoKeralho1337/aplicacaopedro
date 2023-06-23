@@ -88,7 +88,8 @@ li, a, button{
 .center-text h1 {
   font-size: 50px;
   font-weight: bold;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
+  padding-top: 20px;
 }
 
 .center-text h2{
@@ -529,3 +530,57 @@ section{
   .product-info p {
     margin-bottom: 20px;
   }
+
+  .cart-items-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .cart-items-table th,
+  .cart-items-table td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .cart-items-table th {
+    background-color: #f2f2f2;
+  }
+
+  .cart-item-image {
+    width: 100px;
+    height: auto;
+    max-width: 100%;
+  }
+
+  .cart-item-price {
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .select-size {
+  width: 150px;
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  max-width: 100px;
+}
+
+.shoe-sizes {
+  display: flex;
+  padding-bottom: 5%;
+}
+
+.shoe-sizes label {
+  margin-right: 10px;
+}
+.clothing-sizes {
+  display: flex;
+  padding-bottom: 5%;
+}
+
+.clothing-sizes label {
+  margin-right: 10px;
+}
+
