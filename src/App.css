@@ -587,3 +587,29 @@ section{
 .remove-button {
   float: right;
 }
+
+.privacy-container {
+  margin-top: 20px;
+}
+
+.privacy-heading {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+
+.privacy-heading {
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+.privacy-subheading {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.privacy-text {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}

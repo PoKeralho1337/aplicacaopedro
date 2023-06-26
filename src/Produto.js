@@ -18,7 +18,7 @@ function ProductDetails() {
       name: product.model,
       price: product.price,
       img: product.imgsrc,
-      size: selectedSize // Adiciona o tamanho selecionado ao objeto do carrinho
+      size: selectedSize 
     };
     const existingCartItems = JSON.parse(localStorage.getItem('carrinho')) || [];
     const updatedCartItems = [...existingCartItems, cartItem];

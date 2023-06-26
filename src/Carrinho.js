@@ -61,7 +61,7 @@ function Carrinho() {
   };
 
   return (
-    <div>
+    <div className='corfundo'>
       <div className="center-text">
         <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span> Compras</span></h1>
       </div>
