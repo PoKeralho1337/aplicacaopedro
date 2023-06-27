@@ -1,5 +1,6 @@
-import React from 'react';
+
 import './AboutPage.css';
+import React, { useRef, useEffect } from 'react';
 
 function AboutPage() {
   const teamMembers = [
@@ -9,13 +10,13 @@ function AboutPage() {
       image: 'imagens/empresario1.jpg',
     },
     {
-      name: 'Jane Smith',
+      name: 'Tony Hawk',
       position: 'CTO',
       image: 'imagens/tony1.jpg',
     },
     {
-      name: 'David Johnson',
-      position: 'Marketing Director',
+      name: 'Tony Hawk',
+      position: 'Diretor De Marketing',
       image: '/imagens/monkey.jpg',
     },
     {
@@ -25,8 +26,38 @@ function AboutPage() {
     },
   ];
 
+  const sectionsRef = useRef([]);
+
+  useEffect(() => {
+    const options = {
+      root: null,
+      rootMargin: '0px',
+      threshold: 0.3,
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('active');
+        } else {
+          entry.target.classList.remove('active');
+        }
+      });
+    }, options);
+
+    sectionsRef.current.forEach((section) => {
+      observer.observe(section);
+    });
+
+    return () => {
+      observer.disconnect();
+    };
+  }, []);
+
+
   return (
     <div className="container">
+      <section ref={(el) => (sectionsRef.current[0] = el)} className="trending-product fade-in">
       <h1>About Our Company</h1>
       <p>
       Bem-vindo à nossa empresa, a EspoSkate! Somos uma loja apaixonada por skate e roupas de skate, com sede em Esposende. Embora nossa jornada tenha começado há menos de um ano, estamos empenhados em oferecer aos nossos clientes a melhor seleção de produtos de skate, garantindo a qualidade e o estilo que os skatistas procuram.</p>
@@ -42,6 +73,8 @@ Agradecemos à comunidade de skate de Esposende e arredores pelo apoio que receb
 Convidamos você a visitar nossa loja em Esposende e descobrir tudo o que a SkateCo tem a oferecer. Seja você um iniciante empolgado ou um skatista experiente em busca de equipamentos de alta qualidade, estamos aqui para atender às suas necessidades. Junte-se a nós nessa jornada e faça parte da nossa comunidade skate!
       </p>
       <br></br>
+      </section>
+      <section ref={(el) => (sectionsRef.current[1] = el)} className="trending-product fade-in">
       <h1>Nossa Equipa</h1>
       <div className="team-members">
         {teamMembers.map((member, index) => (
@@ -52,6 +85,7 @@ Convidamos você a visitar nossa loja em Esposende e descobrir tudo o que a Skat
           </div>
         ))}
       </div>
+      </section>
     </div>
   );
 }

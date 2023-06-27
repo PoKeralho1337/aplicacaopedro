@@ -122,7 +122,7 @@ function Home() {
                         <h4>Casaco Adidas</h4>
                       </div>
                       <div class="card__price">
-                        <p>109,99 €</p>
+                        <p>109,99 EUR</p>
                       </div>
                     </div>
                     </Link>
@@ -141,7 +141,7 @@ function Home() {
                         <h4>Calças Antix</h4>
                       </div>
                       <div class="card__price">
-                        <p>69,99 €</p>
+                        <p>69,99 EUR</p>
                       </div>
                     </div>
                     </Link>
@@ -160,7 +160,7 @@ function Home() {
                         <h4>Calções Reell</h4>
                       </div>
                       <div class="card__price">
-                        <p>59,99 €</p>
+                        <p>59,99 EUR</p>
                       </div>
                     </div>
                     </Link>
@@ -181,7 +181,7 @@ function Home() {
                         <h4>Thrasher Hoodie</h4>
                       </div>
                       <div class="card__price card__bottom ">
-                        <p>89,99 €</p>
+                        <p>89,99 EUR</p>
                       </div>
                     </div>
                     </Link>
@@ -200,7 +200,7 @@ function Home() {
                         <h4>Nike Chapéu</h4>
                       </div>
                       <div class="card__price card__bottom ">
-                        <p>22,99 €</p>
+                        <p>22,99 EUR</p>
                       </div>
                     </div>
                     </Link>
@@ -219,7 +219,7 @@ function Home() {
                         <h4>Sapatos Vans</h4>
                       </div>
                       <div class="card__price card__bottom " >
-                        <p>94,90 €</p>
+                        <p>94,90 EUR</p>
                       </div>
                     </div>
                     </Link>
