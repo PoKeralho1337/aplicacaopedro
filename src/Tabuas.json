@@ -6,7 +6,7 @@
                 "model": "Mobie Pool Before Death 8.375",
                 "name": "Mobie Pool Before Death",
                 "price": "64,99 EUR",
-                "imgsrc": "/imagens/jart1.png"
+                "imgsrc": "/imagens/tabua1.png"
             },
             {
                 "id" :219,
@@ -22,7 +22,7 @@
                 "model": "Renaissance III 8.25",
                 "name": "Renaissance III",
                 "price": "49,99 EUR",
-                "imgsrc": "/imagens/jart3.png"
+                "imgsrc": "/imagens/tabua4.png"
             },
             {
                 "id" : 221,
@@ -30,7 +30,7 @@
                 "model": "Jartergeist Pool Before Death 8.875",
                 "name": "Jartergeist Pool Before Death",
                 "price": "64,99  EUR",
-                "imgsrc": "/imagens/jart4.png"
+                "imgsrc": "/imagens/tabua2.png"
             },
             {
                 "id": 222,
@@ -110,7 +110,7 @@
                 "model": "LIFE 8.375",
                 "name": "Life",
                 "price": "49,99 EUR",
-                "imgsrc": "/imagens/jart14.png"
+                "imgsrc": "/imagens/tabua3.png"
             },
             {
                 "id": 232,

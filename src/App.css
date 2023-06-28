@@ -147,14 +147,14 @@ li, a, button{
 .area-login{
   display: flex;
   justify-content: center;
-  height: 91vh;
+  height: 93vh;
   justify-content: center;
   align-items: center;
 } 
 .area-contact{
   display: flex;
   justify-content: center;
-  height: 91vh;
+  height: 93vh;
   justify-content: center;
   align-items: center;
 } 
@@ -364,7 +364,7 @@ section{
 
 
 .fundo{
-  background: url(/public/imagens/fundo5.jpg);
+  background: url(/public/imagens/skatefundo.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -613,3 +613,20 @@ section{
   line-height: 1.5;
   margin-bottom: 20px;
 }
+
+#quantity {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#quantity label {
+  font-weight: bold;
+}
+
+#quantity input {
+  width: 60%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+

@@ -11,6 +11,7 @@ function ProductDetails() {
 
   const [isAddedToCart, setIsAddedToCart] = useState(false);
   const [selectedSize, setSelectedSize] = useState('');
+  const [selectedQuantity, setSelectedQuantity] = useState(1);
 
   const handleAddToCart = () => {
     const cartItem = {
@@ -18,7 +19,8 @@ function ProductDetails() {
       name: product.model,
       price: product.price,
       img: product.imgsrc,
-      size: selectedSize 
+      size: selectedSize,
+      quantity: selectedQuantity
     };
     const existingCartItems = JSON.parse(localStorage.getItem('carrinho')) || [];
     const updatedCartItems = [...existingCartItems, cartItem];
@@ -28,7 +30,11 @@ function ProductDetails() {
   };
 
   const handleSizeChange = (e) => {
-    setSelectedSize(e.target.value); // Atualiza o tamanho selecionado no estado
+    setSelectedSize(e.target.value);
+  };
+
+  const handleQuantityChange = (e) => {
+    setSelectedQuantity(parseInt(e.target.value));
   };
 
   return (
@@ -107,6 +113,15 @@ function ProductDetails() {
                   </div>
                 </div>
               )}
+              <Form.Group controlId="quantity">
+                <h3>Quantidade:</h3>
+                <Form.Control
+                  type="number"
+                  min={1}
+                  value={selectedQuantity}
+                  onChange={handleQuantityChange}
+                />
+              </Form.Group>
               {!isAddedToCart ? (
                 <Button variant="primary" onClick={handleAddToCart}>
                   <i className="bx bx-cart"></i> Adicionar ao Carrinho
