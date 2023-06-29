@@ -6,12 +6,11 @@ function Login() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
 
-  useEffect(() => {
-    // Verificar se o usuário já está logado e redirecionar para a página da conta
-    if (localStorage.getItem('isLoggedIn') === 'true') {
-      window.location.href = '/';
-    }
-  }, []);
+  //useEffect(() => {
+    //if (localStorage.getItem('isLoggedIn') === 'true') {
+      //window.location.href = '/';
+    //}
+ // }, []);
 
   const handleLogin = (event) => {
     event.preventDefault();

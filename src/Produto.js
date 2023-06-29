@@ -123,7 +123,7 @@ function ProductDetails() {
                 />
               </Form.Group>
               {!isAddedToCart ? (
-                <Button variant="primary" onClick={handleAddToCart}>
+                <Button variant="danger" onClick={handleAddToCart} >
                   <i className="bx bx-cart"></i> Adicionar ao Carrinho
                 </Button>
               ) : (

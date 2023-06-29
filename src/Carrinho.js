@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
+import './App.css';
 
 function Carrinho() {
   const [items, setItems] = useState([]);
@@ -33,6 +34,7 @@ function Carrinho() {
         </td>
         <td className="cart-item-name">{item.name}</td>
         <td className="cart-item-size">Tamanho: {item.size}</td>
+        <td className="cart-item-quantity">{item.quantity}</td>
         <td className="cart-item-price">
           {item.price}
           <Button variant="danger" onClick={() => handleRemoveItem(item.id)} className="remove-button">
@@ -57,47 +59,95 @@ function Carrinho() {
       const price = parseFloat(item.price);
       totalPrice += price * item.quantity;
     });
-    return totalPrice;
+    return totalPrice.toFixed(2);
   };
 
   return (
     <div>
-      <div className="center-text">
-        <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span> Compras</span></h1>
+    <div className="cart-container">
+      <div className="cart-items">
+      <div class="center-text">
+        <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span>Compras</span></h1>
       </div>
-      {items.length > 0 ? (
-        <table className="cart-items-table">
-          <thead>
-            <tr>
-              <th>Imagem</th>
-              <th>Nome</th>
-              <th>Tamanho</th>
-              <th>Preço</th>
-            </tr>
-          </thead>
-          <tbody>
-            {renderCartItems()}
-            <tr>
-              <td colSpan="3">Quantidade de Produtos:</td>
-              <td>{calculateTotalQuantity()}</td>
-            </tr>
-            <tr>
-              <td colSpan="3">Total a Pagar:</td>
-              <td className="cart-item-price">
-                {calculateTotalPrice().toFixed(2)}
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      ) : (
-        <h1>O carrinho está vazio.</h1>
-      )}
-      {items.length > 0 && (
-        <Button variant="danger" onClick={handleClearCart}>
-          Limpar Carrinho
-        </Button>
-      )}
+        {items.length > 0 ? (
+          <table className="cart-items-table">
+            <thead>
+              <tr>
+                <th>Imagem</th>
+                <th>Nome</th>
+                <th>Tamanho</th>
+                <th>Quantidade</th>
+                <th>Preço</th>
+              </tr>
+            </thead>
+            <tbody>
+              {renderCartItems()}
+            </tbody>
+          </table>
+        ) : (
+          <h1 className="empty-cart-message">O carrinho está vazio.</h1>
+        )}
+      </div>
+      <div className="cart-summary">
+        <div className="cart-summary-details">
+          <div className="cart-summary-item">
+            <span>Quantidade de Produtos:</span>
+            <span>{calculateTotalQuantity()}</span>
+          </div>
+          <div className="cart-summary-item">
+            <span>Total a Pagar:</span>
+            <span className="cart-item-price">
+              {calculateTotalPrice()}
+            </span>
+          </div>
+        </div>
+        {items.length > 0 && (
+          <Button variant="danger" onClick={handleClearCart} className="clear-cart-button">
+            Limpar Carrinho
+          </Button>
+        )}
+      </div>
     </div>
+    <section class="contact">
+          <div class="contact-info">
+            <div class="first-info">
+              <img src='/imagens/EspoSkate.png'/> <br></br>
+
+              <a href='https://www.google.com/maps/place/C%C3%A2mara+Municipal+de+Esposende/@41.5314358,-8.7801767,18.96z/data=!4m14!1m7!3m6!1s0xd244bba6d8c44a1:0xd3bfe8a5d9eb0d42!2sC%C3%A2mara+Municipal+de+Esposende!8m2!3d41.531351!4d-8.7806344!16s%2Fg%2F1tfjmdhm!3m5!1s0xd244bba6d8c44a1:0xd3bfe8a5d9eb0d42!8m2!3d41.531351!4d-8.7806344!16s%2Fg%2F1tfjmdhm'>Praça do Município,<br />4740-223 Esposende</a>
+              <p>966 597 688</p>
+              <p>esposkate05@gmail.com</p>
+
+              <div class="social-icon">
+                <a href="https://www.facebook.com/profile.php?id=100092639252098"><i class='bx bxl-facebook'></i></a>
+                <a href="https://www.instagram.com/esposendeskate/"><i class='bx bxl-instagram-alt' ></i></a>
+                <a href="https://twitter.com/EsposendeSkate"><i class='bx bxl-twitter' ></i></a>
+              </div>
+
+            </div>
+            <div class="second-info">
+              <h4>Suporte</h4>
+              <a href='./Contact'>Contacta-nos</a>
+              <p> </p>
+              <a href='./Privacidade'>Privacidade</a>
+
+            </div>
+            <div class="fourth-info">
+              <h4>Empresa</h4>
+              <a href='./AboutUs'>Sobre</a>
+              <p> </p>
+              <a href='./Login'>Login</a>
+
+            </div>
+            <div class="five">
+              <h4>Subscreve</h4>
+              <p>Receba atualizações,Descontos, altas promoções no seu email</p>
+              <p>Receive updates, discounts, high promotions in your email</p>
+              <p>Recevez des mises à jour, des réductions, des promotions élevées dans votre e-mail</p>
+
+            </div>
+          </div>
+        </section>
+  </div>
   );
 }
 
