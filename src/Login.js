@@ -1,28 +1,61 @@
 import './login.css';
 import Button from 'react-bootstrap/Button';
-import React, {useState} from 'react';
+import React, { useState, useEffect } from 'react';
 
 function Login() {
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
+
+  useEffect(() => {
+    // Verificar se o usuário já está logado e redirecionar para a página da conta
+    if (localStorage.getItem('isLoggedIn') === 'true') {
+      window.location.href = '/';
+    }
+  }, []);
+
+  const handleLogin = (event) => {
+    event.preventDefault();
+
+    if (username === localStorage.getItem('username') && password === localStorage.getItem('password')) {
+      localStorage.setItem('isLoggedIn', 'true');
+      window.location.href = '/Home';
+    } else {
+      alert('Nome de usuário ou senha inválidos');
+    }
+  };
 
   return (
     <div className="App">
-      <header className="App-header">
-       
-      </header>
-      <body className='App-body fundo'>
-        <section class='area-login'>
-          <div class="login">
+      <header className="App-header"></header>
+      <body className="App-body fundo">
+        <section className="area-login">
+          <div className="login">
             <div>
-              <img src='/imagens/EspoSkate.png'></img>
+              <img src="/imagens/EspoSkate.png"></img>
             </div>
-            <form method='POST'>
-              <input type="text" name='nome' placeholder="Nome de utilizador" autoFocus></input>
-              <input type="password" name='password' placeholder="Password" autoFocus></input>
+            <form onSubmit={handleLogin}>
+              <input
+                type="text"
+                name="nome"
+                placeholder="Nome de utilizador"
+                autoFocus
+                value={username}
+                onChange={(e) => setUsername(e.target.value)}
+              ></input>
+              <input
+                type="password"
+                name="password"
+                placeholder="Password"
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+              ></input>
               <input type="submit" value="Entrar"></input>
             </form>
-            <p>Não tem conta?<a href="/SignIn">Criar Conta</a></p>
+            <p>
+              Não tem conta?<a href="/SignIn">Criar Conta</a>
+            </p>
           </div>
-      </section>
+        </section>
       <section class="contact">
           <div class="contact-info">
             <div class="first-info">

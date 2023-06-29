@@ -46,6 +46,7 @@ import { Link } from 'react-router-dom';
 import AffiliatePage from './Affiliate';
 import React, { useState, useEffect } from 'react';
 import ProductDetails from './Produto';
+import UserPage from './User';
 
 function App() {
   const [navbarFixed, setNavbarFixed] = useState(false);
@@ -227,6 +228,7 @@ function App() {
         <Route path='/Cintos/:categoryId' element={<Cintos />} />
         <Route path='/Ferramentas/:categoryId' element={<Ferramentas />} />
         <Route path="/Produto/:id" element={<ProductDetails />} />
+        <Route path="/User" element={<UserPage/>} />
       </Routes>
 
     </div>

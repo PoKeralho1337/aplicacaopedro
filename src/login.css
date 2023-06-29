@@ -3,7 +3,7 @@
     flex-direction: column;
     display: flex;
     align-items: center;
-    width: 600px;
+    width: 500px;
     height: 320px;
     padding: 35px;
     border-radius: 10px;
@@ -45,4 +45,57 @@
   input::placeholder{
     color: black;
     font-size: 14px;
+  }
+
+  .signin {
+    background-color: #ffffff;
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  .signin img {
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .signin input[type='email'],
+  .signin input[type='text'],
+  .signin input[type='password'],
+  .signin input[type='submit'] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .signin input[type='submit'] {
+    background-color: #fa3232;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .signin input[type='submit']:hover {
+    background-color: #fa0909;
+  }
+  
+  .signin h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .signin p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .signin a {
+    text-decoration: none;
+    color: #f83c3c;
+  }
+  
+  .signin a:hover {
+    color: #fa3a3a;
   }

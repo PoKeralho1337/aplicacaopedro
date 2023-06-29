@@ -96,7 +96,7 @@ function Home() {
             <span>Bem-Vindo Ao</span>
             <h1>EspoSkate</h1>
             <h2>Melhor Loja Online<br></br>De Skates</h2>
-            <a href='' className="my-btn">Continuar</a>
+            <a href='/Login' className="my-btn">Continuar</a>
           </div>
           <div class="home-img">
             <img src='imagens/home.png'></img>

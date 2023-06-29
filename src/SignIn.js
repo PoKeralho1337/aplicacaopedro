@@ -1,28 +1,73 @@
 import './login.css';
-import Button from 'react-bootstrap/Button';
 import React, { useState } from 'react';
 
 function SignIn() {
+  const [email, setEmail] = useState('');
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
+  const [isAccountCreated, setIsAccountCreated] = useState(false);
 
-    return (
-        <div className="App">
-            <header className="App-header">
+  const handleSignUp = (event) => {
+    event.preventDefault();
 
-            </header>
-            <body className='App-body fundo'>
-                <section class='area-login'>
-                    <div class="login">
-                        <div>
-                            <img src='/imagens/EspoSkate.png'></img>
-                        </div>
-                        <form method='POST'>
-                            <input type="email" name='email' placeholder="Seu email" autoFocus></input>
-                            <input type="text" name='nome' placeholder="Nome de utilizador" autoFocus></input>
-                            <input type="password" name='password' placeholder="Password" autoFocus></input>
-                            <input type="submit" value="Entrar"></input>
-                        </form>
-                    </div>
-                </section>
+    localStorage.setItem('email', email);
+    localStorage.setItem('username', username);
+    localStorage.setItem('password', password);
+
+
+    setIsAccountCreated(true);
+  };
+
+  return (
+    <div className="App">
+      <header className="App-header"></header>
+      <body className="App-body fundo">
+        <section className="area-login">
+          <div className="signin">
+            <div>
+              <img src="/imagens/EspoSkate.png"></img>
+            </div>
+            {!isAccountCreated ? (
+              <div>
+                <form onSubmit={handleSignUp}>
+                  <input
+                    type="email"
+                    name="email"
+                    placeholder="Email"
+                    autoFocus
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                  />
+                  <input
+                    type="text"
+                    name="username"
+                    placeholder="Nome de utilizador"
+                    value={username}
+                    onChange={(e) => setUsername(e.target.value)}
+                  />
+                  <input
+                    type="password"
+                    name="password"
+                    placeholder="Password"
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                  />
+                  <input type="submit" value="Criar Conta" />
+                </form>
+              </div>
+            ) : (
+              <div>
+                <h2>Conta Criada!</h2>
+                <p>Sua conta foi criada com sucesso.</p>
+                <p>Agora você pode fazer login:</p>
+                <a href="/login">Ir para a página de login</a>
+              </div>
+            )}
+            <p>
+              Já tem conta?<a href="/login">Fazer Login</a>
+            </p>
+          </div>
+        </section>
                 <section class="contact">
                     <div class="contact-info">
                         <div class="first-info">
