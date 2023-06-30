@@ -49,28 +49,9 @@ import ProductDetails from './Produto';
 import UserPage from './User';
 
 function App() {
-  const [navbarFixed, setNavbarFixed] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      if (window.scrollY > 0) {
-        setNavbarFixed(true);
-      } else {
-        setNavbarFixed(false);
-      }
-    };
-
-    window.addEventListener('scroll', handleScroll);
-
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, []);
-
-
   return (
     <div>
-      <header className={`App-header nav__link ${navbarFixed ? 'fixed' : ''}`}>
+      <header className="App-header">
         <Navbar bg="white" variant='white' expand="lg" >
             <Navbar.Brand href="#home" ></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -177,7 +158,9 @@ function App() {
         </Navbar>
 
       </header>
-      <Routes>
+
+      
+      <Routes> 
         <Route path='/' element={<Home />} />
         <Route path='/Acessorios' element={<Acessorios />} />
         <Route path='/Marcas' element={<Marcas />} />

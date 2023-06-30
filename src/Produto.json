@@ -6,6 +6,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "Antix Slack Cord Shorts (Brown)",
+                "name": "Antix Slack Cord Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/antixcalcoes1.png"
             },
@@ -14,6 +15,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "Antix Slack Cord Shorts (Black)",
+                "name": "Antix Slack Cord Shorts ",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/antixcalcoes2.png"
             },
@@ -22,6 +24,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "Antix Slack Cord Shorts (Light Blue)",
+                "name": "Antix Slack Cord Shorts",
                 "price": "54.99 EUR",
                 "imgsrc": "/imagens/antixcalcoes3.png"
             },
@@ -30,6 +33,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "Antix Slack Carpenter Shorts (Light Blue Contrast)",
+                "name": "Antix Slack Carpenter Shorts",
                 "price": "59.99  EUR",
                 "imgsrc": "/imagens/antixcalcoes4.png"
             },
@@ -38,6 +42,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "Antix Slack Cargo Shorts (Sand)",
+                "name": "Antix Slack Cargo Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/antixcalcoes5.png"
             },
@@ -46,6 +51,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Regular Cargo Columbia Shorts (Black Rinse)",
+                "name": "Carhartt Wip Regular Shorts",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/carharttcalcoes1.png"
             },
@@ -54,6 +60,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Ruck Single Knee Millington Shorts (Black Stone Washed)",
+                "name": "Carhartt Wip Ruck Shorts",
                 "price": "79.99 EUR",
                 "imgsrc": "/imagens/carharttcalcoes2.png"
             },
@@ -62,6 +69,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Master Denison Shorts (Black Rinsed)",
+                "name": "Carhartt Wip Master Shorts",
                 "price": "79.99 EUR",
                 "imgsrc": "/imagens/carharttcalcoes3.png"
             },
@@ -70,6 +78,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Newel Organic Parkland Color Shorts (Black Worn Washed)",
+                "name": "Carhartt Wip Newel Shorts",
                 "price": "89.99  EUR",
                 "imgsrc": "/imagens/carharttcalcoes4.png"
             },
@@ -78,6 +87,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Single Knee Organic Dearborn Shorts (Hamilton Brown Rinsed)",
+                "name": "Carhartt Wip Single Shorts",
                 "price": "79.99 EUR",
                 "imgsrc": "/imagens/carharttcalcoes5.png"
             },
@@ -86,6 +96,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Master Denision Shorts (Wall Rinsed)",
+                "name": "Carhartt Wip Master Shorts",
                 "price": "79.99 EUR",
                 "imgsrc": "/imagens/carharttcalcoes6.png"
             },
@@ -94,6 +105,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "Dickies MILLERVILLE Shorts (Military) ",
+                "name": "Dickies MILLERVILLE Shorts",
                 "price": "64.99 EUR",
                 "imgsrc": "/imagens/dickiescalcoes1.png"
             },
@@ -102,6 +114,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "Dickies Slim Workshort Flex Shorts (Charcoal Grey)",
+                "name": "Dickies Slim Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/dickiescalcoes2.png"
             },
@@ -110,6 +123,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "Dickies 13In Multi Pocket Workshort Shorts (Black)",
+                "name": "Dickies Garyville Shorts",
                 "price": "54.99 EUR",
                 "imgsrc": "/imagens/dickiescalcoes3.png"
             },
@@ -118,6 +132,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "Dickies Cobden Shorts (Navy Blue)",
+                "name": "Reell Belmont Shorts",
                 "price": "49.99  EUR",
                 "imgsrc": "/imagens/dickiescalcoes4.png"
             },
@@ -126,6 +141,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "Dickies Slim Straight Work Shorts (Khaki)",
+                "name": "Reell Flex Shorts",
                 "price": "49.99 EUR",
                 "imgsrc": "/imagens/dickiescalcoes5.png"
             },
@@ -134,6 +150,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "Dickies Garyville Denim Shorts (VintageBlue)",
+                "name": "Reel New Cargo Shorts",
                 "price": "69.99 EUR",
                 "imgsrc": "/imagens/dickiescalcoes6.png"
             },
@@ -142,6 +159,7 @@
                 "brand": "Reell",
                 "category": "roupa",
                 "model": "Reell Belmont Shorts (Origin Light Blue)",
+                "name": "Reell New Cargo Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/rellcalcoes1.png"
             },
@@ -150,6 +168,7 @@
                 "brand": "Reell",
                 "category": "roupa",
                 "model": "Reell Flex Grip Chino Shorts (Black)",
+                "name": "Reell Flex Shorts",
                 "price": "49.99 EUR",
                 "imgsrc": "/imagens/rellcalcoes2.png"
             },
@@ -158,6 +177,7 @@
                 "brand": "Reell",
                 "category": "roupa",
                 "model": "Reel New Cargo Shorts (Taupe)",
+                "name": "Reell New Cargo Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/rellcalcoes3.png"
             },
@@ -166,6 +186,7 @@
                 "brand": "Reell",
                 "category": "roupa",
                 "model": "Reell New Cargo Shorts (Forest Green)",
+                "name": "Reell New Cargo Shorts",
                 "price": "59.99  EUR",
                 "imgsrc": "/imagens/rellcalcoes4.png"
             },
@@ -174,6 +195,7 @@
                 "brand": "Reell",
                 "category": "roupa",
                 "model": "Reell New Cargo Shorts (Black)",
+                "name": "Reell New Cargo Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/rellcalcoes5.png"
             },
@@ -182,6 +204,7 @@
                 "brand": "Reell",
                 "category": "roupa",
                 "model": "Reell Belmont Shorts (Origin Mid Blue)",
+                "name": "Reell Belmont Shorts",
                 "price": "59.99 EUR",
                 "imgsrc": "/imagens/rellcalcoes6.png"
             },
@@ -190,6 +213,7 @@
                     "brand": "Adidas",
                     "category": "roupa",
                     "model": "Adidas Superfire TK Jacket (Black)",
+                    "name": "Adidas Superfire TK Jacket",
                     "price": "84.99 EUR",
                     "imgsrc": "/imagens/adidascasacos1.png"
                 },
@@ -198,6 +222,7 @@
                     "brand": "Adidas",
                     "category": "roupa",
                     "model": "Adidas Insulated Vest (Shadow Grenn Cardboard Black)",
+                    "name": "Adidas Insulated Vest",
                     "price": "74.99 EUR",
                     "imgsrc": "/imagens/adidascasacos2.png"
                 },
@@ -206,6 +231,7 @@
                     "brand": "Adidas",
                     "category": "roupa",
                     "model": "Adidas TJ Velour Jacket (Black Bluebird Matte Gold)",
+                    "name": "Adidas TJ Velour Jacket ",
                     "price": "109.99 EUR",
                     "imgsrc": "/imagens/adidascasacos3.png"
                 },
@@ -214,6 +240,7 @@
                     "brand": "Antix",
                     "category": "roupa",
                     "model": "Antix Fleece Vest (Black)",
+                    "name": "Adidas Insulated Vest",
                     "price": "64.99 EUR",
                     "imgsrc": "/imagens/antixcasacos1.png"
                 },
@@ -222,6 +249,7 @@
                     "brand": "Antix",
                     "category": "roupa",
                     "model": "Antix Carta Fleece Jacket (Black)",
+                    "name": "Antix Carta Fleece Jacket",
                     "price": "69.99 EUR",
                     "imgsrc": "/imagens/antixcasacos2.png"
                 },
@@ -230,6 +258,7 @@
                     "brand": "Antix",
                     "category": "roupa",
                     "model": "Antix Armor Vest (Black)",
+                    "name": "Antix Armor Vest",
                     "price": "84.99 EUR",
                     "imgsrc": "/imagens/antixcasacos3.png"
                 },
@@ -238,6 +267,7 @@
                     "brand": "Antix",
                     "category": "roupa",
                     "model": "Antix Caldo Puffer Jacket (Black)",
+                    "name": "Antix Caldo Puffer Jacket",
                     "price": "139.99  EUR",
                     "imgsrc": "/imagens/antixcasacos4.png"
                 },
@@ -246,6 +276,7 @@
                     "brand": "Antix",
                     "category": "roupa",
                     "model": "Antix Sherpa Fleece Half Zip Jacket (Black)",
+                    "name": "Antix Sherpa Fleece Jacket ",
                     "price": "89.99 EUR",
                     "imgsrc": "/imagens/antixcasacos5.png"
                 },
@@ -254,6 +285,7 @@
                     "brand": "Carhartt",
                     "category": "roupa",
                     "model": "Carhartt Wip Jackson Jacket (Ammonite)",
+                    "name": "Carhartt Wip Jackson Jacket",
                     "price": "129.99 EUR",
                     "imgsrc": "/imagens/carharttcasacos1.png"
                 },
@@ -262,6 +294,7 @@
                     "brand": "Carhartt",
                     "category": "roupa",
                     "model": "Carhartt Wip Windbreaker Pullover Jacket (Black White)",
+                    "name": "Carhartt Wip Windbreaker Jacket",
                     "price": "159.99 EUR",
                     "imgsrc": "/imagens/carharttcasacos2.png"
                 },
@@ -270,6 +303,7 @@
                     "brand": "Carhartt",
                     "category": "roupa",
                     "model": "Carhartt Wip Prentis Liner Jacket (Dusty H Brown Soot Black)",
+                    "name": "Carhartt Wip Prentis Jacket",
                     "price": "179.99 EUR",
                     "imgsrc": "/imagens/carharttcasacos3.png"
                 },
@@ -278,6 +312,7 @@
                     "brand": "Carhartt",
                     "category": "roupa",
                     "model": "Carhartt Wip Danville Jacket (Black White)",
+                    "name": "Carhartt Wip Danville Jacket",
                     "price": "279.99  EUR",
                     "imgsrc": "/imagens/carharttcasacos4.png"
                 },
@@ -286,6 +321,7 @@
                     "brand": "Carhartt",
                     "category": "roupa",
                     "model": "Carhartt Wip Nimbus Pullover Winter Jacket (Dark Cedar)",
+                    "name": "Carhartt Wip Nimbus Jacket",
                     "price": "169.99 EUR",
                     "imgsrc": "/imagens/carharttcasacos5.png"
                 },
@@ -294,6 +330,7 @@
                     "brand": "Carhartt",
                     "category": "roupa",
                     "model": "Carhartt Wip Ginnis Jacket (Ginnis Check Deep Teal)",
+                    "name": "Carhartt Wip Ginnis Jacket",
                     "price": "189.99 EUR",
                     "imgsrc": "/imagens/carharttcasacos6.png"
                 },
@@ -302,6 +339,7 @@
                     "brand": "Dickies",
                     "category": "roupa",
                     "model": "Dickies Waldenbrug Jacket (Black)",
+                    "name": "Dickies Waldenbrug Jacket",
                     "price": "134.99 EUR",
                     "imgsrc": "/imagens/dickiescasacos1.png"
                 },
@@ -310,6 +348,7 @@
                     "brand": "Dickies",
                     "category": "roupa",
                     "model": "Dickies Oakport Coach Jacket (Khaki)",
+                    "name": "Dickies Oakport Coach Jacket",
                     "price": "69.99 EUR",
                     "imgsrc": "/imagens/dickiescasacos2.png"
                 },
@@ -318,6 +357,7 @@
                     "brand": "Dickies",
                     "category": "roupa",
                     "model": "Dickies Duck Canvas Smr Vest (Black)",
+                    "name": "Dickies Duck Vest",
                     "price": "84.99 EUR",
                     "imgsrc": "/imagens/dickiescasacos3.png"
                 },
@@ -326,6 +366,7 @@
                     "brand": "Dickies",
                     "category": "roupa",
                     "model": "Dickies Glacier View Parka Jacket (Black)",
+                    "name": "Dickies Glacier Jacket",
                     "price": "169.99  EUR",
                     "imgsrc": "/imagens/dickiescasacos4.png"
                 },
@@ -334,6 +375,7 @@
                     "brand": "Dickies",
                     "category": "roupa",
                     "model": "Dickies Red Chute Sherpa Jacket (Ecru)",
+                    "name": "Dickies Red Chute Jacket",
                     "price": "94.99 EUR",
                     "imgsrc": "/imagens/dickiescasacos5.png"
                 },
@@ -342,6 +384,7 @@
                     "brand": "Dickies",
                     "category": "roupa",
                     "model": "Dickies New Sarpy Jacket (Charcoal Grey)",
+                    "name": "Dickies New Sarpy Jacket",
                     "price": "119.99 EUR",
                     "imgsrc": "/imagens/dickiescasacos6.png"
                 },
@@ -350,6 +393,7 @@
                     "brand": "Element",
                     "category": "roupa",
                     "model": "Element Field Parka Jacket (Forest Night)",
+                    "name": "Element Field Parka Jacket",
                     "price": "194.99 EUR",
                     "imgsrc": "/imagens/elementcasacos1.png"
                 },
@@ -358,6 +402,7 @@
                     "brand": "Element",
                     "category": "roupa",
                     "model": "Element Dulcey Light Jacket (Flint Black)",
+                    "name": "Element Dulcey Light Jacket",
                     "price": "154.99 EUR",
                     "imgsrc": "/imagens/elementcasacos2.png"
                 },
@@ -366,6 +411,7 @@
                     "brand": "Element",
                     "category": "roupa",
                     "model": "Element X MilletT Mountain Limestone Fleece Jacket (Saphir)",
+                    "name": "Element X MilletT Jacket",
                     "price": "149.99 EUR",
                     "imgsrc": "/imagens/elementcasacos3.png"
                 },
@@ -374,6 +420,7 @@
                     "brand": "Element",
                     "category": "roupa",
                     "model": "Element Alder Jacket (Flint Black)",
+                    "name": "Element Alder Jacket",
                     "price": "119.99  EUR",
                     "imgsrc": "/imagens/elementcasacos4.png"
                 },
@@ -382,6 +429,7 @@
                     "brand": "Element",
                     "category": "roupa",
                     "model": "Element Atelier Alder Puff Jacket (Off White)",
+                    "name": "Element Atelier Jacket ",
                     "price": "189.99 EUR",
                     "imgsrc": "/imagens/elementcasacos5.png"
                 },
@@ -390,6 +438,7 @@
                     "brand": "Nike",
                     "category": "roupa",
                     "model": "Nike SB Classics Woven Twill Premium Jacket (Black)",
+                    "name": "Nike SB Classics Jacket",
                     "price": "74.99 EUR",
                     "imgsrc": "/imagens/nikecasacos1.png"
                 },
@@ -398,6 +447,7 @@
                     "brand": "Nike",
                     "category": "roupa",
                     "model": "Nike SB Padded Jacket (Off Noir)",
+                    "name": "Nike SB Padded Jacket",
                     "price": "169.99 EUR",
                     "imgsrc": "/imagens/nikecasacos2.png"
                 },
@@ -406,6 +456,7 @@
                     "brand": "Nike",
                     "category": "roupa",
                     "model": "Nike SB Sportwear Filled Work Jacket (Black)",
+                    "name": "Nike SB Sportwear Jacket",
                     "price": "149.99 EUR",
                     "imgsrc": "/imagens/nikecasacos3.png"
                 },
@@ -414,6 +465,7 @@
                     "brand": "Nike",
                     "category": "roupa",
                     "model": "Nike SB Sportwear Filled Work Jacket (Oxen Brown)",
+                    "name": "Nike SB Sportwear Jacket",
                     "price": "149.99  EUR",
                     "imgsrc": "/imagens/nikecasacos4.png"
                 },
@@ -422,6 +474,7 @@
                     "brand": "Nike",
                     "category": "roupa",
                     "model": "Nike SB Harrington Cord Jacket (Light Iron Ore)",
+                    "name": "Nike SB Harrington Jacket",
                     "price": "119.99 EUR",
                     "imgsrc": "/imagens/nikecasacos5.png"
                 },
@@ -430,6 +483,7 @@
                     "brand": "Nike",
                     "category": "roupa",
                     "model": "Nike SB X MLB Varsity Jacket (Deep Royal Blue)",
+                    "name": "Nike SB X MLB Jacket",
                     "price": "129.99 EUR",
                     "imgsrc": "/imagens/nikecasacos6.png"
                 },
@@ -438,6 +492,7 @@
                     "brand": "The North Face",
                     "category": "roupa",
                     "model": "The North Face Denali Jacket (TNF Black)",
+                    "name": "The North Face Denali Jacket",
                     "price": "159.99 EUR",
                     "imgsrc": "/imagens/northfacecasacos1.png"
                 },
@@ -446,6 +501,7 @@
                     "brand": "The North Face",
                     "category": "roupa",
                     "model": "The North Face Seasonal Mountain Jacket (TNF Black)",
+                    "name": "The North Face Seasonal Jacket",
                     "price": "109.99 EUR",
                     "imgsrc": "/imagens/northfacecasacos2.png"
                 },
@@ -454,6 +510,7 @@
                     "brand": "The North Face",
                     "category": "roupa",
                     "model": "The North Face Seasonal Mountain Jacket (Black Printed)",
+                    "name": "The North Face Seasonal Jacket",
                     "price": "109.99 EUR",
                     "imgsrc": "/imagens/northfacecasacos3.png"
                 },
@@ -462,6 +519,7 @@
                     "brand": "The North Face",
                     "category": "roupa",
                     "model": "The North Face Denali VESTVest (TNF Black)",
+                    "name": "The North Face Denali VESTVest",
                     "price": "139.99  EUR",
                     "imgsrc": "/imagens/northfacecasacos4.png"
                 },
@@ -470,6 +528,7 @@
                     "brand": "The North Face",
                     "category": "roupa",
                     "model": "The North Face Element Jacket (TNF Black)",
+                    "name": "The North Face Element Jacket",
                     "price": "199.99 EUR",
                     "imgsrc": "/imagens/northfacecasacos5.png"
                 },
@@ -478,6 +537,7 @@
                     "brand": "The North Face",
                     "category": "roupa",
                     "model": "The North Face Himalayn Inspired Jacket (Black)",
+                    "name": "The North Face Himalayn Jacket",
                     "price": "229.99 EUR",
                     "imgsrc": "/imagens/northfacecasacos6.png"
                 },
@@ -899,6 +959,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "COP CAR HOODIE (BLACK)",
+                "name": "Cop Car Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie1.png"
             },
@@ -907,6 +968,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "OUTLINE SWEATSHIRT (BLACK RED)",
+                "name": "Outline Sweatshirt",
                 "price": "64.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie2.png"
             },
@@ -915,6 +977,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "BURN IT DOWN HOODIE (DARK CHOCOLATE)",
+                "name": "Burn It Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie3.png"
             },
@@ -923,6 +986,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "SKATE MAG SWEATSHIRT (RED)",
+                "name": "Skate Mag Sweatshirt",
                 "price": "64.99  EUR",
                 "imgsrc": "/imagens/thrasherhoodie4.png"
             },
@@ -931,6 +995,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": " FLAME HOODIE (WHITE)",
+                "name": "Flame Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie5.png"
             },
@@ -939,6 +1004,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "DOUBLE FLAME HOODIE (BLACK)",
+                "name": "Double Flame Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie6.png"
             },
@@ -947,6 +1013,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "BBQ REDUX HOODIE (BLACK)",
+                "name": "BBQ Redux Hoodie",
                 "price": "74.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie7.png"
             },
@@ -955,6 +1022,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": " FLAME HOODIE (BLACK BLACK)",
+                "name": "Flame Hoodie",
                 "price": "54.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie8.png"
             },
@@ -963,6 +1031,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "FLAME HOODIE (BLACK)",
+                "name": "Flame Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie9.png"
             },
@@ -971,6 +1040,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": " FLAME HOODIE (BLACK BLUE)",
+                "name": "Flame Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie10.png"
             },
@@ -979,6 +1049,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "FLAME HOODIE (NAVY)",
+                "name": "Flame Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie11.png"
             },
@@ -987,6 +1058,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "SKATEGOAT HOODIE (BLACK WHITE)",
+                "name": "SkateGoat Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie12.png"
             },
@@ -995,6 +1067,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "FIRE LOGO HOODIE (NAVY)",
+                "name": "Fire Logo Hoodie",
                 "price": "79.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie13.png"
             },
@@ -1003,6 +1076,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "TRUCK 1 HOODIE (BLACK)",
+                "name": "Trcuk 1 Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie14.png"
             },
@@ -1011,6 +1085,7 @@
                 "brand": "Thrasher",
                 "category": "roupa",
                 "model": "DOUBLE FLAME NEON HOODIE (BLACK)",
+                "name": "Double Flame Hoodie",
                 "price": "89.99 EUR",
                 "imgsrc": "/imagens/thrasherhoodie15.png"
             },
@@ -1019,6 +1094,7 @@
                 "brand": "Adidas",
                 "category": "roupa",
                 "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (WHITE BLACK) 3 PACK",
+                "name": "Skateboarding Solid Socks",
                 "price": "19.99 EUR",
                 "imgsrc": "/imagens/adidasmeias1.png"
             },
@@ -1027,6 +1103,7 @@
                 "brand": "Adidas",
                 "category": "roupa",
                 "model": "SKATEBOARDING SOLID SOCKS EU 35-46 (BLACK WHITE) 3 PACK",
+                "name": "Skateboarding Solid Socks",
                 "price": "19.99 EUR",
                 "imgsrc": "/imagens/adidasmeias2.png"
             },
@@ -1035,6 +1112,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "CARITAS SOCKS US 6-13 (BLACK)",
+                "name": "Caritas Socks",
                 "price": "9.99 EUR",
                 "imgsrc": "/imagens/antixmeias1.png"
             },
@@ -1043,6 +1121,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "VAUX SOCKS US 6-13 (BLACK)",
+                "name": "Vaux Socks",
                 "price": "9.99 EUR",
                 "imgsrc": "/imagens/antixmeias2.png"
             },
@@ -1051,6 +1130,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "PANTERA SOCKS US 6-13 (WHITE)",
+                "name": "Pantera Socks",
                 "price": "9.99 EUR",
                 "imgsrc": "/imagens/antixmeias3.png"
             },
@@ -1059,6 +1139,7 @@
                 "brand": "Antix",
                 "category": "roupa",
                 "model": "SOL SOCKS US 6-13 (WHITE)",
+                "name": "Sol Socks",
                 "price": "9.99 EUR",
                 "imgsrc": "/imagens/antixmeias4.png"
             },
@@ -1067,6 +1148,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": "VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (WHITE) 3 PACK",
+                "name": "Valley Grove Socks",
                 "price": "19.99 EUR",
                 "imgsrc": "/imagens/dickiesmeias1.png"
             },
@@ -1075,6 +1157,7 @@
                 "brand": "Dickies",
                 "category": "roupa",
                 "model": " VALLEY GROVE EMBROIDERED SOCKS US 6,5-12,5 (BLACK) 3 PACK",
+                "name": "Valley Grove Socks",
                 "price": "19.99 EUR",
                 "imgsrc": "/imagens/dickiesmeias2.png"
             },
@@ -1083,6 +1166,7 @@
                 "brand": "Element",
                 "category": "roupa",
                 "model": "X STAR WARS GALAXY SOCKS US 8-11 (BLUE)",
+                "name": "Star Wars Socks",
                 "price": "14.99 EUR",
                 "imgsrc": "/imagens/elementmeias1.png"
             },
@@ -1091,6 +1175,7 @@
                 "brand": "Element",
                 "category": "roupa",
                 "model": "X PUBLIC ENEMY SKATE SOCKS US 8-11 (WHITE)",
+                "name": "Public Enemy Socks",
                 "price": "14.99 EUR",
                 "imgsrc": "/imagens/elementmeias2.png"
             },
@@ -1099,6 +1184,7 @@
                 "brand": "Nike",
                 "category": "roupa",
                 "model": "CUSHION SOCKS US 2-15 (BLACK WHITE) 3 PACK",
+                "name": "Cushion Socks",
                 "price": "14.99 EUR",
                 "imgsrc": "/imagens/nikemeias1.png"
             },
@@ -1107,6 +1193,7 @@
                 "brand": "Nike",
                 "category": "roupa",
                 "model": "CUSHION SOCKS US 2-15 (WHITE BLACK) 3 PACK",
+                "name": "Cushion Socks",
                 "price": "19.99 EUR",
                 "imgsrc": "/imagens/nikemeias2.png"
             },
@@ -1115,6 +1202,7 @@
                 "brand": "Nike",
                 "category": "roupa",
                 "model": "EVERYDAY PLUS SOCKS US 5-11 (MULTI)",
+                "name": "Everyday Plus Socks",
                 "price": "17.99 EUR",
                 "imgsrc": "/imagens/nikemeias3.png"
             },
@@ -1123,6 +1211,7 @@
                 "brand": "Nike",
                 "category": "roupa",
                 "model": "EVERYDAY MAX LIGHTWEIGHT SOCKS US 3-12 (MULTI COLOR) 3 PACK",
+                "name": "Everyday Max Socks",
                 "price": "14.99 EUR",
                 "imgsrc": "/imagens/nikemeias4.png"
             },
@@ -1425,6 +1514,7 @@
                 "brand": "Adidas",
                 "category": "sapatos",
                 "model": "Adidas Skateboarding Campus 00S Shoes (Silver Black)",
+                "name": "Adidas Skateboarding Shoes",
                 "price": "109.90 EUR",
                 "imgsrc": "/imagens/adidassapatos1.png"
             },
@@ -1433,6 +1523,7 @@
                 "brand": "Adidas",
                 "category": "sapatos",
                 "model": "Adidas Skateboarding Busenitz Vulc II Shoes (Carbon Ink Gold Melange)",
+                "name": "Adidas Skateboarding Shoes",
                 "price": "79.90 EUR",
                 "imgsrc": "/imagens/adidassapatos2.png"
             },
@@ -1441,6 +1532,7 @@
                 "brand": "Adidas",
                 "category": "sapatos",
                 "model": "Adidas Skateboarding Puig Shoes (Core Black White GoldMelange)",
+                "name": "Adidas Skateboarding Shoes",
                 "price": "99.90 EUR",
                 "imgsrc": "/imagens/adidassapatos3.png"
             },
@@ -1449,6 +1541,7 @@
                 "brand": "Adidas",
                 "category": "sapatos",
                 "model": "ANTIX VAUX DAD CAP (WASHED BLACK)",
+                "name": "Adidas Skateboarding Shoes",
                 "price": "89.90 EUR",
                 "imgsrc": "/imagens/adidassapatos4.png"
             },
@@ -1457,6 +1550,7 @@
                 "brand": "DC",
                 "category": "sapatos",
                 "model": "DC Mantega 4 Shoes (Black Black Gum)",
+                "name": "DC Mantega Shoes",
                 "price": "84.90 EUR",
                 "imgsrc": "/imagens/dcsapatos1.png"
             },
@@ -1465,6 +1559,7 @@
                 "brand": "DC",
                 "category": "sapatos",
                 "model": "DC Mantega 4 Shoes (Black Athletic Red)",
+                "name": "DC Mantega Shoes",
                 "price": "74.90 EUR",
                 "imgsrc": "/imagens/dcsapatos2.png"
             },
@@ -1473,6 +1568,7 @@
                 "brand": "DC",
                 "category": "sapatos",
                 "model": "DC Mantega 4 Shoes (Black White Gum)",
+                "name": "DC Mantega Shoes",
                 "price": "74.90 EUR",
                 "imgsrc": "/imagens/dcsapatos3.png"
             },
@@ -1481,6 +1577,7 @@
                 "brand": "DC",
                 "category": "sapatos",
                 "model": "DC Crisis 2 Shoes(Black Gum)",
+                "name": "DC Crisis Shoes",
                 "price": "74.90 EUR",
                 "imgsrc": "/imagens/dcsapatos4.png"
             },
@@ -1489,6 +1586,7 @@
                 "brand": "DC",
                 "category": "sapatos",
                 "model": "DC Versatile Shoes (Black White Athletic Red)",
+                "name": "DC Versatile Shoes",
                 "price": "94.90 EUR",
                 "imgsrc": "/imagens/dcsapatos5.png"
             },
@@ -1497,6 +1595,7 @@
                 "brand": "New Balance",
                 "category": "sapatos",
                 "model": "New Balance Numeric 808 Tiago Shoes (White Blue)",
+                "name": "New Balance 808 Shoes",
                 "price": "114.90 EUR",
                 "imgsrc": "/imagens/newbalancesapatos1.png"
             },
@@ -1505,6 +1604,7 @@
                 "brand": "New Balance",
                 "category": "sapatos",
                 "model": "New Balance Numeric 306 Shoes (Summer Fog)",
+                "name": "New Balance 306 Shoes",
                 "price": "89.90 EUR",
                 "imgsrc": "/imagens/newbalancesapatos2.png"
             },
@@ -1513,6 +1613,7 @@
                 "brand": "New Balance",
                 "category": "sapatos",
                 "model": "New Balance Numeric 306 Shoes (Black Red)",
+                "name": "New Balance 306 Shoes",
                 "price": "84.90 EUR",
                 "imgsrc": "/imagens/newbalancesapatos3.png"
             },
@@ -1521,6 +1622,7 @@
                 "brand": "New Balance",
                 "category": "sapatos",
                 "model": "New Balance Numeric 440 Shoes (White Red)",
+                "name": "New Balance 440 Shoes",
                 "price": "79.90 EUR",
                 "imgsrc": "/imagens/newbalancesapatos4.png"
             },
@@ -1529,6 +1631,7 @@
                 "brand": "New Balance",
                 "category": "sapatos",
                 "model": "New Balance Numeric 808 Tiago Shoes (Wheat Brown)",
+                "name": "New Balance 808 Shoes",
                 "price": "109.90 EUR",
                 "imgsrc": "/imagens/newbalancesapatos5.png"
             },
@@ -1537,6 +1640,7 @@
                 "brand": "New Balance",
                 "category": "sapatos",
                 "model": "New Balance Numeric 272 Shoes (Black White)",
+                "name": "New Balance 272 Shoes",
                 "price": "89.90 EUR",
                 "imgsrc": "/imagens/newbalancesapatos6.png"
             },
@@ -1545,6 +1649,7 @@
                 "brand": "Nike",
                 "category": "sapatos",
                 "model": "Nike SB Force 58 Premium Shoes (White Black)",
+                "name": "Nike SB Force Shoes",
                 "price": "79.90 EUR",
                 "imgsrc": "/imagens/nikesapatos1.png"
             },
@@ -1553,6 +1658,7 @@
                 "brand": "Nike",
                 "category": "sapatos",
                 "model": "Nike SB Pogo Premium Shoes (Black Black Gum)",
+                "name": "Nike SB Pogo Shoes",
                 "price": "84.90 EUR",
                 "imgsrc": "/imagens/nikesapatos2.png"
             },
@@ -1561,6 +1667,7 @@
                 "brand": "Nike",
                 "category": "sapatos",
                 "model": "Nike SB Ishod Premium Shoes (White Black White)",
+                "name": "Nike SB Ishod Shoes",
                 "price": "109.90 EUR",
                 "imgsrc": "/imagens/nikesapatos3.png"
             },
@@ -1568,6 +1675,7 @@
                 "id": 209,
                 "brand": "Nike",
                 "model": "Nike SB Ishod Premium Shoes (Baroque Brown Obsidian Black)",
+                "name": "Nike SB Ishod Shoes",
                 "price": "109.90 EUR",
                 "imgsrc": "/imagens/nikesapatos4.png"
             },
@@ -1576,6 +1684,7 @@
                 "brand": "Nike",
                 "category": "sapatos",
                 "model": "Nike SB Zoom Blazer Mid Shoes (Black White Sail)",
+                "name": "Nike SB Zoom Shoes",
                 "price": "89.90 EUR",
                 "imgsrc": "/imagens/nikesapatos5.png"
             },
@@ -1584,6 +1693,7 @@
                 "category": "sapatos",
                 "brand": "Nike",
                 "model": "Nike SB Force 58 Shoes (Dark Grey White)",
+                "name": "Nike SB Force Shoes",
                 "price": "74.90 EUR",
                 "imgsrc": "/imagens/nikesapatos6.png"
             },
@@ -1592,6 +1702,7 @@
                 "brand": "Vans",
                 "category": "sapatos",
                 "model": "Vans BMX Style 114 Shoes (Black White)",
+                "name": "Vans BMX shoes",
                 "price": "94.90 EUR",
                 "imgsrc": "/imagens/vanssapatos1.png"
             },
@@ -1600,6 +1711,7 @@
                 "brand": "Vans",
                 "category": "sapatos",
                 "model": "Vans Rowan Shoes (Black Black White)",
+                "name": "Vans Rowan Shoes",
                 "price": "89.90 EUR",
                 "imgsrc": "/imagens/vanssapatos2.png"
             },
@@ -1608,6 +1720,7 @@
                 "brand": "Vans",
                 "category": "sapatos",
                 "model": "Vans SK8-Low Cont Shoes (White Black)",
+                "name": "Vans SK8-Low Shoes",
                 "price": "79.90 EUR",
                 "imgsrc": "/imagens/vanssapatos3.png"
             },
@@ -1616,6 +1729,7 @@
                 "brand": "Vans",
                 "category": "sapatos",
                 "model": "Vans Kyle Walker Shoes (Overland Trek)",
+                "name": "Vans Kyle Shoes",
                 "price": "94.90 EUR",
                 "imgsrc": "/imagens/vanssapatos4.png"
             },
@@ -1624,6 +1738,7 @@
                 "brand": "Vans",
                 "category": "sapatos",
                 "model": "Vans Rowan Nubuk Shoes (Black)",
+                "name": "Vans Rowan Shoes",
                 "price": "94.90 EUR",
                 "imgsrc": "/imagens/vanssapatos5.png"
             },
@@ -1632,6 +1747,7 @@
                 "brand": "Vans",
                 "category": "sapatos",
                 "model": "Vans Skate Old Skool Breana Shoes (Blue Black)",
+                "name": "Vans Old School Shoes",
                 "price": "89.90 EUR",
                 "imgsrc": "/imagens/vanssapatos6.png"
             },
@@ -1850,6 +1966,7 @@
                 "brand": "Adidas",
                 "category": "roupa",
                 "model": "Adidas Artist G T-Sshirt (Chulky Brown Multicolor)",
+                "name": "Adidas Artist G T-Sshirt ",
                 "price": "32.99 EUR",
                 "imgsrc": "/imagens/adidastshirt1.png"
             },
@@ -1858,6 +1975,7 @@
                 "brand": "Adidas",
                 "category": "roupa",
                 "model": "Adidas Skateboarding X Maxallure Ringer T-Shirt (White Bluebird)",
+                "name": "Adidas Ringer T-Shirt",
                 "price": "44.99 EUR",
                 "imgsrc": "/imagens/adidastshirt2.png"
             },
@@ -1866,6 +1984,7 @@
                 "brand": "Adidas",
                 "category": "roupa",
                 "model": "Adidas G Shmoo T-Shirt (Core White Multicolor)",
+                "name": "Adidas G Shmoo T-Shirt",
                 "price": "32.99 EUR",
                 "imgsrc": "/imagens/adidastshirt3.png"
             },
@@ -1874,6 +1993,7 @@
                 "brand": "Adidas",
                 "category": "roupa",
                 "model": "Adidas Artist G T-Sshirt (White Multicolor II)",
+                "name":"Adidas Artist G T-Sshirt ",
                 "price": "29.99 EUR",
                 "imgsrc": "/imagens/adidastshirt4.png"
             },
@@ -1882,6 +2002,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip W' Chase Oorganic T-Shirt (White Gold)",
+                "name": "Carhartt Wip Organic T-Shirt",
                 "price": "29.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt1.png"
             },
@@ -1890,6 +2011,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip W' Chester T-Shirt (Black)",
+                "name": "Carhartt Wip Chester T-Shirt",
                 "price": "34.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt2.png"
             },
@@ -1898,6 +2020,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip W' Chase Organic T-Shirt (Black)",
+                "name": "Carhartt Wip Organic T-Shirt",
                 "price": "29.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt3.png"
             },
@@ -1906,6 +2029,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Duck Pond T-Shirt (Black)",
+                "name": "Carhartt Wip Duck T-Shirt",
                 "price": "44.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt4.png"
             },
@@ -1914,6 +2038,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Duck Pond T-Shirt (Ale)",
+                "name": "Carhartt Wip Duck T-Shirt",
                 "price": "44.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt5.png"
             },
@@ -1922,6 +2047,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Dream Factory T-Shirt (Black)",
+                "name": "Carhartt Wip Dream T-Shirt",
                 "price": "44.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt6.png"
             },
@@ -1930,6 +2056,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Script T-Shirt (Enzian Misty Sky)",
+                "name": "Carhartt Wip Script T-Shirt",
                 "price": "29.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt7.png"
             },
@@ -1938,6 +2065,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip New Tools T-Shirt (Black)",
+                "name": "Carhartt Wip Tools T-Shirt",
                 "price": "44.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt8.png"
             },
@@ -1946,6 +2074,7 @@
                 "brand": "Carhartt",
                 "category": "roupa",
                 "model": "Carhartt Wip Nice Trip T-Shirt (Black)",
+                "name": "Carhartt Wip Trip T-Shirt",
                 "price": "39.99 EUR",
                 "imgsrc": "/imagens/carhartttshirt9.png"
             },
@@ -1954,6 +2083,7 @@
                     "brand": "Baker",
                     "category": "roupa",
                     "model": "Baker Brand Logo T-Shirt (White)",
+                    "name": "Baker Brand Logo T-Shirt",
                     "price": "39.99 EUR",
                     "imgsrc": "/imagens/bakertshirt1.png"
                 },
@@ -1962,6 +2092,7 @@
                     "brand": "Baker",
                     "category": "roupa",
                     "model": "Baker Brand Logo T-Shirt (Black White)",
+                    "name": "Baker Brand Logo T-Shirt",
                     "price": "29.99 EUR",
                     "imgsrc": "/imagens/bakertshirt2.png"
                 },
@@ -1976,7 +2107,6 @@
             {
                 "id": 264,
                 "brand": "Dickies",
-                "category": "roupa",
                 "model": "DICKIES BROOKSTON BELT (BLACK)",
                 "price": "24.99 EUR",
                 "imgsrc": "/imagens/dickiestshirts2.png"
@@ -2042,6 +2172,7 @@
             "brand": "Adidas",
             "category": "roupa",
             "model": "ADIDAS H SHMOO PANTS (Black White)",
+            "name": "Adidas H Pants",
             "price": "99.99 EUR",
             "imgsrc": "/imagens/adidascalcas1.png"
         },
@@ -2050,6 +2181,7 @@
             "brand": "Adidas",
             "category": "roupa",
             "model": "Adidas Tj Velour Pants (Black Bluebird Matte Gold)",
+            "name": "Adidas Tj Pants",
             "price": "99.99 EUR",
             "imgsrc": "/imagens/adidascalcas2.png"
         },
@@ -2058,6 +2190,7 @@
             "brand": "Adidas",
             "category": "roupa",
             "model": "Adidas Skateboarding X Maxallure Track Slack Pants (Black White)",
+            "name": "Adidas Slack Pants",
             "price": "84.99 EUR",
             "imgsrc": "/imagens/adidascalcas3.png"
         },
@@ -2066,6 +2199,7 @@
             "brand": "Adidas",
             "category": "roupa",
             "model": "Adidas Superfire Tk Pants (Black)",
+            "name": "Adidas Tk Pants",
             "price": "74.99  EUR",
             "imgsrc": "/imagens/adidascalcas4.png"
         },
@@ -2074,6 +2208,7 @@
             "brand": "Antix",
             "category": "roupa",
             "model": "Antix Slack Pants (Washed Olive)",
+            "name": "Antix Slack Pants",
             "price": "79.99 EUR",
             "imgsrc": "/imagens/antixcalcas1.png"
         },
@@ -2082,6 +2217,7 @@
             "brand": "Antix",
             "category": "roupa",
             "model": "Antix Slack Pants (Cement)",
+            "name": "Antix Slack Pants",
             "price": "69.99 EUR",
             "imgsrc": "/imagens/antixcalcas2.png"
         },
@@ -2090,6 +2226,7 @@
             "brand": "Antix",
             "category": "roupa",
             "model": "Antix Slack Cord Cargo Pants (Black) ",
+            "name": "Antix Cargo Pants",
             "price": "79.99 EUR",
             "imgsrc": "/imagens/antixcalcas3.png"
         },
@@ -2098,6 +2235,7 @@
             "brand": "Antix",
             "category": "roupa",
             "model": "Antix Slack Pants (Washed Brown)",
+            "name": "Antix Slack Pants",
             "price": "79.99  EUR",
             "imgsrc": "/imagens/antixcalcas4.png"
         },
@@ -2106,6 +2244,7 @@
             "brand": "Antix",
             "category": "roupa",
             "model": "Antix Slack Pants (Acid Grey)",
+            "name": "Antix Slack Pants",
             "price": "79.99 EUR",
             "imgsrc": "/imagens/antixcalcas5.png"
         },
@@ -2114,6 +2253,7 @@
             "brand": "Carhartt",
             "category": "roupa",
             "model": "Carhartt Wip Reular Cargo Pant Columbia Pants (Buffalo Rinsed)",
+            "name": "Carhartt Wip Reular Pants",
             "price": "119.99 EUR",
             "imgsrc": "/imagens/carharttcalcas1.png"
         },
@@ -2122,6 +2262,7 @@
             "brand": "Carhartt",
             "category": "roupa",
             "model": "Carhartt Wip Newel Pant Maitland Jeans (Blue Stone Washed)",
+            "name": "Carhartt Wip Newel Pants",
             "price": "89.99 EUR",
             "imgsrc": "/imagens/carharttcalcas2.png"
         },
@@ -2130,6 +2271,7 @@
             "brand": "Carhartt",
             "category": "roupa",
             "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Jura Rinsed)",
+            "name": "Carhartt Wip Newel Pants",
             "price": "99.99 EUR",
             "imgsrc": "/imagens/carharttcalcas3.png"
         },
@@ -2138,6 +2280,7 @@
             "brand": "Carhartt",
             "category": "roupa",
             "model": "Carhartt Wip Newel Pant Ford Corduroy Pants (Tamarind Rinsed)",
+            "name": "Carhartt Wip Newel Pants",
             "price": "99.99  EUR",
             "imgsrc": "/imagens/carharttcalcas4.png"
         },
@@ -2146,6 +2289,7 @@
             "brand": "Carhartt",
             "category": "roupa",
             "model": "Carhartt Wip Simple Pant Norco Jeans (Blue Light True Washed)",
+            "name": "Carhartt Wip Simple Pants",
             "price": "109.99 EUR",
             "imgsrc": "/imagens/carharttcalcas5.png"
         },
@@ -2154,6 +2298,7 @@
             "brand": "Carhartt",
             "category": "roupa",
             "model": "Carhartt Wip Wide Panel Pant Marshall Pants (Hamilton Brown Rinsed)",
+            "name": "Carhartt Wip Wide Pants",
             "price": "129.99 EUR",
             "imgsrc": "/imagens/carharttcalcas5.png"
         },
@@ -2162,6 +2307,7 @@
             "brand": "Dickies",
             "category": "roupa",
             "model": "Dickies 874 Work Recycled Pants (Black)",
+            "name": "ickies 874 Work Pants",
             "price": "69.99 EUR",
             "imgsrc": "/imagens/dickiescalcas1.png"
         },
@@ -2170,6 +2316,7 @@
             "brand": "Dickies",
             "category": "roupa",
             "model": "Dickies Double Knee Recycled Pants (Black)",
+            "name": "Dickies Double Knee Pants",
             "price": "74.99 EUR",
             "imgsrc": "/imagens/dickiescalcas2.png"
         },
@@ -2178,6 +2325,7 @@
             "brand": "Dickies",
             "category": "roupa",
             "model": "Dickies Garyville Jeans (Classic Blue)",
+            "name": "Dickies Garyville Jeans",
             "price": "79.99 EUR",
             "imgsrc": "/imagens/dickiescalcas3.png"
         },
@@ -2186,6 +2334,7 @@
             "brand": "Dickies",
             "category": "roupa",
             "model": "Dickies Thomasville Jeans (Vintage Aged Blue)",
+            "name": "Dickies Thomasville Jeans",
             "price": "84.99  EUR",
             "imgsrc": "/imagens/dickiescalcas4.png"
         },
@@ -2194,6 +2343,7 @@
             "brand": "Dickies",
             "category": "roupa",
             "model": "Dickies Double Knee Recycled Pants (Charcoal Grey)",
+            "name": "Dickies Double Knee Pants",
             "price": "69.99 EUR",
             "imgsrc": "/imagens/dickiescalcas5.png"
         },
@@ -2202,6 +2352,7 @@
             "brand": "Dickies",
             "category": "roupa",
             "model": "Dickies Valley Grande Double Knee Pants (Khaki)",
+            "name": "Dickies Valley Grande Pants",
             "price": "79.99 EUR",
             "imgsrc": "/imagens/dickiescalcas5.png"
         },
@@ -2210,6 +2361,7 @@
             "brand": "Nike",
             "category": "roupa",
             "model": "Nike SB Chino Pants (Black)",
+            "name": "Nike SB Chino Pants",
             "price": "89.99 EUR",
             "imgsrc": "/imagens/nikecalcas1.png"
         },
@@ -2218,6 +2370,7 @@
             "brand": "Nike",
             "category": "roupa",
             "model": "Nike SB Kearny Cargo Pants (Black)",
+            "name": "Nike SB Kearny Cargo Pants",
             "price": "89.99 EUR",
             "imgsrc": "/imagens/nikecalcas2.png"
         },
@@ -2226,6 +2379,7 @@
             "brand": "Nike",
             "category": "roupa",
             "model": "Nike SB Lab Pants (Black White)",
+            "name": "Nike SB Lab Pants",
             "price": "74.99 EUR",
             "imgsrc": "/imagens/nikecalcas3.png"
         },
@@ -2234,6 +2388,7 @@
             "brand": "Nike",
             "category": "roupa",
             "model": "Nike SB Lab Pants (Dark Grey Heather)",
+            "name": "Nike SB Lab Pants",
             "price": "74.99  EUR",
             "imgsrc": "/imagens/nikecalcas4.png"
         },
@@ -2242,6 +2397,7 @@
             "brand": "Nike",
             "category": "roupa",
             "model": "Nike SB Kearny Cargo Pants (Dark Driftwood)",
+            "name": "Nike SB Kearny Cargo Pant",
             "price": "89.99 EUR",
             "imgsrc": "/imagens/nikecalcas5.png"
         },
@@ -2250,6 +2406,7 @@
             "brand": "Nike",
             "category": "roupa",
             "model": "Nike SB Kearny Cargo Pants (Medium Olive)",
+            "name": "Nike SB Kearny Cargo Pants",
             "price": "89.99 EUR",
             "imgsrc": "/imagens/nikecalcas5.png"
         },
@@ -2258,6 +2415,7 @@
             "brand": "Polar",
             "category": "roupa",
             "model": "Polar Surf Pants (Black)",
+            "name": "Polar Surf Pants",
             "price": "89.99 EUR",
             "imgsrc": "/imagens/polarcalcas1.png"
         },
@@ -2266,6 +2424,7 @@
             "brand": "Polar",
             "category": "roupa",
             "model": "Polar 93 Denim Jeans (Light Blue)",
+            "name": "Polar 93 Denim Jeans",
             "price": "119.99 EUR",
             "imgsrc": "/imagens/polarcalcas2.png"
         },
@@ -2274,6 +2433,7 @@
             "brand": "Polar",
             "category": "roupa",
             "model": "Polar Railway Pants (Navy)",
+            "name": "Polar Railway Pants",
             "price": "124.99 EUR",
             "imgsrc": "/imagens/polarcalcas3.png"
         },
@@ -2282,6 +2442,7 @@
             "brand": "Polar",
             "category": "roupa",
             "model": "Polar 92 Denim Jeans (Light Blue)",
+            "name": "Polar 92 Denim Jeans",
             "price": "114.99  EUR",
             "imgsrc": "/imagens/polarcalcas4.png"
         },
@@ -2290,6 +2451,7 @@
             "brand": "Polar",
             "category": "roupa",
             "model": "Polar Utility Pants (Black)",
+            "name": "Polar Utility Pants",
             "price": "119.99 EUR",
             "imgsrc": "/imagens/polarcalcas5.png"
         },
@@ -2298,6 +2460,7 @@
             "brand": "Polar",
             "category": "roupa",
             "model": "Polar Utility Pants (Khaki)",
+            "name": "Polar Utility Pants",
             "price": "124.99 EUR",
             "imgsrc": "/imagens/polarcalcas6.png"
         }
