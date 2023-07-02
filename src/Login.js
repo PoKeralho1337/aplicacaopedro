@@ -5,23 +5,50 @@ import React, { useState, useEffect } from 'react';
 function Login() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [isLoggedIn, setIsLoggedIn] = useState(false); // Estado para controlar se o usuário está logado
 
-  //useEffect(() => {
-    //if (localStorage.getItem('isLoggedIn') === 'true') {
-      //window.location.href = '/';
-    //}
- // }, []);
+  useEffect(() => {
+    if (localStorage.getItem('isLoggedIn') === 'true') {
+      setIsLoggedIn(true);
+    }
+  }, []);
 
   const handleLogin = (event) => {
     event.preventDefault();
 
     if (username === localStorage.getItem('username') && password === localStorage.getItem('password')) {
       localStorage.setItem('isLoggedIn', 'true');
-      window.location.href = '/Home';
+      setIsLoggedIn(true);
     } else {
       alert('Nome de usuário ou senha inválidos');
     }
   };
+
+  const handleLogout = () => {
+    localStorage.setItem('isLoggedIn', 'false');
+    setIsLoggedIn(false);
+  };
+
+  if (isLoggedIn) {
+    return (
+      <div className="App">
+        <header className="App-header">
+          <div className="center-container">
+            <div className="center-text">
+              <h1>Bem-vindo, {localStorage.getItem('username')}!</h1>
+            </div>
+            <div className="center-button">
+              <button onClick={handleLogout} className="red-button">
+                Logout
+              </button>
+            </div>
+          </div>
+        </header>
+        <footer></footer>
+      </div>
+    );
+  }
+  
 
   return (
     <div className="App">

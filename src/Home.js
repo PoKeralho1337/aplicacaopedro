@@ -80,15 +80,6 @@ function Home() {
 
   return (
     <div className="">
-      <header className="App-header">
-        <link rel="stylesheet"
-          href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
-        <link rel='preconnect'
-          href='https://fonts.googleapis.com' />
-        <link rel='preconnect'
-          href='https://fonts.gstatic.com' crossorigin />
-        <link href='https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap' rel="stylesheet" />
-      </header>
       <body class="corfundo">
         <section ref={(el) => (sectionsRef.current[0] = el)} className="home fade-in">
           <div class="circle"></div>

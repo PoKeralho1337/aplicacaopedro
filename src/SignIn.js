@@ -20,14 +20,14 @@ function SignIn() {
 
   return (
     <div className="App">
-      <header className="App-header"></header>
+           <header className="App-header"></header>
       <body className="App-body fundo">
         <section className="area-login">
           <div className="signin">
             <div>
               <img src="/imagens/EspoSkate.png"></img>
             </div>
-            {!isAccountCreated ? (
+            {!isAccountCreated && ( // Verifica se a conta não foi criada
               <div>
                 <form onSubmit={handleSignUp}>
                   <input
@@ -55,7 +55,8 @@ function SignIn() {
                   <input type="submit" value="Criar Conta" />
                 </form>
               </div>
-            ) : (
+            )}
+            {isAccountCreated && ( 
               <div>
                 <h2>Conta Criada!</h2>
                 <p>Sua conta foi criada com sucesso.</p>
@@ -63,9 +64,11 @@ function SignIn() {
                 <a href="/login">Ir para a página de login</a>
               </div>
             )}
-            <p>
-              Já tem conta?<a href="/login">Fazer Login</a>
-            </p>
+            {!isAccountCreated && ( 
+              <p>
+                Já tem conta?<a href="/login">Fazer Login</a>
+              </p>
+            )}
           </div>
         </section>
                 <section class="contact">
