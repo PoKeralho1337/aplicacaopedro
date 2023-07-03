@@ -11,8 +11,7 @@ function Checkout() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Aqui você pode fazer algo com os dados do formulário, como enviá-los para o servidor ou salvá-los localmente.
-    // Por exemplo:
+
     console.log('Dados do formulário:', { cardNumber, cardHolderName, expiryDate, cvv, address, phoneNumber, email });
     // Redirecionar ou realizar outras ações necessárias após o envio do formulário.
   };
@@ -102,7 +101,7 @@ function Checkout() {
       </form>
       <section class="contact">
         <div class="contact-info">
-          {/* Renderiza as informações de contato */}
+ 
           <div class="first-info">
             <img src='/imagens/EspoSkate.png' alt="Logo" /> <br />
             <a href='https://www.google.com/maps/place/C%C3%A2mara+Municipal+de+Esposende/@41.5314358,-8.7801767,18.96z/data=!4m14!1m7!3m6!1s0xd244bba6d8c44a1:0xd3bfe8a5d9eb0d42!2sC%C3%A2mara+Municipal+de+Esposende!8m2!3d41.531351!4d-8.7806344!16s%2Fg%2F1tfjmdhm!3m5!1s0xd244bba6d8c44a1:0xd3bfe8a5d9eb0d42!8m2!3d41.531351!4d-8.7806344!16s%2Fg%2F1tfjmdhm'>Praça do Município,<br />4740-223 Esposende</a>
@@ -114,14 +113,14 @@ function Checkout() {
               <a href="https://twitter.com/EsposendeSkate"><i class='bx bxl-twitter'></i></a>
             </div>
           </div>
-          {/* Renderiza as informações de suporte */}
+  
           <div class="second-info">
             <h4>Suporte</h4>
             <a href='./Contact'>Contacta-nos</a>
             <p> </p>
             <a href='./Privacidade'>Privacidade</a>
           </div>
-          {/* Renderiza as informações da empresa */}
+
           <div class="fourth-info">
             <h4>Empresa</h4>
             <a href='./AboutUs'>Sobre</a>

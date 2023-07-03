@@ -27,7 +27,7 @@ function SignIn() {
             <div>
               <img src="/imagens/EspoSkate.png"></img>
             </div>
-            {!isAccountCreated && ( // Verifica se a conta não foi criada
+            {!isAccountCreated && ( 
               <div>
                 <form onSubmit={handleSignUp}>
                   <input

@@ -5,7 +5,7 @@ import React, { useState, useEffect } from 'react';
 function Login() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
-  const [isLoggedIn, setIsLoggedIn] = useState(false); // Estado para controlar se o usuário está logado
+  const [isLoggedIn, setIsLoggedIn] = useState(false); 
 
   useEffect(() => {
     if (localStorage.getItem('isLoggedIn') === 'true') {

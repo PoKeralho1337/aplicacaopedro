@@ -69,7 +69,7 @@ function Carrinho() {
   };
 
   const handleCheckout = () => {
-    // Implemente a funcionalidade de checkout aqui
+    
   };
 
   return (
