@@ -794,3 +794,13 @@ section{
   margin-top: 10px;
   text-align: center;
 }
+
+.cart-item-price .price-and-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-item-price .price-and-button .remove-button {
+  margin-left: 10px;
+}

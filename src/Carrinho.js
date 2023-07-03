@@ -36,10 +36,16 @@ function Carrinho() {
         <td className="cart-item-size">Tamanho: {item.size}</td>
         <td className="cart-item-quantity">{item.quantity}</td>
         <td className="cart-item-price">
-          {item.price}
-          <Button variant="danger" onClick={() => handleRemoveItem(item.id)} className="remove-button">
-            Remover
-          </Button>
+          <div className="price-and-button">
+            <span>{item.price}</span>
+            <Button
+              variant="danger"
+              onClick={() => handleRemoveItem(item.id)}
+              className="remove-button"
+            >
+              Remover
+            </Button>
+          </div>
         </td>
       </tr>
     ));
@@ -64,50 +70,54 @@ function Carrinho() {
 
   return (
     <div>
-    <div className="cart-container">
-      <div className="cart-items">
-      <div class="center-text">
-        <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span>Compras</span></h1>
-      </div>
-        {items.length > 0 ? (
-          <table className="cart-items-table">
-            <thead>
-              <tr>
-                <th>Imagem</th>
-                <th>Nome</th>
-                <th>Tamanho</th>
-                <th>Quantidade</th>
-                <th>Preço</th>
-              </tr>
-            </thead>
-            <tbody>
-              {renderCartItems()}
-            </tbody>
-          </table>
-        ) : (
-          <h1 className="empty-cart-message">O carrinho está vazio.</h1>
-        )}
-      </div>
-      <div className="cart-summary">
-        <div className="cart-summary-details">
-          <div className="cart-summary-item">
-            <span>Quantidade de Produtos:</span>
-            <span>{calculateTotalQuantity()}</span>
+      <div className="cart-container">
+        <div className="cart-items">
+          <div className="center-text">
+            <h1 style={{ textTransform: 'uppercase' }}>Carrinho de<span> Compras</span></h1>
           </div>
-          <div className="cart-summary-item">
-            <span>Total a Pagar:</span>
-            <span className="cart-item-price">
-              {calculateTotalPrice()}
-            </span>
-          </div>
+          {items.length > 0 ? (
+            <table className="cart-items-table">
+              <thead>
+                <tr>
+                  <th>Imagem</th>
+                  <th>Nome</th>
+                  <th>Tamanho</th>
+                  <th>Quantidade</th>
+                  <th>Preço</th>
+                </tr>
+              </thead>
+              <tbody>
+                {renderCartItems()}
+              </tbody>
+            </table>
+          ) : (
+            <h1 className="empty-cart-message">O carrinho está vazio.</h1>
+          )}
         </div>
-        {items.length > 0 && (
-          <Button variant="danger" onClick={handleClearCart} className="clear-cart-button">
-            Limpar Carrinho
-          </Button>
-        )}
+        <div className="cart-summary">
+          <div className="cart-summary-details">
+            <div className="cart-summary-item">
+              <span>Quantidade de Produtos:</span>
+              <span>{calculateTotalQuantity()}</span>
+            </div>
+            <div className="cart-summary-item">
+              <span>Total a Pagar:</span>
+              <span className="cart-item-price">
+                {calculateTotalPrice()}
+              </span>
+            </div>
+          </div>
+          {items.length > 0 && (
+            <Button
+              variant="danger"
+              onClick={handleClearCart}
+              className="clear-cart-button"
+            >
+              Limpar Carrinho
+            </Button>
+          )}
+        </div>
       </div>
-    </div>
     <section class="contact">
           <div class="contact-info">
             <div class="first-info">

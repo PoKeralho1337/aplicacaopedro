@@ -5,6 +5,7 @@ import Button from 'react-bootstrap/Button';
 import TabuasData from './Tabuas.json';
 
 function Calcoes() {
+  
   var data = require('./Calcoes.json');
 
   return (
