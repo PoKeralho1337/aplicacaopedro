@@ -47,6 +47,7 @@ import AffiliatePage from './Affiliate';
 import React, { useState, useEffect } from 'react';
 import ProductDetails from './Produto';
 import UserPage from './User';
+import Checkout from './Checkout';
 
 function App() {
   return (
@@ -212,6 +213,7 @@ function App() {
         <Route path='/Ferramentas/:categoryId' element={<Ferramentas />} />
         <Route path="/Produto/:id" element={<ProductDetails />} />
         <Route path="/User" element={<UserPage/>} />
+        <Route path="/Checkout" element={<Checkout/>} />
       </Routes>
 
     </div>
