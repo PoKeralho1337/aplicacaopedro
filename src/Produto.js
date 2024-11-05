@@ -74,9 +74,9 @@ function ProductDetails() {
     return (
       <div className="corfundo">
         <section>
-          <div className="center-text">
-            <h1 style={{ textTransform: 'uppercase' }}>Outros <span>Produtos</span></h1>
-          </div>
+        <div className="center-text mb-4">
+          <h1 style={{ textTransform: 'uppercase' }}>Outros <span>Produtos</span></h1>
+        </div>
           <div className="produtos-list">
             {/* Mapeia os produtos aleatórios e exibe suas informações */}
             {produtosAleatorios.map(produto => (
@@ -221,7 +221,6 @@ function ProductDetails() {
           </Col>
         </Row>
       </div>
-      {/* Renderiza a seção de outros produtos */}
       <div className="outros-produtos-container">
         {renderOutrosProdutos()}
       </div>

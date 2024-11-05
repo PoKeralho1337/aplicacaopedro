@@ -85,8 +85,8 @@ function Home() {
           <div class="circle"></div>
           <div class="home-text">
             <span>Bem-Vindo Ao</span>
-            <h1>EspoSkate</h1>
-            <h2>Melhor Loja Online<br></br>De Skates</h2>
+            <h1>The Sharing</h1>
+            <h2>Melhor Site Online<br></br>De Troca De Roupa</h2>
             <a href='/Login' className="my-btn">Continuar</a>
           </div>
           <div class="home-img">

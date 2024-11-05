@@ -59,7 +59,7 @@ function AboutPage() {
     <div className='corfundo'>
       <section ref={(el) => (sectionsRef.current[0] = el)} className="trending-product fade-in">
         <div className="center-text">
-          <h1>About Our Company</h1>
+          <h1>Sobre A Nossa Empresa</h1>
           <p>
             Bem-vindo à nossa empresa, a EspoSkate! Somos uma loja apaixonada por skate e roupas de skate, com sede em Esposende. Embora nossa jornada tenha começado há menos de um ano, estamos empenhados em oferecer aos nossos clientes a melhor seleção de produtos de skate, garantindo a qualidade e o estilo que os skatistas procuram.</p>
           <p>

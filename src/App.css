@@ -4,7 +4,7 @@
 
 
 :root{
-  --main-color:rgb(255, 0, 0);
+  --main-color:rgb(49, 138, 156);
   --second-color: rgb(0, 0, 0);
 }
 
@@ -484,6 +484,7 @@ section{
     justify-content: center;
     align-items: center;
     min-height: 70vh;
+    margin-bottom: 30px; 
     background-color:  rgb(246, 246, 246);
   }
   
@@ -883,6 +884,6 @@ input {
   color: rgb(196, 2, 2); 
 }
 
-.contact {
-  margin-top: 20px; 
-}
+  .mb-4{
+    margin-bottom: 20px;
+  }

@@ -58,7 +58,7 @@ function App() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link as={Link} to='/'><img src='/imagens/EspoSkate.png' width="240" heigh='240' ></img></Nav.Link>
+                <Nav.Link as={Link} to='/'><img src='/imagens/LogoRoupa.png' width="100" heigh='100' ></img></Nav.Link>
                 <NavDropdown title="SkateBoard" id="collasible-nav-dropdown" className="custom-toggle" noCaret>
                 <NavDropdown.Item href="/Tabuas">
                   <div>
@@ -153,7 +153,6 @@ function App() {
               </Nav>
               <Nav>
               <Nav.Link as={Link} to='/Login'><i class='bx bx-user'></i></Nav.Link>
-              <Nav.Link as={Link} to='/Carrinho'><i class='bx bx-cart'></i></Nav.Link>
               </Nav>
             </Navbar.Collapse>
         </Navbar>
